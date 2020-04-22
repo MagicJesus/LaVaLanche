@@ -24,14 +24,14 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         palette.setBrush(QPalette.Window, QBrush(oimage))
         self.setPalette(palette)
 
-    def draw_map_link_buttons(self): # uzywajac button_map.txt jakos te przyciski naloze na mapke :P
+    def draw_map_link_buttons(self):
         counter = 0  # zmienna do sprawdzenia czy kazdy guzik ma inna funkcjonalnosc
-        initial_y_coord = 48  # poczatkowa pozycja guziczkow w pionie
+        initial_y_coord = 47  # poczatkowa pozycja przycisków w pionie
         button_width = 21
         button_height = 22
         with open("button_map.txt") as buttonmap:
             for line in buttonmap:
-                initial_x_coord = 47  # poczatkowa pozycja w poziomie
+                initial_x_coord = 44  # poczatkowa pozycja w poziomie
                 for ch in line:
                     if ch == "0":  # jak 0 to skocz do nastepnego miejsca
                         initial_x_coord += button_width + 1
@@ -39,11 +39,11 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
                     elif ch == "1": # jak 1 to stworz guzik
                         button = QPushButton(self)
                         risk_level = randint(0, 4)
-                        button.setText("B")
+                        # button.setText("B")
                         self.risk_color(risk_level, button)
                         button.setGeometry(initial_x_coord, initial_y_coord, button_width, button_height)
-                        button.clicked.connect(lambda checked, arg=counter: print(arg))  # rozwiazanie ze Stacka
-                        # tutaj do kazdego guziczka przypiszemy funkcję calculate_risk, ktora dodatkowo
+                        button.clicked.connect(lambda checked, arg=counter: print(arg))
+                        # tutaj do kazdego przycisku przypiszemy funkcję calculate_risk, ktora dodatkowo
                         # wyswietli okienko z detalami dot, danego obszaru
                         counter = counter + 1
                         initial_x_coord = initial_x_coord + button_width + 1
@@ -51,7 +51,7 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
                     elif '\n' in ch:
                         continue
 
-                initial_y_coord = initial_y_coord + button_height + 1
+                initial_y_coord = initial_y_coord + button_height + 2
     # jakbyś miał jakiś rewolucyjny pomysł zeby te guziki lepiej nakladaly sie na te kwadraciki to zapraszam
     # ja jak na razie nie mam pojecia jak to zrobic bo te piksele sa nieregularnie poukladane i sa rozne odstepy
     # mozna by zrobic tak zeby przeanalizowac piksele i zobaczyc kiedy trzeba zrobic wiekszy a kiedy mniejszy skok
@@ -59,15 +59,15 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
 
     def risk_color(self, risk_level, button):
         if risk_level == 0:
-            button.setStyleSheet("QPushButton{background:green}")
+            button.setStyleSheet("QPushButton{background:rgba(76, 175, 80, 0.4)}")
         elif risk_level == 1:
-            button.setStyleSheet("QPushButton{background:yellow}")
+            button.setStyleSheet("QPushButton{background:rgba(255, 255, 0, 0.4)}")
         elif risk_level == 2:
-            button.setStyleSheet("QPushButton{background:orange}")
+            button.setStyleSheet("QPushButton{background:rgba(255, 127, 0, 0.4)}")
         elif risk_level == 3:
-            button.setStyleSheet("QPushButton{background:red}")
+            button.setStyleSheet("QPushButton{background:rgba(255, 0, 0, 0.4)}")
         elif risk_level == 4:
-            button.setStyleSheet("QPushButton{background:black}")
+            button.setStyleSheet("QPushButton{background:rgba(0, 0, 0, 0.4)}")
 
 class MainWindow(QMainWindow): # klasa reprezentujaca glowne okno aplikacji
     def __init__(self):
