@@ -1,6 +1,7 @@
 import os
 import sys
 
+from random import randint
 from PyQt5 import QtWidgets
 from PyQt5.QtCore import QSize
 from PyQt5.QtGui import QImage, QPalette, QBrush, QFont
@@ -10,10 +11,11 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton
 class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której beda odnośniki do każdej z map
     def __init__(self):
         super(MapWindow, self).__init__()
-        # self.buttons =
+        self.buttons = []
         self.setGeometry(600, 600, 753, 454)
         self.setWindowTitle("LaVaLanche")
         self.set_image(os.path.join('images', 'tlo.png'))
+        self.draw_map_link_buttons()
 
     def set_image(self, img_path):
         oimage = QImage(img_path)
@@ -22,20 +24,51 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         palette.setBrush(QPalette.Window, QBrush(oimage))
         self.setPalette(palette)
 
-    # def draw_map_link_buttons(self): # uzywajac button_map.txt jakos te przyciski naloze na mapke :P
-    #     initial_y_coord = 80
-    #     button_width = 21
-    #     button_height = 22
-    #     with open("button_map.txt") as buttonmap:
-    #         for line in buttonmap:
-    #             linia = line
-    #             for ch in linia:
-    #                 initial_x_coord = 80
-    #                 if ch == "0": #jak 0 to skocz do nastepnego miejsca
-    #                     initial_x_coord += button_width + 1
-    #                     continue
-    #                 elif ch == "1": #jak 1 to stworz guzik
+    def draw_map_link_buttons(self): # uzywajac button_map.txt jakos te przyciski naloze na mapke :P
+        counter = 0  # zmienna do sprawdzenia czy kazdy guzik ma inna funkcjonalnosc
+        initial_y_coord = 48  # poczatkowa pozycja guziczkow w pionie
+        button_width = 21
+        button_height = 22
+        with open("button_map.txt") as buttonmap:
+            for line in buttonmap:
+                initial_x_coord = 47  # poczatkowa pozycja w poziomie
+                for ch in line:
+                    if ch == "0":  # jak 0 to skocz do nastepnego miejsca
+                        initial_x_coord += button_width + 1
+                        continue
+                    elif ch == "1": # jak 1 to stworz guzik
+                        button = QPushButton(self)
+                        risk_level = randint(0, 4)
+                        button.setText("B")
+                        self.risk_color(risk_level, button)
+                        button.setGeometry(initial_x_coord, initial_y_coord, button_width, button_height)
+                        button.clicked.connect(lambda checked, arg=counter: print(arg))  # rozwiazanie ze Stacka
+                        # tutaj do kazdego guziczka przypiszemy funkcję calculate_risk, ktora dodatkowo
+                        # wyswietli okienko z detalami dot, danego obszaru
+                        counter = counter + 1
+                        initial_x_coord = initial_x_coord + button_width + 1
+                        continue
+                    elif '\n' in ch:
+                        continue
 
+                initial_y_coord = initial_y_coord + button_height + 1
+    # jakbyś miał jakiś rewolucyjny pomysł zeby te guziki lepiej nakladaly sie na te kwadraciki to zapraszam
+    # ja jak na razie nie mam pojecia jak to zrobic bo te piksele sa nieregularnie poukladane i sa rozne odstepy
+    # mozna by zrobic tak zeby przeanalizowac piksele i zobaczyc kiedy trzeba zrobic wiekszy a kiedy mniejszy skok
+    # ale to chyba na razie jest kompletnie nie potrzebne, zajmijmy się tęgimi sprawami obliczania ryzyka :)
+
+    def risk_color(self, risk_level, button):
+        print("risk level: ", risk_level)
+        if risk_level == 0:
+            button.setStyleSheet("QPushButton{background:green}")
+        elif risk_level == 1:
+            button.setStyleSheet("QPushButton{background:yellow}")
+        elif risk_level == 2:
+            button.setStyleSheet("QPushButton{background:orange}")
+        elif risk_level == 3:
+            button.setStyleSheet("QPushButton{background:red}")
+        elif risk_level == 4:
+            button.setStyleSheet("QPushButton{background:black}")
 
 class MainWindow(QMainWindow): # klasa reprezentujaca glowne okno aplikacji
     def __init__(self):
