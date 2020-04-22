@@ -58,7 +58,6 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
     # ale to chyba na razie jest kompletnie nie potrzebne, zajmijmy się tęgimi sprawami obliczania ryzyka :)
 
     def risk_color(self, risk_level, button):
-        print("risk level: ", risk_level)
         if risk_level == 0:
             button.setStyleSheet("QPushButton{background:green}")
         elif risk_level == 1:
