@@ -1,25 +1,29 @@
 import os
 
-directory = "D:\\Mapy Tatr\\A" # Ty na linusie to trzeba będzi zmieniać ścieżeczki :(
+directory = "data\\maps_sequence.txt" # Ty na linusie to trzeba będzi zmieniać ścieżeczki :(
 button_map = "button_map.txt"
 
-for filename in os.listdir(directory):
-    if filename.endswith(".las"):
-        #print(filename)
-        continue
-    else:
-        continue
+# for filename in os.listdir(directory):
+#     if filename.endswith(".las"):
+#         #print(filename)
+#         continue
+#     else:
+#         continue
 
-with open(button_map) as buttonmap:
-     for line in buttonmap:
-        linia = line
-        for ch in linia:
-            if ch == "1":
-                print("gu ", end='')
-            elif '\n' in ch:
-                print('')
-            elif ch == "0":
-                print("no ", end='')
+# with open(button_map) as buttonmap:
+#      for line in buttonmap:
+#         linia = line
+#         for ch in linia:
+#             if ch == "1":
+#                 print("gu ", end='')
+#             elif '\n' in ch:
+#                 print('')
+#             elif ch == "0":
+#                 print("no ", end='')
+
+mapki = open(directory)
+for line in mapki:
+    print(line.rstrip(), end=".las\n")
 
 
         # for ch in line:
