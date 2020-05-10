@@ -20,7 +20,5 @@ def scrap_coordinates(my_url):
 
     print(coordinates)
     u_client.close()
-    return coordinates
+    return
 
-
-scrap_coordinates("https://pzgik.geoportal.gov.pl/semantic-metadata/orto/dataset/8a73a08f-1768-11e6-ae06-b870f44b6730?fbclid=IwAR2qs4oGezFVmnrVkMHIZ95-HfIeK5pheoDKd6gLKn2-MSz9T9nUBMDcVjY")

@@ -2,7 +2,7 @@ import os
 import sys
 
 from random import randint
-from firstlas import extract_data
+from las_processing import extract_data
 from PyQt5 import QtWidgets
 from PyQt5.QtCore import QSize
 from PyQt5.QtGui import QImage, QPalette, QBrush, QFont
@@ -17,7 +17,7 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         self.setGeometry(600, 600, 753, 454)
         self.setFixedSize(753, 454)
         self.setWindowTitle("LaVaLanche")
-        self.set_image(os.path.join('images', 'tlo.png'))
+        self.set_image("..\\images\\tlo.png")
         self.draw_map_link_buttons()
 
     def set_image(self, img_path):
@@ -32,8 +32,8 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         initial_y_coord = 47  # poczatkowa pozycja przycisków w pionie
         button_width = 21
         button_height = 22
-        with open("data\\button_map.txt") as buttonmap:
-            nazwy_map = open("data\\maps_sequence.txt")
+        with open("C:\\Users\\Neega\\Documents\\GitHub\\LaVaLanche\\data\\button_map.txt") as buttonmap:
+            nazwy_map = open("C:\\Users\\Neega\\Documents\\GitHub\\LaVaLanche\\data\\maps_sequence.txt")
             for line in buttonmap:
                 initial_x_coord = 44  # poczatkowa pozycja w poziomie
                 for ch in line:
@@ -79,7 +79,7 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         details.show()
 
 
-class MainWindow(QMainWindow): # klasa reprezentujaca glowne okno aplikacji
+class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
     def __init__(self):
         super(MainWindow, self).__init__()
         self.setGeometry(500, 500, 753, 454)
@@ -88,6 +88,7 @@ class MainWindow(QMainWindow): # klasa reprezentujaca glowne okno aplikacji
         self.dialogs = list()
         self.draw_labels()
         self.draw_buttons()
+        self.set_image("C:\\Users\\Neega\\Documents\\GitHub\\LaVaLanche\\images\\main_bg.jpg")
         self.show()
 
     def draw_buttons(self):
@@ -132,7 +133,6 @@ class DetailWindow(QMainWindow):
 
         self.map_data = extract_data(map_name.rstrip() + ".las")  # funkcja uzywajaca laspy do otwarcia mapy
         print(self.map_data)
-
         self.label = QLabel(self)
         self.label.setText("Sczegóły ryzyka dla: " + map_name.rstrip())
         self.label.setGeometry(20, 20, 300, 20)
@@ -142,5 +142,4 @@ class DetailWindow(QMainWindow):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     mainwindow = MainWindow()
-    mainwindow.set_image(os.path.join('images', 'main_bg.jpg'))
     sys.exit(app.exec_())
