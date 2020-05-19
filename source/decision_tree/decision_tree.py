@@ -1,42 +1,11 @@
-"""Code to accompany Machine Learning Recipes #8.
+f = open("artif_data.txt", "r")
+training_data = [line.rstrip().split(',') for line in f]
 
-We'll write a Decision Tree Classifier, in pure Python.
-"""
-
-# For Python 2 / 3 compatability
-from __future__ import print_function
-
-# Toy dataset.
-# Format: each row is an example.
-# The last column is the label.
-# The first two columns are features.
-# Feel free to play with it by adding more features & examples.
-# Interesting note: I've written this so the 2nd and 5th examples
-# have the same features, but different labels - so we can see how the
-# tree handles this case.
-training_data = [
-    ['Green', 3, 'Apple'],
-    ['Yellow', 3, 'Apple'],
-    ['Red', 1, 'Grape'],
-    ['Red', 1, 'Grape'],
-    ['Yellow', 3, 'Lemon'],
-]
-
-# Column labels.
-# These are used only to print the tree.
-header = ["color", "diameter", "label"]
-
+header = training_data.pop(0)
 
 def unique_vals(rows, col):
     """Find the unique values for a column in a dataset."""
     return set([row[col] for row in rows])
-
-#######
-# Demo:
-# unique_vals(training_data, 0)
-# unique_vals(training_data, 1)
-#######
-
 
 def class_counts(rows):
     """Counts the number of each type of example in a dataset."""
@@ -49,22 +18,9 @@ def class_counts(rows):
         counts[label] += 1
     return counts
 
-#######
-# Demo:
-# class_counts(training_data)
-#######
-
-
 def is_numeric(value):
     """Test if a value is numeric."""
     return isinstance(value, int) or isinstance(value, float)
-
-#######
-# Demo:
-# is_numeric(7)
-# is_numeric("Red")
-#######
-
 
 class Question:
     """A Question is used to partition a dataset.
@@ -89,26 +45,15 @@ class Question:
             return val == self.value
 
     def __repr__(self):
+        if self.value == 'True':
+            danger = "INCREASING DANGER"
+        else:
+            danger = "DECREASING DANGER"
         # This is just a helper method to print
         # the question in a readable format.
-        condition = "=="
-        if is_numeric(self.value):
-            condition = ">="
-        return "Is %s %s %s?" % (
-            header[self.column], condition, str(self.value))
 
-#######
-# Demo:
-# Let's write a question for a numeric attribute
-# Question(1, 3)
-# How about one for a categorical attribute
-# q = Question(0, 'Green')
-# Let's pick an example from the training set...
-# example = training_data[0]
-# ... and see if it matches the question
-# q.match(example)
-#######
-
+        return "Is %s %s?" % (
+            header[self.column], danger)
 
 def partition(rows, question):
     """Partitions a dataset.
@@ -117,23 +62,14 @@ def partition(rows, question):
     so, add it to 'true rows', otherwise, add it to 'false rows'.
     """
     true_rows, false_rows = [], []
+
     for row in rows:
         if question.match(row):
             true_rows.append(row)
         else:
             false_rows.append(row)
+
     return true_rows, false_rows
-
-
-#######
-# Demo:
-# Let's partition the training data based on whether rows are Red.
-# true_rows, false_rows = partition(training_data, Question(0, 'Red'))
-# This will contain all the 'Red' rows.
-# true_rows
-# This will contain everything else.
-# false_rows
-#######
 
 def gini(rows):
     """Calculate the Gini Impurity for a list of rows.
@@ -149,34 +85,6 @@ def gini(rows):
         impurity -= prob_of_lbl**2
     return impurity
 
-
-#######
-# Demo:
-# Let's look at some example to understand how Gini Impurity works.
-#
-# First, we'll look at a dataset with no mixing.
-# no_mixing = [['Apple'],
-#              ['Apple']]
-# this will return 0
-# gini(no_mixing)
-#
-# Now, we'll look at dataset with a 50:50 apples:oranges ratio
-# some_mixing = [['Apple'],
-#               ['Orange']]
-# this will return 0.5 - meaning, there's a 50% chance of misclassifying
-# a random example we draw from the dataset.
-# gini(some_mixing)
-#
-# Now, we'll look at a dataset with many different labels
-# lots_of_mixing = [['Apple'],
-#                  ['Orange'],
-#                  ['Grape'],
-#                  ['Grapefruit'],
-#                  ['Blueberry']]
-# This will return 0.8
-# gini(lots_of_mixing)
-#######
-
 def info_gain(left, right, current_uncertainty):
     """Information Gain.
 
@@ -185,41 +93,6 @@ def info_gain(left, right, current_uncertainty):
     """
     p = float(len(left)) / (len(left) + len(right))
     return current_uncertainty - p * gini(left) - (1 - p) * gini(right)
-
-#######
-# Demo:
-# Calculate the uncertainy of our training data.
-# current_uncertainty = gini(training_data)
-#
-# How much information do we gain by partioning on 'Green'?
-# true_rows, false_rows = partition(training_data, Question(0, 'Green'))
-# info_gain(true_rows, false_rows, current_uncertainty)
-#
-# What about if we partioned on 'Red' instead?
-# true_rows, false_rows = partition(training_data, Question(0,'Red'))
-# info_gain(true_rows, false_rows, current_uncertainty)
-#
-# It looks like we learned more using 'Red' (0.37), than 'Green' (0.14).
-# Why? Look at the different splits that result, and see which one
-# looks more 'unmixed' to you.
-# true_rows, false_rows = partition(training_data, Question(0,'Red'))
-#
-# Here, the true_rows contain only 'Grapes'.
-# true_rows
-#
-# And the false rows contain two types of fruit. Not too bad.
-# false_rows
-#
-# On the other hand, partitioning by Green doesn't help so much.
-# true_rows, false_rows = partition(training_data, Question(0,'Green'))
-#
-# We've isolated one apple in the true rows.
-# true_rows
-#
-# But, the false-rows are badly mixed up.
-# false_rows
-#######
-
 
 def find_best_split(rows):
     """Find the best question to ask by iterating over every feature / value
@@ -256,14 +129,6 @@ def find_best_split(rows):
 
     return best_gain, best_question
 
-#######
-# Demo:
-# Find the best question to ask first for our toy dataset.
-# best_gain, best_question = find_best_split(training_data)
-# FYI: is color == Red is just as good. See the note in the code above
-# where I used '>='.
-#######
-
 class Leaf:
     """A Leaf node classifies data.
 
@@ -273,7 +138,6 @@ class Leaf:
 
     def __init__(self, rows):
         self.predictions = class_counts(rows)
-
 
 class Decision_Node:
     """A Decision Node asks a question.
@@ -288,7 +152,6 @@ class Decision_Node:
         self.question = question
         self.true_branch = true_branch
         self.false_branch = false_branch
-
 
 def build_tree(rows):
     """Builds the tree.
@@ -325,7 +188,6 @@ def build_tree(rows):
     # dependingo on the answer.
     return Decision_Node(question, true_branch, false_branch)
 
-
 def print_tree(node, spacing=""):
     """World's most elegant tree printing function."""
 
@@ -345,72 +207,5 @@ def print_tree(node, spacing=""):
     print (spacing + '--> False:')
     print_tree(node.false_branch, spacing + "  ")
 
-
-def classify(row, node):
-    """See the 'rules of recursion' above."""
-
-    # Base case: we've reached a leaf
-    if isinstance(node, Leaf):
-        return node.predictions
-
-    # Decide whether to follow the true-branch or the false-branch.
-    # Compare the feature / value stored in the node,
-    # to the example we're considering.
-    if node.question.match(row):
-        return classify(row, node.true_branch)
-    else:
-        return classify(row, node.false_branch)
-
-
-#######
-# Demo:
-# The tree predicts the 1st row of our
-# training data is an apple with confidence 1.
-# my_tree = build_tree(training_data)
-# classify(training_data[0], my_tree)
-#######
-
-def print_leaf(counts):
-    """A nicer way to print the predictions at a leaf."""
-    total = sum(counts.values()) * 1.0
-    probs = {}
-    for lbl in counts.keys():
-        probs[lbl] = str(int(counts[lbl] / total * 100)) + "%"
-    return probs
-
-
-#######
-# Demo:
-# Printing that a bit nicer
-# print_leaf(classify(training_data[0], my_tree))
-#######
-
-#######
-# Demo:
-# On the second example, the confidence is lower
-# print_leaf(classify(training_data[1], my_tree))
-#######
-
-if __name__ == '__main__':
-
-    my_tree = build_tree(training_data)
-
-    print_tree(my_tree)
-
-    # Evaluate
-    testing_data = [
-        ['Green', 3, 'Apple'],
-        ['Yellow', 4, 'Apple'],
-        ['Red', 2, 'Grape'],
-        ['Red', 1, 'Grape'],
-        ['Yellow', 3, 'Lemon'],
-    ]
-
-    for row in testing_data:
-        print ("Actual: %s. Predicted: %s" %
-               (row[-1], print_leaf(classify(row, my_tree))))
-
-# Next steps
-# - add support for missing (or unseen) attributes
-# - prune the tree to prevent overfitting
-# - add support for regression
+tree = build_tree(training_data)
+print_tree(tree)
