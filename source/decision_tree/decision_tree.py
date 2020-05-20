@@ -1,7 +1,15 @@
-f = open("artif_data.txt", "r")
+from pathlib import Path
+import os
+
+# 1. Ładowanie danych
+path = str(Path(os.getcwd()).parent.parent) + "/data/artif_data.txt"
+
+f = open(path, "r")
 training_data = [line.rstrip().split(',') for line in f]
 
 header = training_data.pop(0)
+
+# 2. Drzewo
 
 def unique_vals(rows, col):
     """Find the unique values for a column in a dataset."""
@@ -206,6 +214,8 @@ def print_tree(node, spacing=""):
     # Call this function recursively on the false branch
     print (spacing + '--> False:')
     print_tree(node.false_branch, spacing + "  ")
+
+# 3. Budowa drzewa
 
 tree = build_tree(training_data)
 print_tree(tree)

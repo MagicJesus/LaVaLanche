@@ -13,7 +13,7 @@ cloud = pv.PolyData(points)
 # cloud.plot(point_size = 15)
 
 surf = cloud.delaunay_2d()
-
+# 0, 1, 2, 3      4, 5, 6, 7,          8, 9, 10, 11
 print(surf.faces) # [cell0_nverts, cell0_v0, cell0_v1, cell0_v2, cell1_nverts, ...]
 print(surf.points) # wszystkie punkty
 print(surf.face_normals) # wektory normalne
