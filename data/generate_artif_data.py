@@ -8,8 +8,8 @@ from itertools import product
 
 # Wartości True reprezentują wartość danej cechy tworzącą ryzyko.
 form_terenu = [True, False] # True <=> forma wklesla
-eksp_sloneczna = [True, False] # True eskp_sloneczna NOT IN (N, NW)
-nachylenie = [True, False] # True <=> nachylenie IN (25, 45)
+eksp_sloneczna = [True, False] # True eksp_sloneczna IN (NE, W, E)
+nachylenie = [True, False] # True <=> nachylenie IN (30, 45)
 pietro = [True, False] # True <=> pietro o ubogiej roslinosci (alpejskie, subalpejskie)
 wysokosc = [True, False] # True <=> wysokosc IN (1300, 2100)
 pora_roku = [True, False] # True <=> pora_roku IN (jesien, zima, wiosna)
@@ -29,12 +29,12 @@ f.write("form_terenu, eksp_sloneczna, nachylenie, pietro, wysokosc, pora_roku, d
 
 # nadanie etykiet
 for record in data:
-    if (not record[0] and not record[2]) or (not record[5] and not record[-3]):
-        label = "niskie"
+    if (not record[0] and not record[4]) or (not record[5] and not record[-3]) or (not record[-1] and not record[-2] and not record[-3] and not record[-4]):
+        label = "brak"
     elif record[0] and record[1] and record[2] and record[3] and record[4] and record[5] and (record[6] or record[7] or record[8] or record[9]):
         label = "wysokie"
     else:
-        label = "umiarkowane"
+        label = "niskie/umiarkowane"
 
     record_labeled = list(record)
     for i in range(len(record_labeled)):
