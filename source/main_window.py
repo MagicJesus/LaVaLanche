@@ -32,8 +32,8 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         initial_y_coord = 47  # poczatkowa pozycja przycisków w pionie
         button_width = 21
         button_height = 22
-        with open("C:\\Users\\Neega\\Documents\\GitHub\\LaVaLanche\\data\\button_map.txt") as buttonmap:
-            nazwy_map = open("C:\\Users\\Neega\\Documents\\GitHub\\LaVaLanche\\data\\maps_sequence.txt")
+        with open("..\\data\\button_map.txt") as buttonmap:
+            nazwy_map = open("..\\data\\maps_sequence.txt")
             for line in buttonmap:
                 initial_x_coord = 44  # poczatkowa pozycja w poziomie
                 for ch in line:
@@ -60,6 +60,7 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
     # ja jak na razie nie mam pojecia jak to zrobic bo te piksele sa nieregularnie poukladane i sa rozne odstepy
     # mozna by zrobic tak zeby przeanalizowac piksele i zobaczyc kiedy trzeba zrobic wiekszy a kiedy mniejszy skok
     # ale to chyba na razie jest kompletnie nie potrzebne, zajmijmy się tęgimi sprawami obliczania ryzyka :)
+
 
     def risk_color(self, risk_level, button):
         if risk_level == 0:
@@ -88,7 +89,7 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         self.dialogs = list()
         self.draw_labels()
         self.draw_buttons()
-        self.set_image("C:\\Users\\Neega\\Documents\\GitHub\\LaVaLanche\\images\\main_bg.jpg")
+        self.set_image("..\\images\\main_bg.jpg")
         self.show()
 
     def draw_buttons(self):
@@ -132,7 +133,7 @@ class DetailWindow(QMainWindow):
         self.setWindowTitle("Detail Window of " + map_name.rstrip())
 
         self.map_data = extract_data(map_name.rstrip() + ".las")  # funkcja uzywajaca laspy do otwarcia mapy
-        print(self.map_data)
+
         self.label = QLabel(self)
         self.label.setText("Sczegóły ryzyka dla: " + map_name.rstrip())
         self.label.setGeometry(20, 20, 300, 20)

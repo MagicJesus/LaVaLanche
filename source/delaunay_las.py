@@ -9,7 +9,8 @@ from laspy.file import File
 from pathlib import Path
 home = str(Path.home()) # '/home/twoja_nazwa_użytkownika'
 
-file = File(home + "/Sym/M-34-100-B-b-3-4-4.las", mode = 'r')
+file = File(home + "/Sym/M-34-100-B-b-1-4-4.las", mode = 'r')
+# file = File("D:\\Mapy Tatr\\A\\M-34-101-A-c-4-3-2.las", mode = 'r')
 point_records = file.points # ndarray z w wszystkimi punktami
 
 x = file.x[::100000]

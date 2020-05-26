@@ -1,6 +1,6 @@
 import os
 
-directory = "data\\maps_sequence.txt" # Ty na linusie to trzeba będzi zmieniać ścieżeczki :(
+directory = "..\\data\\maps_sequence.txt" # Ty na linusie to trzeba będzi zmieniać ścieżeczki :(
 button_map = "button_map.txt"
 
 # for filename in os.listdir(directory):
