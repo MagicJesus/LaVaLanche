@@ -2,11 +2,13 @@
 Próba użycia pyvista na rzeczywistej chmurze punktów.
 
 TODO: celem jest dla każdego obszaru określenie następujących cech
-form_terenu, eksp_sloneczna, nachylenie, pietro, wysokosc
+eksp_sloneczna, nachylenie, pietro, wysokosc
+
+UWAGA!
+Informację, czy na danym terenie jest żleb wyciągniemy prosto ze strony z obszarem
 """
 
 # 1. Załadowanie pliku .las
-
 import numpy as np
 from laspy.file import File
 import os
