@@ -5,16 +5,17 @@ ZASADY KLASYFIKACJI:
 Musimy jakoś ręcznie ustalić labele...
 
 Ważne cechy:
-form_terenu, nachylenie
+form_terenu, nachylenie, pietro
 
 Średnio ważne cechy:
 reszta
 
 Zagrożenie:
-0) niskie
-form_terenu = PŁASKA/WYPUKŁA
+0) brak
+( = nawet w zimie jesteśmy pewni, że nie będzie lawiny)
+form_terenu = PŁASKA/WYPUKŁA (= nie ma żlebów)
 AND
-nachylenie NOT IN (25, 45)
+wysokosc < 1300
 
 OR
 
@@ -22,15 +23,27 @@ pora_roku: lato
 AND
 snieg48h: brak
 
-1) umiarkowane - pozostałe przypadki
-IF NOT niskie AND NOT wysokie
+OR
+
+pora_roku: jesien, wiosna
+AND
+deszcz48h: brak
+AND
+snieg48h: brak
+AND
+wiatr48h: brak
+AND
+wzr_temp: brak
+
+1) niskie/umiarkowane - pozostałe przypadki
+IF NOT brak AND NOT wysokie
 
 2) wysokie
-form_terenu: WKLĘSŁA
+form_terenu: WKLĘSŁA (żleb lub jar)
 AND
-eksp_sloneczna NOT IN (N, NW)
+eksp_sloneczna IN (NE, W, E) - dotyczy tylko stoków o odpowiednim nachyleniu lub form wklęsłych
 AND
-nachylenie IN (25, 45)
+nachylenie IN (30, 45)
 AND
 pietro = alp
 AND
