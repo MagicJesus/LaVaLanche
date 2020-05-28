@@ -10,7 +10,6 @@ training_data = [line.rstrip().split(',') for line in f]
 header = training_data.pop(0)
 
 # 2. Drzewo
-
 def unique_vals(rows, col):
     """Find the unique values for a column in a dataset."""
     return set([row[col] for row in rows])

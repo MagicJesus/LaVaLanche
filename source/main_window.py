@@ -7,7 +7,10 @@ from PyQt5 import QtWidgets
 from PyQt5.QtCore import QSize
 from PyQt5.QtGui import QImage, QPalette, QBrush, QFont
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel
+from pathlib import Path
 
+parent_path = str(Path(os.getcwd()).parent)
+print(parent_path)
 
 class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której beda odnośniki do każdej z map
     def __init__(self):
@@ -17,7 +20,8 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         self.setGeometry(600, 600, 753, 454)
         self.setFixedSize(753, 454)
         self.setWindowTitle("LaVaLanche")
-        self.set_image("..\\images\\tlo.png")
+        # self.set_image("..\\images\\tlo.png")
+        self.set_image(parent_path + "/images/tlo.png")
         self.draw_map_link_buttons()
 
     def set_image(self, img_path):
@@ -32,8 +36,10 @@ class MapWindow(QMainWindow): # klasa reprezentujaca okienko z mapa na której b
         initial_y_coord = 47  # poczatkowa pozycja przycisków w pionie
         button_width = 21
         button_height = 22
-        with open("..\\data\\button_map.txt") as buttonmap:
-            nazwy_map = open("..\\data\\maps_sequence.txt")
+        # with open("..\\data\\button_map.txt") as buttonmap:
+            # nazwy_map = open("..\\data\\maps_sequence.txt")
+        with open(parent_path + "/data/button_map.txt") as buttonmap:
+            nazwy_map = open(parent_path + "/data/maps_sequence.txt")
             for line in buttonmap:
                 initial_x_coord = 44  # poczatkowa pozycja w poziomie
                 for ch in line:
@@ -89,7 +95,8 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         self.dialogs = list()
         self.draw_labels()
         self.draw_buttons()
-        self.set_image("..\\images\\main_bg.jpg")
+        # self.set_image("..\\images\\main_bg.jpg")
+        self.set_image(parent_path + "/images/main_bg.jpg")
         self.show()
 
     def draw_buttons(self):

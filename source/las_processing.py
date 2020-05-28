@@ -1,7 +1,9 @@
 import numpy as np
 import os
 from laspy.file import File
+from pathlib import Path
 
+path = str(Path(os.getcwd()).parent.parent) + "/maps"
 
 def extract_data(map_name):
     if ".las" in map_name:
@@ -10,9 +12,11 @@ def extract_data(map_name):
         map_name = map_name + ".las"
 
     if '101' in map_name:
-        path = "D:\\Mapy Tatr\\A\\" + map_name.rstrip()
+        # path = "D:\\Mapy Tatr\\A\\" + map_name.rstrip()
+        path = path = str(Path(os.getcwd()).parent.parent) + "/maps" + "/A/" + map_name.rstrip()
     elif '100' in map_name:
-        path = "D:\\Mapy Tatr\\B\\" + map_name.rstrip()
+        # path = "D:\\Mapy Tatr\\B\\" + map_name.rstrip()
+        path = path = str(Path(os.getcwd()).parent.parent) + "/maps" + "/B/" + map_name.rstrip()
     open_map = File(path)
 
     x_pts = open_map.get_x_scaled()
@@ -25,7 +29,8 @@ def extract_data(map_name):
     return data
 
 
-extract_data("M-34-100-B-a-1-2-2")
+# extract_data("M-34-100-B-a-1-2-2")
+extract_data("M-34-101-A-c-4-1-1")
 
 # file = File("./out.las", mode = 'r')
 # file = File("D:\\Mapy Tatr\\A\\M-34-101-A-a-1-1-2.las")
@@ -54,6 +59,3 @@ extract_data("M-34-100-B-a-1-2-2")
 # ax.scatter(file.x[1000000:1500000:1000], file.y[1000000:1500000:1000], file.z[1000000:1500000:1000], c = 'r')
 # plt.axis('off')
 # plt.show()
-
-
-
