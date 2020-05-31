@@ -1,3 +1,4 @@
+--- REGUŁY TWORZENIA SZTUCZNEGO ZBIORU DANYCH ---
 CECHY:
 form_terenu,eksp_sloneczna,nachylenie,pietro,wysokosc,pora_roku,deszcz48h,snieg48h,wiatr48h,wzr_temp
 

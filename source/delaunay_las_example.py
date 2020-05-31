@@ -1,9 +1,6 @@
 """
 Próba użycia pyvista na rzeczywistej chmurze punktów.
 
-TODO: celem jest dla każdego obszaru określenie następujących cech
-eksp_sloneczna, nachylenie, pietro, wysokosc
-
 UWAGA!
 Informację, czy na danym terenie jest żleb wyciągniemy prosto ze strony z obszarem
 """
@@ -17,7 +14,7 @@ from pathlib import Path
 path = str(Path(os.getcwd()).parent.parent) + "/maps"
 # path to np. "/home/ditto/Repos/maps"
 
-file = File(path + "/B/M-34-100-B-b-1-4-4.las", mode = 'r')
+file = File(path + "/A/M-34-101-A-c-3-2-2.las", mode = 'r')
 # file = File("D:\\maps\\A\\M-34-101-A-c-4-3-2.las", mode = 'r')
 point_records = file.points # ndarray z w wszystkimi punktami
 
@@ -47,7 +44,7 @@ surf.plot(show_edges = True)
 p = pv.Plotter()
 p.add_mesh(surf, color = "white", show_edges = True)
 
-# Obliczmy nachylenie i zobaczmy, czy wszystko się zgadza!
+# --- OBLICZANIE NACHYLENIA ---
 # Uwaga! Nie wiemy, czy wektor normalny jest skierowany wgłąb góry czy na powierzchnię (tak, jak byśmy chieli),
 # dlatego sprawdziwmy wartość i ewentualnie weźmiemy tę dopełniającą do 180 stopni.
 
@@ -77,6 +74,7 @@ for i in range(surf.face_normals.shape[0]):
     p.add_mesh(polygon, color = c, opacity = 0.7, lighting = False)
     """
 
+# --- OBLICZANIE EKSPOZYCJI ---
 # Teraz obliczmy ekspozycję i zobaczmy, czy wszystko się zgadza (dobrze byłoby wyświelić w danym kolorze
 # wszystkie stoki o tym samym nachyleniu).
 compass = {}
@@ -102,11 +100,8 @@ for i in range(surf.face_normals.shape[0]):
         if angle < 15 and dir == "E":
             c = "yellow"
             break
-        elif angle < 15 and dir == "N":
+        elif angle < 15 and dir == "NE":
             c = "blue"
-            break
-        elif angle < 15 and dir == "S":
-            c = "red"
             break
         elif angle < 15 and dir == "W":
             c = "brown"

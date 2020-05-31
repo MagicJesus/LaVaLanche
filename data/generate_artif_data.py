@@ -1,3 +1,4 @@
+# --- GENERACJA SZTUCZNEGO ZBIORU DANYCH ---
 # Skrypt generuje rekordy (sztuczny zbiór danych) w oparciu o możliwe przyjmowane wartości (tworzy wszystkie
 # możliwe kombinacje). Możliwe wartości oraz etykiety zostały opracowane ręcznie na podstawie polskich i zagranicznych
 # publikacji.

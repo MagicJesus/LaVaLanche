@@ -1,3 +1,4 @@
+# --- POBRANIE ODPOWIEDNICH WSPÓŁRZĘDNYCH DLA OBSZARÓW ---
 from selenium import webdriver # allows to use a browser
 from bs4 import BeautifulSoup # allows to parse HTML
 import pandas as pd # allows to export gathered data to .csv
@@ -37,4 +38,3 @@ for link in soup.find_all('a'):
 temp_list[-1] = '\n'
 temp_str = "".join(temp_list)
 f.write(temp_str)
-
