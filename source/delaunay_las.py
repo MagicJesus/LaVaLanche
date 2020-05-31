@@ -18,7 +18,7 @@ path = str(Path(os.getcwd()).parent.parent) + "/maps"
 # path to np. "/home/ditto/Repos/maps"
 
 file = File(path + "/B/M-34-100-B-b-1-4-4.las", mode = 'r')
-# file = File("D:\\Mapy Tatr\\A\\M-34-101-A-c-4-3-2.las", mode = 'r')
+# file = File("D:\\maps\\A\\M-34-101-A-c-4-3-2.las", mode = 'r')
 point_records = file.points # ndarray z w wszystkimi punktami
 
 x = file.x[::100000]

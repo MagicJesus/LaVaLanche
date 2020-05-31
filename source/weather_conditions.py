@@ -25,7 +25,7 @@ def extract_coords(map_name):
 
 
 def get_weather_conditions(map_name):
-    # create a folder if id does not exist
+    # create a folder if it does not exist
     if os.path.isdir("..\\data\\weather_data\\" + map_name[0:16]):
         pass
     else:
@@ -53,7 +53,7 @@ def get_weather_conditions(map_name):
     data.write(str(observation[0].get_weather().get_rain()) + "\n")
     print("end")
 
-
+#
 # with open("..\\data\\lats_longs_scraped.txt") as file:
 #     file.readline()
 #     for line in file:
@@ -87,9 +87,18 @@ def weather_analysis(map_name):
         weather["wzr_temp"] = False
     # snow stats
     weather["snieg48h"] = False
+    overall_snow_layer = 0.0
     for s in snow:
-        if s.replace("{}", "none") != "none":
-            weather["snieg48h"] = True
+        if 'h' in s:
+            amount_in_mm = s[7:11]
+            if '}' in amount_in_mm:
+                amount_in_mm = amount_in_mm[0:3]
+            overall_snow_layer += float(amount_in_mm)
+        elif s.replace("{}", "none") == "none":
+            overall_snow_layer += 0
+    if overall_snow_layer > 200:
+        weather["snieg48h"] = True
+
     # rain stats
     weather["deszcz48h"] = False
     for r in rain:
@@ -104,6 +113,7 @@ def weather_analysis(map_name):
     print(map_name, weather)
 
 
-mapy = os.listdir("D:\\Mapy Tatr\\A")
-for m in mapy:
-    weather_analysis(m)
+# mapy = os.listdir("..\\..\\maps\\A")
+# for m in mapy:
+#     weather_analysis(m)
+weather_analysis("M-34-100-B-a-1-2-1")

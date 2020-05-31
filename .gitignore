@@ -2,4 +2,5 @@
 .idea
 __pycache__
 data/weather_data/
-Mapy Tatr
+maps
+/source/testfile.py

@@ -3,7 +3,7 @@ import os
 from laspy.file import File
 from pathlib import Path
 
-path = str(Path(os.getcwd()).parent.parent) + "/maps"
+path = str(Path(os.getcwd()).parent) + "/maps"
 
 def extract_data(map_name):
     if ".las" in map_name:
@@ -12,17 +12,13 @@ def extract_data(map_name):
         map_name = map_name + ".las"
 
     if '101' in map_name:
-        # path = "D:\\Mapy Tatr\\A\\" + map_name.rstrip()
+        # path = "D:\\maps\\A\\" + map_name.rstrip()
         path = path = str(Path(os.getcwd()).parent.parent) + "/maps" + "/A/" + map_name.rstrip()
     elif '100' in map_name:
-        # path = "D:\\Mapy Tatr\\B\\" + map_name.rstrip()
+        # path = "D:\\maps\\B\\" + map_name.rstrip()
         path = path = str(Path(os.getcwd()).parent.parent) + "/maps" + "/B/" + map_name.rstrip()
     open_map = File(path)
 
-    x_pts = open_map.get_x_scaled()
-    y_pts = open_map.get_y_scaled()
-    z_pts = open_map.get_z_scaled()
-    print(x_pts.size, " ", y_pts.size, " ", z_pts[120])
     print(open_map.get_points()[120])
     data = [open_map.header.max, open_map.header.min]
     open_map.close()
@@ -33,7 +29,7 @@ def extract_data(map_name):
 extract_data("M-34-101-A-c-4-1-1")
 
 # file = File("./out.las", mode = 'r')
-# file = File("D:\\Mapy Tatr\\A\\M-34-101-A-a-1-1-2.las")
+# file = File("D:\\maps\\A\\M-34-101-A-a-1-1-2.las")
 # point_records = file.points # ndarray z w wszystkimi punktami
 # UWAGA! Wiersze i poszczególne rekordy są typu numpy.void (cokolwiek to narazie znaczy)
 
