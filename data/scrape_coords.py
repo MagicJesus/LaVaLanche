@@ -1,9 +1,10 @@
-# --- POBRANIE ODPOWIEDNICH WSPÓŁRZĘDNYCH DLA OBSZARÓW ---
-from selenium import webdriver # allows to use a browser
-from bs4 import BeautifulSoup # allows to parse HTML
-import pandas as pd # allows to export gathered data to .csv
+# Ten skrypt pobiera graniczne współrzędne geograficzne dla dużych obszarów korzystając z pliku links.html
+# zawierającego odpowiednie linki do stron dostawcy plików las.
 
-f = open("latslongs.txt", "w")
+from selenium import webdriver # zautomatyzowane użycie przeglądarki
+from bs4 import BeautifulSoup # analiza kodu HTML
+
+f = open("latslongs.txt", 'w')
 f.write("area_name,N_lat,S_lat,W_long,E_long\n")
 
 driver = webdriver.Chrome("/usr/bin/chromedriver")

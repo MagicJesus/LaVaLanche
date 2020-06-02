@@ -1,18 +1,12 @@
-"""
-Próba użycia pyvista na rzeczywistej chmurze punktów.
+# Ten skrypt pokazuje przykładowe zastosowanie biblioteki pyvista na wybrane chmurze punktów.
 
-UWAGA!
-Informację, czy na danym terenie jest żleb wyciągniemy prosto ze strony z obszarem
-"""
-
-# 1. Załadowanie pliku .las
 import numpy as np
 from laspy.file import File
 import os
 from pathlib import Path
 
+# --- ZAŁADOWANIE PLIKU ---
 path = str(Path(os.getcwd()).parent.parent) + "/maps"
-# path to np. "/home/ditto/Repos/maps"
 
 file = File(path + "/A/M-34-101-A-c-3-2-2.las", mode = 'r')
 # file = File("D:\\maps\\A\\M-34-101-A-c-4-3-2.las", mode = 'r')
@@ -25,7 +19,7 @@ z = file.z[::100000]
 points = [list(point) for point in zip(x, y, z)]
 points = np.array(points)
 
-# 2. Triangulacja
+# --- TRIANGULACJA ---
 import pyvista as pv
 
 cloud = pv.PolyData(points)

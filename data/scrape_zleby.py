@@ -1,7 +1,8 @@
-# --- PRZYPORZĄDKOWANIE OBSZAROM JEDNOSTKOWYM EWENTUALNYCH ŻLEBÓW ---
-from selenium import webdriver # allows to use a browser
-from bs4 import BeautifulSoup # allows to parse HTML
-import pandas as pd # allows to export gathered data to .csv
+# Ten skrypt pobiera informacje dotyczące ewentualnego występowania żlebów na dużych obszarach
+# korzystając z pliku links.html zawierającego odpowiednie linki do stron dostawcy plików las.
+
+from selenium import webdriver # zautomatyzowane użycie przeglądarki
+from bs4 import BeautifulSoup # analiza kodu HTML
 import re # regexp
 
 from create_coord_dict import get_centers
@@ -9,6 +10,7 @@ coord_dict = get_centers()
 
 f = open("zleby_scraped.txt", "w")
 
+# --- OTWARCIE W PRZEGLĄDARCE PLIKU links.html I POBRANIE ZAWARTOŚCI STRONY ---
 driver = webdriver.Chrome("/usr/bin/chromedriver")
 driver.get("file:///home/dittohead/Sym/links.html")
 driver_2 = webdriver.Chrome("/usr/bin/chromedriver")
@@ -16,6 +18,7 @@ driver_2 = webdriver.Chrome("/usr/bin/chromedriver")
 content = driver.page_source
 soup = BeautifulSoup(content, features = "lxml")
 
+# --- OTWARCIE W PRZEGLĄDARCE KOLEJNYCH STRON ODPOWIADAJĄCYCH DUŻYM OBSZAROM I POBRANIE ZAWARTOŚCI STRONY ---
 for link in soup.find_all('a'):
     driver_2.get(link.get('href'))
 
@@ -25,10 +28,10 @@ for link in soup.find_all('a'):
     area_name = soup_temp.title.text.split(',')[3].strip()
     (lat_center, long_center) = coord_dict[area_name]
 
+    # --- OTWARCIE W PRZEGLĄDARCE KOLEJNYCH STRON ODPOWIADAJĄCYCH OBIEKTOM FIZJOGRAFICZNYM ---
     l = soup_temp.body.findAll('a')
     for a in l:
         if re.match("https://pzgik.geoportal.gov.pl/prng/ObiektFizjograficzny", a["href"]):
-            # przechodzimy do kolejnej podstrony
             driver_2.get(a["href"])
             content = driver_2.page_source
             soup_temp2 = BeautifulSoup(content, features = "lxml")
