@@ -1,0 +1,26 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {polish}{}
+\contentsline {chapter}{\numberline {1}Przyk\IeC {\l }ady element\IeC {\'o}w pracy dyplomowej}{3}
+\contentsline {section}{\numberline {1.1}Liczba}{3}
+\contentsline {section}{\numberline {1.2}Rysunek}{3}
+\contentsline {section}{\numberline {1.3}Tabela}{3}
+\contentsline {section}{\numberline {1.4}Wzory matematyczne}{4}
+\contentsline {chapter}{\numberline {2}Wprowadzenie}{5}
+\contentsline {section}{\numberline {2.1}Cel}{5}
+\contentsline {section}{\numberline {2.2}Opis problemu}{5}
+\contentsline {section}{\numberline {2.3}Mo\IeC {\.z}liwe rozwi\IeC {\k a}zanie}{5}
+\contentsline {chapter}{\numberline {3}Pierwszy dokument}{7}
+\contentsline {section}{\numberline {3.1}Struktura dokumentu}{7}
+\contentsline {section}{\numberline {3.2}Kompilacja}{8}
+\contentsline {section}{\numberline {3.3}Narz\IeC {\k e}dzia}{8}
+\contentsline {section}{\numberline {3.4}Przygotowanie dokumentu}{9}
+\contentsline {chapter}{\numberline {4}Testy}{11}
+\contentsline {section}{\numberline {4.1}Test URL-a}{11}
+\contentsline {section}{\numberline {4.2}Test dzielenia wd\IeC {\'o}w}{12}
+\contentsline {subsection}{\numberline {4.2.1}Lorem ipsum}{13}
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}

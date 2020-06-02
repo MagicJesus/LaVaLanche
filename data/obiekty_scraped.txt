@@ -1,0 +1,4193 @@
+M-34-100-B-b-1-4-3,Blachowski Potok
+M-34-100-B-b-1-4-3,Butorowy Wierch
+M-34-100-B-b-1-4-3,Dziadusiów Potok
+M-34-100-B-b-1-4-4,Dziadusiów Potok
+M-34-100-B-b-1-4-3,Dziadusiów Potok
+M-34-100-B-b-1-4-2,Gładczański Potok
+M-34-100-B-b-1-4-4,Gładczański Potok
+M-34-100-B-b-1-4-1,Pogórze Gubałowskie
+M-34-100-B-b-1-4-2,Gubałówka
+M-34-100-B-b-1-4-2,Gubałówka
+M-34-100-B-b-1-4-1,Las pod Gubałowskie
+M-34-100-B-b-1-4-2,Las pod Gubałowskie
+M-34-100-B-b-1-4-4,Młynkowiec
+M-34-100-B-b-1-4-1,Słodyczków Potok
+M-34-100-B-b-1-4-1,Suchy Potok
+M-34-100-B-b-1-4-1,Suchy Potok
+M-34-100-B-b-1-4-4,Polana Szymoszkowa
+M-34-100-B-b-1-4-4,Szymoszków Potok
+M-34-100-B-b-1-4-4,Szymoszków Potok
+M-34-100-B-b-1-4-4,Szymoszków Potok
+M-34-100-B-b-1-4-4,Szymoszków Potok
+M-34-100-B-b-1-4-4,Szymoszków Potok
+M-34-100-B-b-1-4-2,Pasmo Gubałowskie
+M-34-100-B-b-1-4-1,Pasmo Gubałowskie
+M-34-100-B-b-1-4-1,Droga przez Gubałówkę
+M-34-100-B-b-1-4-4,Zakopisko
+M-34-100-B-b-1-4-3,Pałkówka
+M-34-101-A-a-2-2-3,Karpenciny
+M-34-101-A-a-2-2-2,Maćkowa Dolina
+M-34-101-A-a-2-2-3,Niebieska Dolina
+M-34-101-A-a-2-2-1,Podgórzański Potok
+M-34-101-A-a-2-2-3,Poroniec
+M-34-101-A-a-2-2-3,Poroniec
+M-34-101-A-a-2-2-1,Wysoki Wierch
+M-34-101-A-a-2-2-4,Brzegowski Potok
+M-34-101-A-a-2-2-4,Brzegowski Potok
+M-34-101-A-a-2-2-3,Kohutówka
+M-34-101-A-a-2-2-3,Na Tłoczyskach
+M-34-101-A-a-2-2-3,Bafiówka
+M-34-101-A-a-2-2-3,Dolina Porońca
+M-34-101-A-a-2-2-4,Maćkowa Dolina
+M-34-101-A-a-2-2-4,Wołowiec
+M-34-101-A-a-2-2-2,Pasieczny Wierch
+M-34-101-A-a-2-2-2,Zagórze
+M-34-101-A-a-2-2-1,Spalenisko
+M-34-101-A-a-2-2-4,Maćkowa Polana
+M-34-101-A-a-2-2-4,Brzegowski Wierch
+M-34-101-A-a-2-2-4,Brzegowska Góra
+M-34-101-A-a-2-2-4,Koziniec
+M-34-101-A-a-2-2-2,Koziniec
+M-34-101-A-a-2-2-4,Koziniec
+M-34-101-A-a-2-2-1,Wierch Bukowiny
+M-34-101-A-a-2-2-1,Zarówieński Potok
+M-34-101-A-c-2-3-1,Biały Żleb
+M-34-101-A-c-2-3-1,Ciemnisty Żleb
+M-34-101-A-c-2-3-2,Dudniąca Ziem
+M-34-101-A-c-2-3-3,Dziadula
+M-34-101-A-c-2-3-1,Gaisty Żleb
+M-34-101-A-c-2-3-3,Gładkie
+M-34-101-A-c-2-3-3,Głęboki Żleb
+M-34-101-A-c-2-3-3,Kępa
+M-34-101-A-c-2-3-2,Kiry
+M-34-101-A-c-2-3-2,Las pod Czubą
+M-34-101-A-c-2-3-3,Między Upłazy
+M-34-101-A-c-2-3-3,Niżnie Dziady
+M-34-101-A-c-2-3-1,Nowa Roztoka
+M-34-101-A-c-2-3-2,Opalone
+M-34-101-A-c-2-3-3,Opalone
+M-34-101-A-c-2-3-1,Opalone
+M-34-101-A-c-2-3-2,Orla Ściana
+M-34-101-A-c-2-3-3,Pod Dziadulą
+M-34-101-A-c-2-3-1,Pod Głazy
+M-34-101-A-c-2-3-2,Polanka pod Czubą
+M-34-101-A-c-2-3-3,Polanka pod Uboczą
+M-34-101-A-c-2-3-2,Roztocka Czuba
+M-34-101-A-c-2-3-2,Roztockie Siodło
+M-34-101-A-c-2-3-1,Roztoka
+M-34-101-A-c-2-3-2,Roztoka
+M-34-101-A-c-2-3-1,Roztoka
+M-34-101-A-c-2-3-1,Dolina Roztoki
+M-34-101-A-c-2-3-2,Rybi Potok
+M-34-101-A-c-2-3-4,Rybi Potok
+M-34-101-A-c-2-3-4,Rybi Potok
+M-34-101-A-c-2-3-4,Dolina Rybiego Potoku
+M-34-101-A-c-2-3-4,Siedem Granatów
+M-34-101-A-c-2-3-1,Skalnisty Żleb
+M-34-101-A-c-2-3-1,Stary Kopiec
+M-34-101-A-c-2-3-3,Szałasiska
+M-34-101-A-c-2-3-1,Szeroki Żleb Wołoszyński
+M-34-101-A-c-2-3-3,Świstówka Roztocka
+M-34-101-A-c-2-3-3,Ubocz
+M-34-101-A-c-2-3-4,Włosienica
+M-34-101-A-c-2-3-3,Wolarnia
+M-34-101-A-c-2-3-3,Wrzące Źródło
+M-34-101-A-c-2-3-3,Zakręt Ejsmonda
+M-34-101-A-c-2-3-4,Żabia Grań
+M-34-101-A-c-2-3-4,Żabie
+M-34-101-A-c-2-3-4,Dziura w Żabiem
+M-34-101-A-c-2-3-4,Jaskinia Żabia Lodowa
+M-34-101-A-c-2-3-4,Mała Żabia Szpara
+M-34-101-A-c-2-3-4,Wielka Żabia Szpara
+M-34-101-A-c-2-3-2,Droga Oswalda Balzera
+M-34-101-A-c-2-3-4,Niżnia Stara Droga
+M-34-101-A-c-2-3-4,Niżnia Stara Droga
+M-34-101-A-c-2-3-4,Niżnia Stara Droga
+M-34-101-A-c-2-3-2,Wyżnia Stara Droga
+M-34-101-A-c-2-3-2,Wyżnia Stara Droga
+M-34-101-A-c-2-3-3,Wyżnia Stara Droga
+M-34-101-A-c-2-3-3,Żleb Siniaków
+M-34-101-A-c-2-3-1,Do Łomów
+M-34-101-A-c-2-3-2,Limbowa Ściana
+M-34-101-A-c-2-3-3,Opalona Turnica
+M-34-101-A-c-2-3-3,Opalony Upłaz
+M-34-101-A-c-2-3-2,Limbowa Przełęcz
+M-34-101-A-c-2-3-2,Orli Kuluar
+M-34-101-A-c-2-3-2,Limbowy Żleb
+M-34-101-A-c-2-3-1,Czuba nad Uboczą
+M-34-100-B-a-3-4-2,Ciemniaczek
+M-34-100-B-a-3-4-4,Długa Dolina
+M-34-100-B-a-3-4-3,Dwojakowy Żleb
+M-34-100-B-a-3-4-1,Furkaska
+M-34-100-B-a-3-4-4,Głębowiec
+M-34-100-B-a-3-4-4,Grześ
+M-34-100-B-a-3-4-4,Jaworzynka
+M-34-100-B-a-3-4-4,Jaworzyński Przysłop
+M-34-100-B-a-3-4-3,Juraniowa Przełęcz
+M-34-100-B-a-3-4-2,Koryciańska Czuba
+M-34-100-B-a-3-4-2,Koryciańska Siklawa
+M-34-100-B-a-3-4-2,Koryciańska Siklawa
+M-34-100-B-a-3-4-2,Kryta
+M-34-100-B-a-3-4-2,Kryta
+M-34-100-B-a-3-4-3,Parzątczak
+M-34-100-B-a-3-4-1,Przełęcz pod Furkaską
+M-34-100-B-a-3-4-2,Pośrednie
+M-34-100-B-a-3-4-4,Przysłop
+M-34-100-B-a-3-4-2,Schron w Wielkich Koryciskach
+M-34-100-B-a-3-4-4,Spalenisko
+M-34-100-B-a-3-4-3,Szeroki Żleb
+M-34-100-B-a-3-4-1,Tyrałowa Czuba
+M-34-100-B-a-3-4-2,Tyrałówka
+M-34-100-B-a-3-4-4,Wielki Ciemniak
+M-34-100-B-a-3-4-2,Wielkie Koryciska
+M-34-100-B-a-3-4-1,Zamczysko
+M-34-100-B-a-3-4-4,Koniarnia
+M-34-100-B-a-3-4-2,Wielkie Koryciska
+M-34-100-B-a-3-4-1,Mała Furkaska
+M-34-100-B-a-3-4-2,Tyrałowy Żleb
+M-34-100-B-a-3-4-2,Tyrałowa Przełęcz
+M-34-100-B-a-3-4-3,Olejarnia
+M-34-100-B-a-3-4-4,Wierch Jaworzyna
+M-34-100-B-a-3-4-4,Pod Słonko
+M-34-100-B-c-4-1-4,Banista Przełączka
+M-34-100-B-c-4-1-4,Błyszcz
+M-34-100-B-c-4-1-1,Gładka Ubocz
+M-34-100-B-c-4-1-4,Grzędy
+M-34-100-B-c-4-1-2,Kotłowa Czubka
+M-34-100-B-c-4-1-1,Krzywy Żleb
+M-34-100-B-c-4-1-4,Liliowe Turnie
+M-34-100-B-c-4-1-2,Liliowe Żleby
+M-34-100-B-c-4-1-2,Liliowy Upłaz
+M-34-100-B-c-4-1-1,Łopata
+M-34-100-B-c-4-1-2,Pyszniański Potok
+M-34-100-B-c-4-1-2,Raczkowa Przełęcz
+M-34-100-B-c-4-1-2,Siwa Przełęcz
+M-34-100-B-c-4-1-2,Siwe Sady
+M-34-100-B-c-4-1-2,Siwe Stawki
+M-34-100-B-c-4-1-2,Siwe Turnie
+M-34-100-B-c-4-1-1,Skrajniak
+M-34-100-B-c-4-1-1,Starorobociański Wierch
+M-34-100-B-c-4-1-1,Szeroki Zagon
+M-34-100-B-c-4-1-2,Upłaz pod Pyszną
+M-34-100-B-c-4-1-1,Wielkie Jamy
+M-34-100-B-c-4-1-1,Zadnie Zagony
+M-34-100-B-c-4-1-1,Zadnie Zagony
+M-34-100-B-c-4-1-1,Zagon pod Zakos
+M-34-100-B-c-4-1-2,Zakosy
+M-34-100-B-c-4-1-1,Zdrapy
+M-34-100-B-c-4-1-2,Siwy Zwornik
+M-34-100-B-c-4-1-2,Siwa Kotlinka
+M-34-100-B-c-4-1-2,Siwy Zwornik
+M-34-100-B-c-4-1-1,Niżnia Raczkowa Przełęcz
+M-34-101-A-a-3-3-2,Czółka
+M-34-101-A-a-3-3-3,Diabełek
+M-34-101-A-a-3-3-4,Herbik
+M-34-101-A-a-3-3-3,Jaworzynka
+M-34-101-A-a-3-3-1,Kącina
+M-34-101-A-a-3-3-3,Kopa Królowa Mała
+M-34-101-A-a-3-3-3,Kopa Królowa Wielka
+M-34-101-A-a-3-3-3,Królowa Niżnia
+M-34-101-A-a-3-3-1,Królowa Polana
+M-34-101-A-a-3-3-3,Królowa Rówień
+M-34-101-A-a-3-3-3,Królowa Rówień
+M-34-101-A-a-3-3-1,Olczyska Polana
+M-34-101-A-a-3-3-1,Olczanka
+M-34-101-A-a-3-3-1,Olczyskie Wywierzysko
+M-34-101-A-a-3-3-1,Olczysko
+M-34-101-A-a-3-3-1,Olczysko
+M-34-101-A-a-3-3-3,Przełęcz między Kopami
+M-34-101-A-a-3-3-1,Siklawiczny Źleb
+M-34-101-A-a-3-3-3,Skoruśniak
+M-34-101-A-a-3-3-4,Stary Bór
+M-34-101-A-a-3-3-4,Stary Bór
+M-34-101-A-a-3-3-4,Stary Bór
+M-34-101-A-a-3-3-4,Sucha Woda
+M-34-101-A-a-3-3-4,Sucha Woda
+M-34-101-A-a-3-3-2,Dolina Suchej Wody
+M-34-101-A-a-3-3-1,Suchy Wierch
+M-34-101-A-a-3-3-3,Wielkie Siodło
+M-34-101-A-a-3-3-3,Żleb pod Czerwienicą
+M-34-101-A-a-3-3-1,Nyża nad Olczyską Pierwsza
+M-34-101-A-a-3-3-1,Nyża nad Olczyską Druga
+M-34-101-A-a-3-3-2,Królowy Grzbiet
+M-34-101-A-a-3-3-3,Kopy Królowe
+M-34-101-A-a-3-3-3,Kopy Królowe
+M-34-101-A-a-3-3-3,Siodłowa Droga
+M-34-101-A-a-3-3-3,Kopalnisko
+M-34-101-A-a-3-3-4,Polana Rąbniska
+M-34-101-A-a-3-3-4,Polana Rąbniska
+M-34-101-A-a-3-3-2,Mała Szatra
+M-34-101-A-a-3-3-2,Szatra
+M-34-101-A-a-3-3-3,Gładki Zachód
+M-34-101-A-a-3-3-2,Olczyski Przysłop
+M-34-101-A-a-4-1-1,Ciemne Smreczyny
+M-34-101-A-a-4-1-4,Jaskinia Filipczańska Niżnia
+M-34-101-A-a-4-1-3,Grota Filipczańska Wyżnia
+M-34-101-A-a-4-1-4,Filipka
+M-34-101-A-a-4-1-3,Filipka
+M-34-101-A-a-4-1-2,Filipka
+M-34-101-A-a-4-1-2,Filipka
+M-34-101-A-a-4-1-3,Filipczański Wierch
+M-34-101-A-a-4-1-4,Filipka
+M-34-101-A-a-4-1-1,Jarząbczak
+M-34-101-A-a-4-1-3,Jaworzyński Źleb
+M-34-101-A-a-4-1-1,Dolina Łężna
+M-34-101-A-a-4-1-1,Łężny Potok
+M-34-101-A-a-4-1-3,Łężny Potok
+M-34-101-A-a-4-1-2,Łężny Potok
+M-34-101-A-a-4-1-3,Łężny Wierch
+M-34-101-A-a-4-1-3,Niżnia Filipczańska Przełęcz
+M-34-101-A-a-4-1-3,Przyporniak
+M-34-101-A-a-4-1-1,Przyporniak
+M-34-101-A-a-4-1-1,Przyporniak
+M-34-101-A-a-4-1-3,Przysłop Filipczański
+M-34-101-A-a-4-1-3,Suchy Żleb
+M-34-101-A-a-4-1-3,Szałasiska
+M-34-101-A-a-4-1-1,Wysoki Regiel
+M-34-101-A-a-4-1-4,Złoty Potok
+M-34-101-A-a-4-1-4,Żleb za Skałką
+M-34-101-A-a-4-1-2,Brzanówka
+M-34-101-A-a-4-1-2,Filipczańska Szczelina
+M-34-101-A-a-4-1-2,Grota Filipczańska nad Mostkiem
+M-34-101-A-a-4-1-1,Grota w Jaworzyńskim Żlebie
+M-34-101-A-a-4-1-1,Jaskinia w Jaworzyńskim Żlebie
+M-34-101-A-a-4-1-1,Nyża nad Jaworzyńskim Żlebem
+M-34-101-A-a-4-1-3,Płaśnia
+M-34-101-A-a-4-1-2,Droga Oswalda Balzera
+M-34-101-A-a-4-1-1,Cieśniawy
+M-34-101-A-a-4-1-2,Zazadnia
+M-34-100-B-a-1-4-4,Basiorówka
+M-34-100-B-a-1-4-2,Basiorów Potok
+M-34-100-B-a-1-4-4,Basiorów Potok
+M-34-100-B-a-1-4-2,Basiorów Potok
+M-34-100-B-a-1-4-2,Bzdyków Potok
+M-34-100-B-a-1-4-2,Bzdyków Potok
+M-34-100-B-a-1-4-2,Bzdyków Potok
+M-34-100-B-a-1-4-2,Bzdyków Potok
+M-34-100-B-a-1-4-2,Bzdykówka
+M-34-100-B-a-1-4-2,Guzałówka
+M-34-100-B-a-1-4-2,Machajkówka
+M-34-100-B-a-1-4-3,Magura Witowska
+M-34-100-B-a-1-4-2,Magura
+M-34-100-B-a-1-4-2,Między Potoki
+M-34-100-B-a-1-4-4,Przysłop
+M-34-100-B-a-1-4-4,Przysłop
+M-34-100-B-a-4-3-2,Wierch Banie
+M-34-100-B-a-4-3-3,Dolina Chochołowska
+M-34-100-B-a-4-3-1,Chochołowski Potok
+M-34-100-B-a-4-3-1,Chochołowski Potok
+M-34-100-B-a-4-3-3,Chochołowski Potok
+M-34-100-B-a-4-3-1,Ciemniaczek
+M-34-100-B-a-4-3-3,Długa Polana
+M-34-100-B-a-4-3-3,Dolina Dudowa
+M-34-100-B-a-4-3-3,Dziura nad Potokiem
+M-34-100-B-a-4-3-3,Dolina Huciańska
+M-34-100-B-a-4-3-1,Huciańskie Banie
+M-34-100-B-a-4-3-2,Huciańskie Siodło
+M-34-100-B-a-4-3-3,Huciska
+M-34-100-B-a-4-3-3,Jamska Czuba
+M-34-100-B-a-4-3-3,Jamy
+M-34-100-B-a-4-3-2,Polana Jaworzyna Lejowa
+M-34-100-B-a-4-3-3,Kalwaria
+M-34-100-B-a-4-3-3,Kamienny Źleb
+M-34-100-B-a-4-3-1,Klinowa Czuba
+M-34-100-B-a-4-3-1,Klinowe Siodło
+M-34-100-B-a-4-3-1,Kliny
+M-34-100-B-a-4-3-4,Kobyle Głowy
+M-34-100-B-a-4-3-4,Kominiarska Przełęcz
+M-34-100-B-a-4-3-4,Kominiarskie Siodło
+M-34-100-B-a-4-3-3,Koniarnia
+M-34-100-B-a-4-3-1,Koryciańska Siklawa
+M-34-100-B-a-4-3-1,Kowaniec
+M-34-100-B-a-4-3-1,Kryta
+M-34-100-B-a-4-3-2,Kuca
+M-34-100-B-a-4-3-2,Kuca
+M-34-100-B-a-4-3-2,Dolina Lejowa
+M-34-100-B-a-4-3-2,Lejowe Banie
+M-34-100-B-a-4-3-2,Lejowe Siodło
+M-34-100-B-a-4-3-4,Lejowy Potok
+M-34-100-B-a-4-3-2,Lejowy Potok
+M-34-100-B-a-4-3-3,Mały Ciemniak
+M-34-100-B-a-4-3-4,Mały Opalony Wierch
+M-34-100-B-a-4-3-3,Między Ściany
+M-34-100-B-a-4-3-3,Niżnia Chochołowska Brama
+M-34-100-B-a-4-3-4,Niżnie Dudowe Siodło
+M-34-100-B-a-4-3-2,Rosochowate
+M-34-100-B-a-4-3-2,Rosochowate Siodło
+M-34-100-B-a-4-3-2,Rosochowaty Źleb
+M-34-100-B-a-4-3-1,Siwa Woda
+M-34-100-B-a-4-3-2,Skrajna Rosocha
+M-34-100-B-a-4-3-3,Spalona Czuba
+M-34-100-B-a-4-3-2,Wielka Sucha Dolina
+M-34-100-B-a-4-3-1,Wielka Sucha Dolina
+M-34-100-B-a-4-3-4,Wielki Opalony Wierch
+M-34-100-B-a-4-3-4,Wierch Spalenisko
+M-34-100-B-a-4-3-2,Suchy Potok
+M-34-100-B-a-4-3-1,Suchy Potok
+M-34-100-B-a-4-3-3,Nyża w Wąwozie między Ściany
+M-34-100-B-a-4-3-3,Schron w Skale Kmietowicza Pierwszy
+M-34-100-B-a-4-3-3,Schron w Skale Kmietowicza Drugi
+M-34-100-B-a-4-3-3,Schronisko w Kalwarii
+M-34-100-B-a-4-3-3,Schronisko w Małym Żlebku
+M-34-100-B-a-4-3-3,Schronisko w Międzyścianach nad Drugim
+M-34-100-B-a-4-3-3,Schronisko w Międzyścianach Pierwsze
+M-34-100-B-a-4-3-3,Schronisko w Międzyścianach Drugie
+M-34-100-B-a-4-3-1,Wojtkowa Szpara
+M-34-100-B-a-4-3-3,Skała Kmietowicza
+M-34-100-B-a-4-3-3,Koniarnia
+M-34-100-B-a-4-3-3,Polana pod Jaworki
+M-34-100-B-a-4-3-3,Schronisko w Międzyścianach Trzecie
+M-34-100-B-a-4-3-4,Scieżka nad Reglami
+M-34-100-B-a-4-3-3,Scieżka nad Reglami
+M-34-100-B-a-4-3-3,Scieżka nad Reglami
+M-34-100-B-a-4-3-4,Hala Lejowa
+M-34-100-B-a-4-3-1,Pod Baniami
+M-34-100-B-b-4-2-4,Baba
+M-34-100-B-b-4-2-4,Brylówka
+M-34-100-B-b-4-2-3,Bystra
+M-34-100-B-b-4-2-1,Bystra
+M-34-100-B-b-4-2-1,Bystra
+M-34-100-B-b-4-2-3,Bystra
+M-34-100-B-b-4-2-3,Dziura pod Nosalem
+M-34-100-B-b-4-2-3,Foluszowy Potok
+M-34-100-B-b-4-2-1,Foluszowy Potok
+M-34-100-B-b-4-2-1,Foluszowy Potok
+M-34-100-B-b-4-2-2,Jarczysko
+M-34-100-B-b-4-2-3,Kuźnicka Polana
+M-34-100-B-b-4-2-4,Nosal
+M-34-100-B-b-4-2-4,Nosalowa Przełęcz
+M-34-100-B-b-4-2-2,Olczysko
+M-34-100-B-b-4-2-4,Olczysko
+M-34-100-B-b-4-2-4,Olczanka
+M-34-100-B-b-4-2-4,Olczanka
+M-34-100-B-b-4-2-2,Olczanka
+M-34-100-B-b-4-2-3,Opalone
+M-34-100-B-b-4-2-4,Pióro
+M-34-100-B-b-4-2-1,Pod Nosalem
+M-34-100-B-b-4-2-4,Polanka
+M-34-100-B-b-4-2-4,Za Obłaz
+M-34-100-B-b-4-2-4,Schron z Prowokatorem
+M-34-100-B-b-4-2-1,Park Leśny przy Rondzie
+M-34-100-B-b-4-2-2,Pusty Bór
+M-34-100-B-b-4-2-1,Las Chałubińskich
+M-34-100-B-b-4-2-3,Droga pod Reglami
+M-34-100-B-b-4-2-4,Rokity
+M-34-100-B-b-4-2-4,Pod Zgorzelec
+M-34-100-B-b-4-2-1,Koziniec
+M-34-100-B-b-4-2-1,Droga na Koziniec
+M-34-100-B-b-4-2-1,Droga na Koziniec
+M-34-100-B-b-4-2-1,Droga na Koziniec
+M-34-101-A-c-2-1-3,Dziad
+M-34-101-A-c-2-1-2,Dziadowa Jama
+M-34-101-A-c-2-1-2,Dziadowa Skała
+M-34-101-A-c-2-1-2,Głęboki Żleb
+M-34-101-A-c-2-1-3,Karbik
+M-34-101-A-c-2-1-2,Las pod Wołoszynem
+M-34-101-A-c-2-1-1,Młyn
+M-34-101-A-c-2-1-2,Jaskinia Wołoszyńska Niżnia
+M-34-101-A-c-2-1-3,Niżnie Siodło
+M-34-101-A-c-2-1-2,Niżnie Skałki
+M-34-101-A-c-2-1-3,Nowe Spalenisko
+M-34-101-A-c-2-1-2,Polana pod Wołoszynem
+M-34-101-A-c-2-1-1,Popaski
+M-34-101-A-c-2-1-3,Półturnie
+M-34-101-A-c-2-1-4,Roztocka Turniczka
+M-34-101-A-c-2-1-4,Roztoka
+M-34-101-A-c-2-1-4,Roztoka
+M-34-101-A-c-2-1-4,Roztoka
+M-34-101-A-c-2-1-3,Równica
+M-34-101-A-c-2-1-4,Siwarne
+M-34-101-A-c-2-1-4,Siwarny Żleb
+M-34-101-A-c-2-1-3,Skrajny Wołoszyn
+M-34-101-A-c-2-1-4,Stara Roztoka
+M-34-101-A-c-2-1-2,Stare Spalenisko
+M-34-101-A-c-2-1-1,Stare Szałasiska
+M-34-101-A-c-2-1-4,Szczoty
+M-34-101-A-c-2-1-1,Turnia nad Dziadem
+M-34-101-A-c-2-1-3,Turnia nad Szczotami
+M-34-101-A-c-2-1-2,Usypisty Żleb
+M-34-101-A-c-2-1-1,Dolina Waksmundzka
+M-34-101-A-c-2-1-1,Waksmundzki Potok
+M-34-101-A-c-2-1-1,Waksmundzki Potok
+M-34-101-A-c-2-1-3,Wanta
+M-34-101-A-c-2-1-4,Wodogrzmoty Mickiewicza
+M-34-101-A-c-2-1-3,Wołoszyn
+M-34-101-A-c-2-1-2,Wołoszyński Stawek
+M-34-101-A-c-2-1-2,Wyżnia Kopka
+M-34-101-A-c-2-1-2,Jaskinia Wołoszyńska Wyżnia
+M-34-101-A-c-2-1-3,Wyżnie Siodło
+M-34-101-A-c-2-1-2,Wyżnie Skałki
+M-34-101-A-c-2-1-1,Za Popaski
+M-34-101-A-c-2-1-4,Zagonny Wierch
+M-34-101-A-c-2-1-3,Zagonny Wierch
+M-34-101-A-c-2-1-4,Zagonny Żleb
+M-34-101-A-c-2-1-1,Źródliska
+M-34-101-A-c-2-1-2,Droga Oswalda Balzera
+M-34-101-A-c-2-1-3,Niżnia Perć
+M-34-101-A-c-2-1-3,Niżnia Perć
+M-34-101-A-c-2-1-3,Niżnia Perć
+M-34-101-A-c-2-1-3,Wyżnia Perć
+M-34-101-A-c-2-1-3,Wyżnia Perć
+M-34-101-A-c-2-1-3,Wyżnia Perć
+M-34-101-A-c-2-1-4,Dobra Woda
+M-34-101-A-c-3-1-2,Czarna Ławka
+M-34-101-A-c-3-1-2,Czarny Piarg
+M-34-101-A-c-3-1-2,Czarny Staw Polski
+M-34-101-A-c-3-1-2,Gładka Kotelnica
+M-34-101-A-c-3-1-2,Gładka Ławka
+M-34-101-A-c-3-1-1,Gładki Wierch
+M-34-101-A-c-3-1-2,Gładkie Kopki
+M-34-101-A-c-3-1-2,Kotelnica
+M-34-101-A-c-3-1-2,Liptowskie Mury
+M-34-101-A-c-3-1-2,Mała Kotelnica
+M-34-101-A-c-3-1-2,Dolina Pięciu Stawów Polskich
+M-34-101-A-c-3-1-2,Pośrednia Kotelnica
+M-34-101-A-c-3-1-2,Pośrednia Kotelnica
+M-34-101-A-c-3-1-2,Stare Solnisko
+M-34-101-A-c-3-1-2,Usypisty Żleb
+M-34-101-A-c-3-1-2,Wielka Kotelnica
+M-34-101-A-c-3-1-2,Niżnia Kotelnicowa Ławka
+M-34-101-A-c-3-1-2,Pośrednia Kotelnicowa Ławka
+M-34-101-A-c-3-1-2,Wyżnia Kotelnicowa Ławka
+M-34-101-A-c-3-1-2,Niżnia Czarna Ławka
+M-34-101-A-c-3-1-2,Na Kopki
+M-34-101-A-c-3-1-2,Czarna Kotelnica
+M-34-101-A-c-3-1-2,Niżnia Czarna Ławka
+M-34-101-A-c-3-1-2,Gładka Czubka
+M-34-100-B-a-2-4-3,Jantałowski Potok
+M-34-100-B-a-2-4-3,Jantałowski Potok
+M-34-100-B-a-2-4-3,Biała Przybylanka
+M-34-100-B-a-2-4-3,Bobków Potok
+M-34-100-B-a-2-4-2,Bobków Potok
+M-34-100-B-a-2-4-3,Bobków Potok
+M-34-100-B-a-2-4-1,Cichowiański Las
+M-34-100-B-a-2-4-4,Ciepłówka
+M-34-100-B-a-2-4-3,Czarny Dunajec
+M-34-100-B-a-2-4-3,Czarny Dunajec
+M-34-100-B-a-2-4-3,Długa Polana
+M-34-100-B-a-2-4-1,Dziedzicówka
+M-34-100-B-a-2-4-2,Iwański
+M-34-100-B-a-2-4-3,Kalwaria
+M-34-100-B-a-2-4-3,Łączki
+M-34-100-B-a-2-4-3,Mały Głęboki Potok
+M-34-100-B-a-2-4-2,Mały Głęboki Potok
+M-34-100-B-a-2-4-1,Mały Głęboki Potok
+M-34-100-B-a-2-4-3,Mały Głęboki Potok
+M-34-100-B-a-2-4-3,Młaczny Brzeżek
+M-34-100-B-a-2-4-3,Młaka
+M-34-100-B-a-2-4-3,Palenica
+M-34-100-B-a-2-4-1,Płazowski Wierch
+M-34-100-B-a-2-4-1,Pod Brzegiem
+M-34-100-B-a-2-4-3,Siwa Woda
+M-34-100-B-a-2-4-2,Składziska
+M-34-100-B-a-2-4-3,Szymonów Potok
+M-34-100-B-a-2-4-4,Szymonów Potok
+M-34-100-B-a-2-4-3,Szymonów Potok
+M-34-100-B-a-2-4-3,Głęboki Potok
+M-34-100-B-a-2-4-4,Głęboki Potok
+M-34-100-B-a-2-4-4,Głęboki Potok
+M-34-100-B-a-2-4-4,Głęboki Potok
+M-34-100-B-a-2-4-2,Głęboki Potok
+M-34-100-B-a-2-4-2,Wróblański Las
+M-34-100-B-a-2-4-1,Zapole
+M-34-100-B-a-2-4-3,Pod Jaworki
+M-34-100-B-a-2-4-1,Miśkówka
+M-34-100-B-a-2-4-3,Młaka
+M-34-100-B-a-2-4-4,Górkówka
+M-34-100-B-a-2-4-1,Droga przez Gubałówkę
+M-34-100-B-a-2-4-2,Droga przez Gubałówkę
+M-34-100-B-a-2-4-2,Miętłówka
+M-34-100-B-a-2-4-3,Ganabówka
+M-34-100-B-a-2-4-4,Stos Wyżni
+M-34-100-B-c-1-2-1,Bobrowiec
+M-34-100-B-c-1-2-3,Bobrowiecki Potok
+M-34-100-B-c-1-2-1,Bobrowiecki Potok
+M-34-100-B-c-1-2-3,Bobrowiecki Potok
+M-34-100-B-c-1-2-1,Bobrowiecki Upłaz
+M-34-100-B-c-1-2-3,Bobrowiecki Żleb
+M-34-100-B-c-1-2-3,Chochołowska Polana
+M-34-100-B-c-1-2-1,Chochołowski Regiel
+M-34-100-B-c-1-2-2,Chochołowski Potok
+M-34-100-B-c-1-2-4,Chochołowski Potok
+M-34-100-B-c-1-2-3,Chochołowski Potok
+M-34-100-B-c-1-2-1,Ciemny Żleb
+M-34-100-B-c-1-2-3,Dolinczański Potok
+M-34-100-B-c-1-2-2,Dziura w Zawiesistej
+M-34-100-B-c-1-2-2,Hrubas
+M-34-100-B-c-1-2-3,Jarząbczy Regiel
+M-34-100-B-c-1-2-3,Jasiorów Żleb
+M-34-100-B-c-1-2-2,Jaworzyna
+M-34-100-B-c-1-2-2,Kamienne Mleko
+M-34-100-B-c-1-2-1,Kobylarka
+M-34-100-B-c-1-2-4,Kopieniec
+M-34-100-B-c-1-2-4,Kopieńcowy Przechód
+M-34-100-B-c-1-2-4,Krowi Żleb
+M-34-100-B-c-1-2-4,Kulawiec
+M-34-100-B-c-1-2-1,Małe Kopisko
+M-34-100-B-c-1-2-4,Mały Kopieniec
+M-34-100-B-c-1-2-4,Mlaskacz
+M-34-100-B-c-1-2-1,Mnichy Chochołowskie
+M-34-100-B-c-1-2-3,Mokry Żleb
+M-34-100-B-c-1-2-3,Niżnia Jarząbcza Polana
+M-34-100-B-c-1-2-2,Piece
+M-34-100-B-c-1-2-4,Ptasiniec
+M-34-100-B-c-1-2-1,Skorusi Żleb
+M-34-100-B-c-1-2-2,Skrajniak
+M-34-100-B-c-1-2-2,Skrajniak
+M-34-100-B-c-1-2-2,Starorobociański Potok
+M-34-100-B-c-1-2-3,Stawiańce
+M-34-100-B-c-1-2-1,Szeroki Upłaz
+M-34-100-B-c-1-2-4,Dolina Trzydniowiańska
+M-34-100-B-c-1-2-4,Polana Trzydniówka
+M-34-100-B-c-1-2-2,Turnia Olejarnia
+M-34-100-B-c-1-2-1,Wielkie Kopisko
+M-34-100-B-c-1-2-2,Wielkie Turnie
+M-34-100-B-c-1-2-4,Wyżni Kopieńcowy Przechód
+M-34-100-B-c-1-2-3,Wyżnia Jarząbcza Polana
+M-34-100-B-c-1-2-2,Zawiesista
+M-34-100-B-c-1-2-2,Schron przy Szczelinie
+M-34-100-B-c-1-2-2,Szczelina Chochołowska
+M-34-100-B-c-1-2-3,Polana Chochołowska
+M-34-100-B-c-1-2-3,Polana Jarząbcza Niżnia
+M-34-100-B-c-1-2-3,Polana Jarząbcza
+M-34-100-B-c-1-2-1,Hrubasowy Upłaz
+M-34-100-B-c-1-2-2,Pod Cień
+M-34-100-B-c-1-2-2,Organy
+M-34-100-B-d-2-2-2,Bałda
+M-34-100-B-d-2-2-4,Dwoiśniak
+M-34-100-B-d-2-2-4,Dolina Gąsienicowa
+M-34-100-B-d-2-2-4,Gładkie Stawiańskie
+M-34-100-B-d-2-2-3,Nad Zakosy
+M-34-100-B-d-2-2-1,Dolina Goryczkowa
+M-34-100-B-d-2-2-1,Hala Goryczkowa
+M-34-100-B-d-2-2-3,Goryczkowy Potok
+M-34-100-B-d-2-2-1,Goryczkowy Potok
+M-34-100-B-d-2-2-2,Jaworzyńska Przełęcz
+M-34-100-B-d-2-2-2,Jedyniak
+M-34-100-B-d-2-2-2,Dolina Kasprowa
+M-34-100-B-d-2-2-2,Hala Kasprowa
+M-34-100-B-d-2-2-4,Kasprowy Kocioł
+M-34-100-B-d-2-2-2,Kasprowy Potok
+M-34-100-B-d-2-2-2,Kasprowy Potok
+M-34-100-B-d-2-2-3,Kasprowy Wierch
+M-34-100-B-d-2-2-4,Kotlinowy Stawek
+M-34-100-B-d-2-2-4,Kotliny
+M-34-100-B-d-2-2-4,Litworowy Staw
+M-34-100-B-d-2-2-2,Małe Uhrocie Kasprowe
+M-34-100-B-d-2-2-2,Miękusy
+M-34-100-B-d-2-2-4,Nalepki
+M-34-100-B-d-2-2-2,Niżnie Kasprowe Siodło
+M-34-100-B-d-2-2-4,Obłazki
+M-34-100-B-d-2-2-1,Pod Upłazki
+M-34-100-B-d-2-2-3,Pod Zakosy
+M-34-100-B-d-2-2-3,Pułki
+M-34-100-B-d-2-2-4,Samotniak
+M-34-100-B-d-2-2-4,Skałka
+M-34-100-B-d-2-2-2,Stare Szałasiska
+M-34-100-B-d-2-2-2,Stawiański Upłaz
+M-34-100-B-d-2-2-1,Sucha Czuba
+M-34-100-B-d-2-2-4,Sucha Dolina Stawiańska
+M-34-100-B-d-2-2-3,Dolina Sucha Kasprowa
+M-34-100-B-d-2-2-3,Sucha Przełęcz
+M-34-100-B-d-2-2-1,Suchy Upłaz
+M-34-100-B-d-2-2-4,Szałasiska
+M-34-100-B-d-2-2-3,Szyjka
+M-34-100-B-d-2-2-2,Świński Żlebek
+M-34-100-B-d-2-2-4,Troiśniak
+M-34-100-B-d-2-2-4,Uhrocie Kasprowe
+M-34-100-B-d-2-2-1,Wyżnia Goryczkowa Rówień
+M-34-100-B-d-2-2-2,Wyżnia Kasprowa Rówień
+M-34-100-B-d-2-2-4,Wyżnie Kasprowe Siodło
+M-34-100-B-d-2-2-3,Zakosy
+M-34-100-B-d-2-2-2,Zawrat Kasprowy
+M-34-100-B-d-2-2-2,Zielone Korycisko
+M-34-100-B-d-2-2-2,Zielone Turnie
+M-34-100-B-d-2-2-2,Żółte Turniczki
+M-34-100-B-d-2-2-2,Dziura pod Jaskinią Magurską
+M-34-100-B-d-2-2-2,Nyża pod Jaskinią Magurską Pierwsza
+M-34-100-B-d-2-2-2,Nyża pod Jaskinią Magurską Druga
+M-34-100-B-d-2-2-2,Nyża pod Jaskinią Magurską Czwarta
+M-34-100-B-d-2-2-2,Nyża pod Zawracikiem
+M-34-100-B-d-2-2-2,Szczelina nad Jaskinią Magurską
+M-34-100-B-d-2-2-2,Schron nad Przełączką
+M-34-100-B-d-2-2-4,Dolina Zielona Gąsienicowa
+M-34-100-B-d-2-2-2,Gładkie Jaworzyńskie
+M-34-100-B-d-2-2-2,Mechy
+M-34-100-B-d-2-2-3,Palec
+M-34-100-B-d-2-2-3,Goryczkowy Kocioł
+M-34-100-B-d-2-2-3,Kotliny
+M-34-100-B-d-2-2-2,Stare Szałasiska
+M-34-100-B-d-2-2-2,Amfiteatr
+M-34-100-B-d-2-2-2,Żleb Borkowskiego
+M-34-100-B-d-2-2-1,Żleb Bryi
+M-34-100-B-d-2-2-4,Żleb Ciaptaka
+M-34-100-B-d-2-2-2,Dziewiczy Komin
+M-34-100-B-d-2-2-3,Goryczkowa Bula
+M-34-100-B-d-2-2-2,Kasprowe Wywierzysko
+M-34-101-A-b-1-4-1,Górków Wierch
+M-34-101-A-b-1-4-1,Groniczek
+M-34-101-A-b-1-4-1,Jaworowy Potok
+M-34-101-A-b-1-4-1,Jaworowy Potok
+M-34-101-A-b-1-4-1,Kramarzówka
+M-34-101-A-b-1-4-1,Księża Polana
+M-34-101-A-c-1-2-1,Bacowski Żleb
+M-34-101-A-c-1-2-3,Barani Żleb
+M-34-101-A-c-1-2-3,Cesarka
+M-34-101-A-c-1-2-2,Czarne Turnie
+M-34-101-A-c-1-2-1,Czerwony Staw
+M-34-101-A-c-1-2-1,Głazów Żleb
+M-34-101-A-c-1-2-1,Juhaskie Moczydło
+M-34-101-A-c-1-2-1,Kamienisty Żleb
+M-34-101-A-c-1-2-2,Kocioł Świstowy
+M-34-101-A-c-1-2-1,Komory
+M-34-101-A-c-1-2-4,Koszysta
+M-34-101-A-c-1-2-2,Koszysta
+M-34-101-A-c-1-2-2,Koszysta
+M-34-101-A-c-1-2-2,Limbowa Ubocz
+M-34-101-A-c-1-2-3,Mała Kopka
+M-34-101-A-c-1-2-2,Mała Koszysta
+M-34-101-A-c-1-2-1,Niżnie Zielone
+M-34-101-A-c-1-2-1,Pańszczyca
+M-34-101-A-c-1-2-3,Pańszczycka Koleba
+M-34-101-A-c-1-2-3,Pańszczycka Przełęcz
+M-34-101-A-c-1-2-3,Pańszczycka Turnia
+M-34-101-A-c-1-2-1,Pańszczycki Potok
+M-34-101-A-c-1-2-2,Pieski
+M-34-101-A-c-1-2-4,Pośredni Wołoszyn
+M-34-101-A-c-1-2-4,Pośrednia Równica
+M-34-101-A-c-1-2-2,Skrajny Upłaz
+M-34-101-A-c-1-2-2,Strzałby
+M-34-101-A-c-1-2-2,Świstówka Waksmundzka
+M-34-101-A-c-1-2-2,Trojak
+M-34-101-A-c-1-2-4,Waksmundzka Strażnica
+M-34-101-A-c-1-2-4,Waksmundzki Potok
+M-34-101-A-c-1-2-4,Waksmundzki Potok
+M-34-101-A-c-1-2-4,Waksmundzki Potok
+M-34-101-A-c-1-2-4,Waksmundzki Wierch
+M-34-101-A-c-1-2-3,Wielka Kopa
+M-34-101-A-c-1-2-4,Koszysta
+M-34-101-A-c-1-2-3,Wierch pod Fajki
+M-34-101-A-c-1-2-4,Wołoszyn
+M-34-101-A-c-1-2-4,Wołoszyńska Przełęcz Niżnia
+M-34-101-A-c-1-2-4,Wołoszyńska Przełęcz Wyżnia
+M-34-101-A-c-1-2-4,Wołoszyńska Szczerbina
+M-34-101-A-c-1-2-3,Wyżnie Szpiglasowe Wrótka
+M-34-101-A-c-1-2-2,Zadni Upłaz
+M-34-101-A-c-1-2-1,Zadni Upłaz
+M-34-101-A-c-1-2-1,Zadni Upłaz
+M-34-101-A-c-1-2-4,Zadnia Równica
+M-34-101-A-c-1-2-3,Zadnie Usypy
+M-34-101-A-c-1-2-2,Zbójnicka Dolinka
+M-34-101-A-c-1-2-3,Żółta Przełęcz
+M-34-101-A-c-1-2-3,Wyżnia Pańszczycka Przełączka
+M-34-101-A-c-1-2-3,Przełączka pod Fajki
+M-34-101-A-c-1-2-3,Przełączka pod Fajki
+M-34-101-A-c-1-2-1,Wyżnie Zielone
+M-34-101-A-c-1-2-3,Moreny
+M-34-100-B-b-2-3-3,Bucznik
+M-34-100-B-b-2-3-1,Bucznik
+M-34-100-B-b-2-3-1,Bucznik
+M-34-100-B-b-2-3-1,Bystra
+M-34-100-B-b-2-3-4,Bystra
+M-34-100-B-b-2-3-4,Bystra
+M-34-100-B-b-2-3-4,Bystra
+M-34-100-B-b-2-3-2,Chyców Potok
+M-34-100-B-b-2-3-2,Chyców Potok
+M-34-100-B-b-2-3-3,Cicha Woda
+M-34-100-B-b-2-3-3,Cicha Woda
+M-34-100-B-b-2-3-3,Czarny Potok
+M-34-100-B-b-2-3-3,Foluszowy Potok
+M-34-100-B-b-2-3-4,Foluszowy Potok
+M-34-100-B-b-2-3-3,Gładczański Potok
+M-34-100-B-b-2-3-3,Gładczański Potok
+M-34-100-B-b-2-3-3,Górka
+M-34-100-B-b-2-3-2,Kotelnicki Potok
+M-34-100-B-b-2-3-3,Młyniska
+M-34-100-B-b-2-3-3,Młyniska
+M-34-100-B-b-2-3-1,Michnów Potok
+M-34-100-B-b-2-3-1,Michnów Potok
+M-34-100-B-b-2-3-1,Reblów Potok
+M-34-100-B-b-2-3-4,Równia Krupowa Dolna
+M-34-100-B-b-2-3-4,Równia Krupowa Górna
+M-34-100-B-b-2-3-4,Szymoński Wierch
+M-34-100-B-b-2-3-3,Walczacki Potok
+M-34-100-B-b-2-3-1,Walowa Góra
+M-34-100-B-b-2-3-1,Walowa Grapa
+M-34-100-B-b-2-3-3,Walowy Potok
+M-34-100-B-b-2-3-1,Walowy Potok
+M-34-100-B-b-2-3-3,Walowy Potok
+M-34-100-B-b-2-3-3,Zakopianka
+M-34-100-B-b-2-3-2,Zakopianka
+M-34-100-B-b-2-3-2,Zakopianka
+M-34-100-B-b-2-3-4,Antałówka
+M-34-100-B-b-2-3-1,Pasmo Gubałowskie
+M-34-100-B-b-2-3-3,Zakopisko
+M-34-100-B-b-2-3-4,Park Lecha Kaczyńskiego
+M-34-100-B-b-2-3-4,Równia Krupowa
+M-34-100-B-c-2-4-3,Babi Potok
+M-34-100-B-c-2-4-3,Babi Potok
+M-34-100-B-c-2-4-4,Dolinczańska Wolarnia
+M-34-100-B-c-2-4-1,Dolinczański Potok
+M-34-100-B-c-2-4-4,Dolinczański Potok
+M-34-100-B-c-2-4-4,Dolinczański Potok
+M-34-100-B-c-2-4-4,Jaferowy Grzbiet
+M-34-100-B-c-2-4-4,Jaferowy Żleb
+M-34-100-B-c-2-4-3,Jaworzynka
+M-34-100-B-c-2-4-4,Kopa
+M-34-100-B-c-2-4-1,Mała Polanka Ornaczańska
+M-34-100-B-c-2-4-3,Młyniska
+M-34-100-B-c-2-4-2,Niżnia Smreczyńska Polana
+M-34-100-B-c-2-4-1,Ornaczański Żleb
+M-34-100-B-c-2-4-1,Hala Ornak
+M-34-100-B-c-2-4-3,Hala Pyszna
+M-34-100-B-c-2-4-3,Dolina Pyszniańska
+M-34-100-B-c-2-4-3,Pyszniański Potok
+M-34-100-B-c-2-4-1,Pyszniański Potok
+M-34-100-B-c-2-4-1,Skoruśniak
+M-34-100-B-c-2-4-2,Skrajny Smreczyński Grzbiet
+M-34-100-B-c-2-4-2,Smreczyny
+M-34-100-B-c-2-4-2,Smreczyński Staw
+M-34-100-B-c-2-4-1,Stara Wolarnia
+M-34-100-B-c-2-4-1,Surowina
+M-34-100-B-c-2-4-2,Dolina Tomanowa
+M-34-100-B-c-2-4-2,Tomanowy Potok
+M-34-100-B-c-2-4-2,Tomanowy Potok
+M-34-100-B-c-2-4-1,Wielka Polana Ornaczańska
+M-34-100-B-c-2-4-2,Wyżnia Smreczyńska Polana
+M-34-100-B-c-2-4-1,Wyżnie Ornaczańskie
+M-34-100-B-c-2-4-1,Żleb pod Banie
+M-34-100-B-c-2-4-1,Nyża w Smytniej
+M-34-100-B-c-2-4-3,Niżnia Polana Pyszna
+M-34-101-A-a-3-1-3,Chłabowski Potok
+M-34-101-A-a-3-1-1,Chłabowski Potok
+M-34-101-A-a-3-1-1,Chłabowski Potok
+M-34-101-A-a-3-1-1,Chłabowski Potok
+M-34-101-A-a-3-1-2,Chowańców Potok
+M-34-101-A-a-3-1-2,Chowańców Potok
+M-34-101-A-a-3-1-2,Hrubiański Potok
+M-34-101-A-a-3-1-1,Jaskinia Jaszczurowska Wodna
+M-34-101-A-a-3-1-1,Jaskinia Jaszczurowska Wyżnia
+M-34-101-A-a-3-1-3,Kopieniec
+M-34-101-A-a-3-1-4,Kopieniec
+M-34-101-A-a-3-1-4,Kotlinowy Wierch
+M-34-101-A-a-3-1-3,Mały Kopieniec
+M-34-101-A-a-3-1-3,Olczysko
+M-34-101-A-a-3-1-3,Olczanka
+M-34-101-A-a-3-1-3,Przełęcz między Kopieńcami
+M-34-101-A-a-3-1-3,Dolina Sucha
+M-34-101-A-a-3-1-3,Szałasiska
+M-34-101-A-a-3-1-2,Toporowy Staw Niżni
+M-34-101-A-a-3-1-4,Toporowy Staw Wyżni
+M-34-101-A-a-3-1-4,Wielki Kopieniec
+M-34-101-A-a-3-1-2,Toporowa Cyrhla
+M-34-101-A-a-3-1-2,Droga Oswalda Balzera
+M-34-101-A-a-3-1-4,Dolinka Chłabowska
+M-34-101-A-c-3-4-2,Mięguszowiecka Przełęcz
+M-34-101-A-c-3-4-2,Mięguszowiecki Szczyt
+M-34-101-A-c-3-4-2,Mała Mięguszowiecka Igła
+M-34-101-A-c-3-4-2,Wielka Mięguszowiecka Igła
+M-34-101-A-c-3-4-2,Szczerbina miedzy Mięguszowieckimi Igłami
+M-34-101-A-c-3-4-2,Szczerbina nad Igłami
+M-34-101-A-c-3-4-2,Igła Milówki
+M-34-101-A-c-3-4-2,Komin Martina
+M-34-101-A-c-3-4-2,Półki Ratowników
+M-34-101-A-c-3-4-2,Mięguszowiecka Baszta
+M-34-101-A-c-3-4-2,Mięguszowiecka Szczerbinka
+M-34-101-A-c-3-4-2,Rynny Szulakiewicza
+M-34-101-A-c-3-4-2,Mięguszowiecki Przechód
+M-34-101-A-c-3-4-2,Mięguszowiecka Szczerba
+M-34-101-A-c-3-4-2,Rynna Wawryki
+M-34-101-A-c-3-4-2,Filar Zaremby
+M-34-101-A-c-3-4-2,Mięguszowiecki Przechód
+M-34-101-A-c-3-4-2,Depresja Korosadowicza
+M-34-101-A-c-3-4-2,Zacięcie Szczuki
+M-34-101-A-c-3-4-2,Załupa Świerza
+M-34-101-A-c-3-4-2,Komin Krygowskiego
+M-34-101-A-c-3-4-2,Cienka Igła
+M-34-101-A-a-1-2-1,Budzów Potok
+M-34-101-A-a-1-2-3,Budzów Potok
+M-34-101-A-a-1-2-3,Budzów Potok
+M-34-101-A-a-1-2-3,Budzów Wierch
+M-34-101-A-a-1-2-2,Dolina
+M-34-101-A-a-1-2-4,Furtakówka
+M-34-101-A-a-1-2-3,Gackowe Potoczki
+M-34-101-A-a-1-2-2,Kunowski Potok
+M-34-101-A-a-1-2-2,Kunowski Potok
+M-34-101-A-a-1-2-2,Kotliny
+M-34-101-A-a-1-2-2,Nosal
+M-34-101-A-a-1-2-2,Nowy Bór
+M-34-101-A-a-1-2-1,Poroniec
+M-34-101-A-a-1-2-1,Poroniec
+M-34-101-A-a-1-2-2,Sichlański Potok
+M-34-101-A-a-1-2-4,Sichlański Potok
+M-34-101-A-a-1-2-2,Skalnite
+M-34-101-A-a-1-2-4,Stary Bór
+M-34-101-A-a-1-2-1,Upust
+M-34-101-A-a-1-2-1,Upust
+M-34-101-A-a-1-2-3,Upust
+M-34-101-A-a-1-2-2,Za Potokiem
+M-34-101-A-a-1-2-4,Za Wałem
+M-34-101-A-a-1-2-1,Cicha Woda
+M-34-101-A-a-1-2-4,Cicha Woda
+M-34-101-A-a-1-2-4,Cicha Woda
+M-34-101-A-a-1-2-2,Cicha Woda
+M-34-101-A-a-1-2-2,Chycakówka
+M-34-101-A-a-3-2-2,Broniarski Żleb
+M-34-101-A-a-3-2-1,Capowski Las
+M-34-101-A-a-3-2-3,Kobyła
+M-34-101-A-a-3-2-4,Kopy Sołtysie
+M-34-101-A-a-3-2-3,Kotliny
+M-34-101-A-a-3-2-2,Koziarczyska
+M-34-101-A-a-3-2-2,Koziarski Żleb
+M-34-101-A-a-3-2-4,Koziarski Żleb
+M-34-101-A-a-3-2-2,Koziarski Żleb
+M-34-101-A-a-3-2-4,Krzywań
+M-34-101-A-a-3-2-4,Łężny Potok
+M-34-101-A-a-3-2-3,Pańszczycki Potok
+M-34-101-A-a-3-2-3,Pod Kobyłą
+M-34-101-A-a-3-2-1,Podskalnia Polanka
+M-34-101-A-a-3-2-4,Podspad
+M-34-101-A-a-3-2-3,Polanka pod Kobyłą
+M-34-101-A-a-3-2-4,Przednia Kopa Sołtysia
+M-34-101-A-a-3-2-4,Przednia Sołtysia Przełęcz
+M-34-101-A-a-3-2-1,Sichlański Potok
+M-34-101-A-a-3-2-4,Skalnite
+M-34-101-A-a-3-2-4,Sołtysia Skałka
+M-34-101-A-a-3-2-2,Sucha Woda
+M-34-101-A-a-3-2-1,Sucha Woda
+M-34-101-A-a-3-2-3,Sucha Woda
+M-34-101-A-a-3-2-1,Sucha Woda
+M-34-101-A-a-3-2-4,Średnia Kopa Sołtysia
+M-34-101-A-a-3-2-4,Średnia Sołtysia Przełęcz
+M-34-101-A-a-3-2-4,Świniarski Żleb
+M-34-101-A-a-3-2-2,Wawrzeczkowa Cyrla
+M-34-101-A-a-3-2-2,Wysoki Regiel
+M-34-101-A-a-3-2-2,Zbójecki Żlebek
+M-34-101-A-a-3-2-2,Cyrhlański Regiel
+M-34-101-A-a-3-2-2,Droga Oswalda Balzera
+M-34-101-A-a-3-2-2,Zbójecka Skałka
+M-34-100-B-a-4-1-3,Dolina Chochołowska
+M-34-100-B-a-4-1-1,Polana Cicha
+M-34-100-B-a-4-1-4,Cisowa Turnia
+M-34-100-B-a-4-1-2,Habryłówka
+M-34-100-B-a-4-1-4,Kowaniec
+M-34-100-B-a-4-1-3,Koziniec
+M-34-100-B-a-4-1-3,Koziniecki Źleb
+M-34-100-B-a-4-1-4,Mała Sucha Dolina
+M-34-100-B-a-4-1-3,Małe Koryciska
+M-34-100-B-a-4-1-4,Mącicki Źleb
+M-34-100-B-a-4-1-4,Merkusia Polana
+M-34-100-B-a-4-1-3,Molkówka
+M-34-100-B-a-4-1-4,Siwa Polana
+M-34-100-B-a-4-1-2,Siwa Woda
+M-34-100-B-a-4-1-4,Siwa Woda
+M-34-100-B-a-4-1-3,Siwa Woda
+M-34-100-B-a-4-1-3,Siwiańskie Turnie
+M-34-100-B-a-4-1-4,Wielka Sucha Dolina
+M-34-100-B-a-4-1-2,Zdychałówka
+M-34-100-B-a-4-1-4,Suchy Potok
+M-34-100-B-a-4-1-4,Suchy Potok
+M-34-100-B-a-4-1-3,Siwiańska Dziura
+M-34-100-B-a-4-1-3,Małe Koryciska
+M-34-100-B-a-4-1-4,Merkusia Polana
+M-34-100-B-a-4-1-1,Cicha Woda Orawska
+M-34-100-B-a-4-1-3,Cicha Woda Orawska
+M-34-100-B-a-4-1-3,Cicha Woda Orawska
+M-34-100-B-a-4-1-4,Droga pod Reglami
+M-34-100-B-a-4-1-4,Kowańcowy Żlebek
+M-34-100-B-a-4-1-3,Mała Furkaska
+M-34-100-B-a-4-1-1,Brama Orawska
+M-34-100-B-a-4-4-4,Brama Kraszewskiego
+M-34-100-B-a-4-4-2,Cudakowa Polana
+M-34-100-B-a-4-4-3,Diabliniec
+M-34-100-B-a-4-4-4,Dziurawiec
+M-34-100-B-a-4-4-2,Kirowa Woda
+M-34-100-B-a-4-4-2,Kirowa Woda
+M-34-100-B-a-4-4-3,Przysłop Kominiarski
+M-34-100-B-a-4-4-4,Kopki
+M-34-100-B-a-4-4-1,Kopki
+M-34-100-B-a-4-4-4,Dolina Kościeliska
+M-34-100-B-a-4-4-2,Kościeliski Potok
+M-34-100-B-a-4-4-4,Kościeliski Potok
+M-34-100-B-a-4-4-4,Kościeliski Potok
+M-34-100-B-a-4-4-1,Kościeliskie Kopki
+M-34-100-B-a-4-4-1,Dolina Lejowa
+M-34-100-B-a-4-4-3,Lejowy Potok
+M-34-100-B-a-4-4-3,Lejowy Potok
+M-34-100-B-a-4-4-1,Lejowy Potok
+M-34-100-B-a-4-4-1,Lejówki
+M-34-100-B-a-4-4-4,Lodowe Źródło
+M-34-100-B-a-4-4-2,Miętusi Potok
+M-34-100-B-a-4-4-2,Dolina Miętusia
+M-34-100-B-a-4-4-4,Jaskinia Mroźna
+M-34-100-B-a-4-4-4,Jaskinia Naciekowa
+M-34-100-B-a-4-4-4,Niżnia Jaskinia nad Mostkiem
+M-34-100-B-a-4-4-3,Niżnia Komiarska Polana
+M-34-100-B-a-4-4-1,Pośrednia Kopka
+M-34-100-B-a-4-4-4,Stare Kościeliska
+M-34-100-B-a-4-4-1,Świńska Turnia
+M-34-100-B-a-4-4-2,Wściekły Źleb
+M-34-100-B-a-4-4-4,Wysranki
+M-34-100-B-a-4-4-4,Wyżnia Jaskinia nad Mostkiem
+M-34-100-B-a-4-4-2,Wyżnia Kira Miętusia
+M-34-100-B-a-4-4-3,Zabijak
+M-34-100-B-a-4-4-3,Zabijak
+M-34-100-B-a-4-4-2,Zadnia Kopka
+M-34-100-B-a-4-4-2,Zahradziska
+M-34-100-B-a-4-4-4,Żleb pod Wysranki
+M-34-100-B-a-4-4-4,Dziura nad Wapiennikiem
+M-34-100-B-a-4-4-4,Jaskinia Goryckiego
+M-34-100-B-a-4-4-4,Jaskinia między Żleby
+M-34-100-B-a-4-4-4,Korytarz do Jaskini Naciekowej
+M-34-100-B-a-4-4-4,Nisza z Jaworem
+M-34-100-B-a-4-4-4,Schron pod Jaskinią Goryckiego
+M-34-100-B-a-4-4-4,Schron ze Świeczką
+M-34-100-B-a-4-4-4,Szczelina nad Mostkiem
+M-34-100-B-a-4-4-4,Szczelina przy Dziurawcu
+M-34-100-B-a-4-4-4,Szczelina za Okrętem Pierwsza
+M-34-100-B-a-4-4-4,Szczelina za Okrętem Druga
+M-34-100-B-a-4-4-4,Szczelina za Okrętem Trzecia
+M-34-100-B-a-4-4-4,Tatowa Szczelina
+M-34-100-B-a-4-4-4,Wąska Szczelina
+M-34-100-B-a-4-4-4,Jaskinia w Małym Krakowie
+M-34-100-B-a-4-4-4,Komora w Okręcie
+M-34-100-B-a-4-4-4,Kolisty Grzbiet
+M-34-100-B-a-4-4-4,Okręt
+M-34-100-B-a-4-4-3,Niżnia Kominiarska Polana
+M-34-100-B-a-4-4-1,Huty
+M-34-100-B-a-4-4-1,Kopka
+M-34-100-B-a-4-4-3,Scieżka nad Reglami
+M-34-100-B-a-4-4-4,Scieżka nad Reglami
+M-34-100-B-a-4-4-2,Scieżka nad Reglami
+M-34-100-B-a-4-4-1,Hala Lejowa
+M-34-100-B-a-4-4-1,Hala Lejowa
+M-34-100-B-a-4-4-2,Żeleźniak
+M-34-100-B-a-4-4-4,Zastolański Żleb
+M-34-100-B-a-4-4-4,Żleb nad Mostkiem
+M-34-100-B-a-4-4-4,Niżnia Polana na Stołach
+M-34-100-B-a-4-4-3,Tylkowy Żleb
+M-34-100-B-a-4-4-4,Upłaźiński Żleb
+M-34-100-B-a-4-4-4,Mały Kraków
+M-34-100-B-a-4-4-4,Zbójeckie Siodło
+M-34-100-B-a-4-4-4,Kaplica Zbónicka
+M-34-100-B-b-2-1-2,Las do Gąszcza
+M-34-100-B-b-2-1-3,Furmanów Wierch
+M-34-100-B-b-2-1-3,Kotelnicki Potok
+M-34-100-B-b-2-1-4,Kotelnicki Potok
+M-34-100-B-b-2-1-1,Ligasowski Potok
+M-34-100-B-b-2-1-1,Ligasowski Potok
+M-34-100-B-b-2-1-4,Michnów Potok
+M-34-100-B-b-2-1-2,Rafaczański Potok
+M-34-100-B-b-2-1-2,Rafaczański Potok
+M-34-100-B-b-2-1-3,Reblów Potok
+M-34-100-B-b-2-1-3,Reblów Potok
+M-34-100-B-b-2-1-1,Suchy
+M-34-100-B-b-2-1-4,Kotlina Zakopiańska
+M-34-100-B-b-4-4-2,Boczań
+M-34-100-B-b-4-4-3,Boczań Kasprowy
+M-34-100-B-b-4-4-3,Bystra
+M-34-100-B-b-4-4-1,Bystra
+M-34-100-B-b-4-4-1,Bystra
+M-34-100-B-b-4-4-1,Dolina Bystrej
+M-34-100-B-b-4-4-1,Cyganka
+M-34-100-B-b-4-4-4,Czerwienica
+M-34-100-B-b-4-4-2,Czerwona Glina
+M-34-100-B-b-4-4-4,Długi Żleb
+M-34-100-B-b-4-4-3,Dudnica
+M-34-100-B-b-4-4-3,Dolina Goryczkowa
+M-34-100-B-b-4-4-3,Jaskinia Goryczkowa
+M-34-100-B-b-4-4-3,Goryczkowe Wywierzysko
+M-34-100-B-b-4-4-3,Goryczkowy Potok
+M-34-100-B-b-4-4-3,Goryczkowy Potok
+M-34-100-B-b-4-4-4,Gruba Turnia
+M-34-100-B-b-4-4-4,Herbik
+M-34-100-B-b-4-4-4,Jałowiarczysko
+M-34-100-B-b-4-4-4,Jaskinia w Czubie Jaworzyńskiej
+M-34-100-B-b-4-4-4,Jaworzynka
+M-34-100-B-b-4-4-4,Jaworzynka
+M-34-100-B-b-4-4-1,Jaworzynka
+M-34-100-B-b-4-4-2,Jaworzynka
+M-34-100-B-b-4-4-2,Jaworzynka
+M-34-100-B-b-4-4-1,Jaworzynka
+M-34-100-B-b-4-4-4,Jaworzynka
+M-34-100-B-b-4-4-1,Jaworzynka
+M-34-100-B-b-4-4-4,Jaworzynka
+M-34-100-B-b-4-4-4,Jaworzyńska Czuba
+M-34-100-B-b-4-4-3,Jaworzyńskie Czoła
+M-34-100-B-b-4-4-3,Kamienne
+M-34-100-B-b-4-4-3,Jaskinia Kasprowa Niżnia
+M-34-100-B-b-4-4-3,Kasprowa Polana
+M-34-100-B-b-4-4-3,Jaskinia Kasprowa Średnia
+M-34-100-B-b-4-4-4,Jaskinia Kasprowa Wyżnia
+M-34-100-B-b-4-4-3,Kasprowy Potok
+M-34-100-B-b-4-4-3,Kasprowy Potok
+M-34-100-B-b-4-4-3,Kasprowy Potok
+M-34-100-B-b-4-4-3,Kasprowy Stawek
+M-34-100-B-b-4-4-4,Kolebiska
+M-34-100-B-b-4-4-4,Kolebiska
+M-34-100-B-b-4-4-3,Kondrackie Rówienki
+M-34-100-B-b-4-4-3,Jaskinia Korytarzowa
+M-34-100-B-b-4-4-4,Kościelec
+M-34-100-B-b-4-4-2,Krzemionka
+M-34-100-B-b-4-4-4,Limbowe
+M-34-100-B-b-4-4-4,Jaskinia Magurska
+M-34-100-B-b-4-4-4,Małe Siodło
+M-34-100-B-b-4-4-4,Mnich
+M-34-100-B-b-4-4-3,Myślenicka Dziura
+M-34-100-B-b-4-4-3,Myślenickie Turnie
+M-34-100-B-b-4-4-2,Nieborak
+M-34-100-B-b-4-4-1,Niżnia Rówień
+M-34-100-B-b-4-4-1,Obłaz
+M-34-100-B-b-4-4-4,Ogrody
+M-34-100-B-b-4-4-2,Opaleniec
+M-34-100-B-b-4-4-4,Jaskinia Partyzancka Druga
+M-34-100-B-b-4-4-4,Jaskinia Partyzancka Pierwsza
+M-34-100-B-b-4-4-2,Parzące Turnie
+M-34-100-B-b-4-4-4,Jaskinia pod Limbą
+M-34-100-B-b-4-4-3,Jaskinia pod Szczytem
+M-34-100-B-b-4-4-4,Ptaki
+M-34-100-B-b-4-4-4,Rynna
+M-34-100-B-b-4-4-4,Skrzynia
+M-34-100-B-b-4-4-4,Skupniów Upłaz
+M-34-100-B-b-4-4-4,Solnisko
+M-34-100-B-b-4-4-4,Struć
+M-34-100-B-b-4-4-1,Szeroki Źleb
+M-34-100-B-b-4-4-4,Szerokie
+M-34-100-B-b-4-4-1,Szerokie Kalackie
+M-34-100-B-b-4-4-1,Śpiąca Góra
+M-34-100-B-b-4-4-4,Upłazki
+M-34-100-B-b-4-4-2,Wysokie
+M-34-100-B-b-4-4-3,Wywierzysko Bystrej
+M-34-100-B-b-4-4-4,Wyżnia Polana Jaworzyńska
+M-34-100-B-b-4-4-2,Wyżnia Rówień
+M-34-100-B-b-4-4-3,Zawracik Kasprowy
+M-34-100-B-b-4-4-3,Zawracik Kasprowy
+M-34-100-B-b-4-4-4,Zawracik
+M-34-100-B-b-4-4-2,Zgorzelec
+M-34-100-B-b-4-4-1,Źródliska
+M-34-100-B-b-4-4-4,Żleb pod Czerwienicą
+M-34-100-B-b-4-4-4,Żłobki
+M-34-100-B-b-4-4-3,Dziura pod Kamieniem
+M-34-100-B-b-4-4-3,Grota u Podnóża Myślenickich Turni
+M-34-100-B-b-4-4-4,Grotka Zwolińskiego
+M-34-100-B-b-4-4-2,Jaskinia w Cycku
+M-34-100-B-b-4-4-4,Jaworzyńska Nyża pod Iglicą
+M-34-100-B-b-4-4-4,Kasprowe Schronisko
+M-34-100-B-b-4-4-3,Korytarzyk nad Jaskinią Kalacką
+M-34-100-B-b-4-4-3,Korytarzyk przy Jaskini Kalackiej
+M-34-100-B-b-4-4-3,Myślenicka Nyża
+M-34-100-B-b-4-4-3,Myślenicka Szczelina
+M-34-100-B-b-4-4-3,Myślenicki Korytarzyk
+M-34-100-B-b-4-4-3,Nisza w Zawraciku Kasprowym
+M-34-100-B-b-4-4-4,Nyża pod Jaskinią Magurską Trzecia
+M-34-100-B-b-4-4-3,Nyża pod Myślenicką Szczeliną
+M-34-100-B-b-4-4-3,Schron z Nietoperzami
+M-34-100-B-b-4-4-4,Schronisko Jasne w Czubie Jaworzyńskiej
+M-34-100-B-b-4-4-4,Szczelina nad Jaskinią Partyzancką
+M-34-100-B-b-4-4-3,Szczelina w Myślenickich Turniach Dolna
+M-34-100-B-b-4-4-3,Szczelina w Myślenickich Turniach Górna
+M-34-100-B-b-4-4-3,Szczelina w Zawraciku Kasprowym Pierwsza
+M-34-100-B-b-4-4-3,Szczelina w Zawraciku Kasprowym Druga
+M-34-100-B-b-4-4-3,Szczelina w Zawraciku Kasprowym Trzecia
+M-34-100-B-b-4-4-4,Szczelina w Zawraciku Kasprowym Czwarta
+M-34-100-B-b-4-4-4,Jaworzyńskie Rówienki
+M-34-100-B-b-4-4-1,Zaręba
+M-34-100-B-b-4-4-1,Wykroty
+M-34-100-B-b-4-4-1,Cygan
+M-34-100-B-b-4-4-2,Za Boczań
+M-34-100-B-b-4-4-2,Suchy Brzeżek
+M-34-100-B-b-4-4-4,Wyżniowa Droga
+M-34-100-B-b-4-4-4,Wyżniowa Droga
+M-34-100-B-b-4-4-4,Wyżniowa Droga
+M-34-100-B-b-4-4-4,Żleb pod Czerwienicą
+M-34-100-B-b-4-4-4,Turniowa Droga
+M-34-100-B-b-4-4-4,Turniowa Droga
+M-34-100-B-b-4-4-4,Turniowa Droga
+M-34-100-B-b-4-4-4,Siodłowa Perć
+M-34-100-B-b-4-4-4,Siodłowa Perć
+M-34-100-B-b-4-4-4,Siodłowa Perć
+M-34-100-B-b-4-4-4,Piszczałki
+M-34-100-B-b-4-4-4,Siodłowa Droga
+M-34-100-B-b-4-4-4,Siodłowa Droga
+M-34-100-B-b-4-4-4,Siodłowa Droga
+M-34-100-B-b-4-4-4,Pod Turnie
+M-34-100-B-b-4-4-4,Ściany
+M-34-100-B-b-4-4-4,Wołowa Turnia
+M-34-100-B-b-4-4-4,Pod Limbowe
+M-34-100-B-b-4-4-3,Szeroki Żleb
+M-34-100-B-b-4-4-1,Skałka
+M-34-100-B-b-4-4-3,Filar z Grotą
+M-34-100-B-b-4-4-3,Kasprowa Iglica
+M-34-100-B-b-4-4-3,Kasprowa Niżnia
+M-34-100-B-b-4-4-4,Szerokie Siodło
+M-34-100-B-b-4-4-4,Bananowa Rysa
+M-34-100-B-b-4-4-3,Bystra Polanka
+M-34-100-B-b-4-4-1,Cycek
+M-34-100-B-b-4-4-4,Gładki Zachód
+M-34-100-B-b-4-4-3,Wywierzysko Bystre
+M-34-100-B-c-2-3-1,Baniste
+M-34-100-B-c-2-3-1,Banisty Żleb
+M-34-100-B-c-2-3-1,Baraniarka
+M-34-100-B-c-2-3-3,Cielęce Tańce
+M-34-100-B-c-2-3-3,Dudowa Kotlina
+M-34-100-B-c-2-3-3,Dudowe Stawki
+M-34-100-B-c-2-3-3,Dudowe Turnie
+M-34-100-B-c-2-3-1,Dwojakowy Żleb
+M-34-100-B-c-2-3-3,Graniczniak
+M-34-100-B-c-2-3-2,Iwanowski Potok
+M-34-100-B-c-2-3-4,Kotłowe Siodło
+M-34-100-B-c-2-3-4,Kotłowy Upłaz
+M-34-100-B-c-2-3-4,Kotły
+M-34-100-B-c-2-3-3,Mała Szczerba
+M-34-100-B-c-2-3-4,Mały Rohacz
+M-34-100-B-c-2-3-4,Ornaczańska Przełęcz
+M-34-100-B-c-2-3-2,Ornak
+M-34-100-B-c-2-3-4,Pieranisko
+M-34-100-B-c-2-3-3,Piętra
+M-34-100-B-c-2-3-1,Pośredni Upłaz
+M-34-100-B-c-2-3-1,Pośredni Żleb
+M-34-100-B-c-2-3-3,Rówień za Wodą
+M-34-100-B-c-2-3-4,Siwe Skały
+M-34-100-B-c-2-3-1,Skoruśniak
+M-34-100-B-c-2-3-4,Skośne Wolarnie
+M-34-100-B-c-2-3-1,Skrajna Wolarnia
+M-34-100-B-c-2-3-1,Stara Robota
+M-34-100-B-c-2-3-3,Starorobociańska Rówień
+M-34-100-B-c-2-3-4,Starorobociański Potok
+M-34-100-B-c-2-3-1,Starorobociański Potok
+M-34-100-B-c-2-3-1,Starorobociański Potok
+M-34-100-B-c-2-3-3,Starorobociański Potok
+M-34-100-B-c-2-3-3,Stosy
+M-34-100-B-c-2-3-2,Suchy Wierch Ornaczański
+M-34-100-B-c-2-3-2,Szeroki Upłaz
+M-34-100-B-c-2-3-3,Szyja
+M-34-100-B-c-2-3-4,Tatry Zachodnie
+M-34-100-B-c-2-3-4,Tatry
+M-34-100-B-c-2-3-4,Usypy
+M-34-100-B-c-2-3-3,Wielka Szczerba
+M-34-100-B-c-2-3-2,Wielki Rohacz
+M-34-100-B-c-2-3-2,Wielkie Dwojaki
+M-34-100-B-c-2-3-1,Wydarte
+M-34-100-B-c-2-3-1,Wydarty Żleb
+M-34-100-B-c-2-3-2,Wyżnia Ornaczańska Przełęcz
+M-34-100-B-c-2-3-4,Zadni Ornak
+M-34-100-B-c-2-3-4,Zadnia Wolarnia
+M-34-100-B-c-2-3-3,Żleb na Przełęcz
+M-34-100-B-c-2-3-3,Żleb pod Pyszną
+M-34-100-B-c-2-3-1,Hawiarska Droga
+M-34-100-B-c-2-3-2,Nadbaniste
+M-34-100-B-c-2-3-3,Wywieziona Ulica
+M-34-101-A-c-1-4-4,Bacowa Skała
+M-34-101-A-c-1-4-2,Biały Żleb
+M-34-101-A-c-1-4-1,Buczynowa Dolinka
+M-34-101-A-c-1-4-2,Buczynowa Koleba
+M-34-101-A-c-1-4-1,Buczynowa Przełęcz
+M-34-101-A-c-1-4-1,Buczynowa Siklawa
+M-34-101-A-c-1-4-1,Buczynowa Strażnica
+M-34-101-A-c-1-4-1,Buczynowa Turniczka
+M-34-101-A-c-1-4-1,Buczynowe Turnie
+M-34-101-A-c-1-4-1,Czarne Ściany
+M-34-101-A-c-1-4-2,Dziadula
+M-34-101-A-c-1-4-1,Granacka Przełęcz
+M-34-101-A-c-1-4-1,Granaty
+M-34-101-A-c-1-4-2,Koryto
+M-34-101-A-c-1-4-3,Kozie Percie
+M-34-101-A-c-1-4-2,Krzyżne
+M-34-101-A-c-1-4-1,Żleb Kulczyńskiego
+M-34-101-A-c-1-4-1,Mała Buczynowa Turnia
+M-34-101-A-c-1-4-3,Mały Staw
+M-34-101-A-c-1-4-3,Niżni Zagon
+M-34-101-A-c-1-4-4,Niżnia Kopa
+M-34-101-A-c-1-4-3,Niżnie Rzędy
+M-34-101-A-c-1-4-3,Niżnie Solnisko
+M-34-101-A-c-1-4-2,Nowa Roztoka
+M-34-101-A-c-1-4-1,Przełęcz Nowickiego
+M-34-101-A-c-1-4-1,Orla Baszta
+M-34-101-A-c-1-4-3,Piargi pod Siklawą
+M-34-101-A-c-1-4-4,Dolina Pięciu Stawów Polskich
+M-34-101-A-c-1-4-1,Pośredni Granat
+M-34-101-A-c-1-4-4,Przedni Staw
+M-34-101-A-c-1-4-1,Przełęcz nad Doliną Buczynową
+M-34-101-A-c-1-4-1,Ptak
+M-34-101-A-c-1-4-3,Roztoka
+M-34-101-A-c-1-4-4,Roztoka
+M-34-101-A-c-1-4-2,Roztoka
+M-34-101-A-c-1-4-1,Rysa Zaruskiego
+M-34-101-A-c-1-4-4,Rzeżuchy
+M-34-101-A-c-1-4-3,Siklawa
+M-34-101-A-c-1-4-1,Skrajna Pańszczycka Czuba
+M-34-101-A-c-1-4-1,Skrajny Granat
+M-34-101-A-c-1-4-2,Skrajny Litworowy Żleb
+M-34-101-A-c-1-4-3,Stara Koleba
+M-34-101-A-c-1-4-1,Suche
+M-34-101-A-c-1-4-3,Szeroki Żleb
+M-34-101-A-c-1-4-1,Szeroki Żleb Buczynowy
+M-34-101-A-c-1-4-4,Świstowa Czuba
+M-34-101-A-c-1-4-2,Urwany Żleb
+M-34-101-A-c-1-4-4,Usypisty Piarg
+M-34-101-A-c-1-4-4,Usypisty Żleb
+M-34-101-A-c-1-4-1,Wielka Buczynowa Turnia
+M-34-101-A-c-1-4-3,Wielki Staw
+M-34-101-A-c-1-4-2,Wielki Wołoszyn
+M-34-101-A-c-1-4-2,Wielki Wołoszyn
+M-34-101-A-c-1-4-2,Wołoszyn
+M-34-101-A-c-1-4-3,Wyżni Zagon
+M-34-101-A-c-1-4-4,Wyżnia Kopa
+M-34-101-A-c-1-4-3,Wyżnie Rzędy
+M-34-101-A-c-1-4-1,Zadni Granat
+M-34-101-A-c-1-4-4,Zadni Litworowy Żleb
+M-34-101-A-c-1-4-1,Zadnia Pańszczycka Czuba
+M-34-101-A-c-1-4-1,Zadnia Sieczkowa Przełęcz
+M-34-101-A-c-1-4-2,Żleb pod Krzyżem
+M-34-101-A-c-1-4-4,Żółta Skała
+M-34-101-A-c-1-4-2,Dziura nad Nową Roztoką
+M-34-101-A-c-1-4-2,Dziura nad Roztoką
+M-34-101-A-c-1-4-1,Buczynowa Grań
+M-34-101-A-c-1-4-1,Buczynowe Czuby
+M-34-101-A-c-1-4-1,Budzowa Przełączka
+M-34-101-A-c-1-4-1,Kozie Wierchy
+M-34-101-A-c-1-4-3,Kozie Wierchy
+M-34-101-A-c-1-4-1,Przełączka nad Dolinką Buczynową
+M-34-101-A-c-1-4-1,Przełączka nad Dolinką Buczynową
+M-34-101-A-c-1-4-2,Przełączka Pod Ptakiem
+M-34-101-A-c-1-4-1,Przełączka Pod Ptakiem
+M-34-101-A-c-1-4-1,Pośrednia Sieczkowa Przełączka
+M-34-101-A-c-1-4-1,Skrajna Sieczkowa Przełączka
+M-34-101-A-c-1-4-1,Niżnia Pańszczycka Przełączka
+M-34-101-A-c-1-4-1,Niżnia Pańszczycka Przełączka
+M-34-101-A-c-1-4-1,Pańszczyckie Czuby
+M-34-101-A-c-1-4-1,Pościel Jasińskiego
+M-34-101-A-c-1-4-1,Pościel Jasińskiego
+M-34-101-A-c-1-4-1,Niżnia Orla Przełączka
+M-34-101-A-c-1-4-1,Wyżnia Orla Przełączka
+M-34-101-A-c-1-4-1,Orle Turniczki
+M-34-101-A-c-1-4-1,Budzowa Igła
+M-34-101-A-c-1-4-1,Wielka Orla Turniczka
+M-34-101-A-c-1-4-1,Kopa nad Krzyżnem
+M-34-101-A-c-1-4-1,Mała Orla Turniczka
+M-34-101-A-c-1-4-1,Pańszczyckie Koryto
+M-34-101-A-c-1-4-1,Buczynowe Ramię
+M-34-101-A-c-1-4-1,Ku Kolebie
+M-34-101-A-c-1-4-1,Mała Buczynowa Przełączka
+M-34-101-A-c-1-4-1,Mała Buczynowa Przełączka
+M-34-101-A-c-1-4-1,Kopa nad Krzyżnem
+M-34-101-A-c-1-4-1,Buczynowy Grzebyk
+M-34-101-A-c-1-4-1,Buczynowy Przechód
+M-34-101-A-c-1-4-1,Zazadani Czarny Granat
+M-34-101-A-c-1-4-4,Siodło
+M-34-101-A-c-1-4-4,Żleb Siniaków
+M-34-101-A-c-1-4-4,Świstowy Mnich
+M-34-101-A-c-1-4-3,Wrótka
+M-34-101-A-c-1-4-1,Pańszczycka Przełączka Pośrednia
+M-34-101-A-c-1-4-1,Pańszczycka Przełączka Pośrednia
+M-34-101-A-c-1-4-1,Pańszczycka Przełączka Wyżnia
+M-34-101-A-c-1-4-1,Pańszczycka Przełączka Wyżnia
+M-34-101-A-c-1-4-2,Do Łomów
+M-34-101-A-c-1-4-1,Kozi Mur
+M-34-101-A-c-1-4-4,Świstowa Kopa
+M-34-101-A-c-1-4-4,Świstowe Siodło
+M-34-101-A-c-1-4-4,Roztocki Mnich
+M-34-101-A-c-1-4-4,Żleb Paryskiego
+M-34-101-A-c-1-4-4,Równia nad Kępą
+M-34-101-A-c-1-4-4,Północna Ściana
+M-34-101-A-c-1-4-4,Komin Siniaków
+M-34-101-A-c-1-3-4,Czarna Skała
+M-34-101-A-c-1-3-1,Czerwone Stawki
+M-34-101-A-c-1-3-1,Czerwone Stawki
+M-34-101-A-c-1-3-1,Długi Staw
+M-34-101-A-c-1-3-4,Pusta Dolinka
+M-34-101-A-c-1-3-3,Dolinka pod Kołem
+M-34-101-A-c-1-3-1,Gąsienicowa Przełączka
+M-34-101-A-c-1-3-1,Gąsienicowa Turnia
+M-34-101-A-c-1-3-1,Gąsienicowe Stawy
+M-34-101-A-c-1-3-3,Gładka Przełęcz
+M-34-101-A-c-1-3-1,Karb
+M-34-101-A-c-1-3-3,Koło
+M-34-101-A-c-1-3-4,Kołowa Czuba
+M-34-101-A-c-1-3-2,Kościelcowa Przełęcz
+M-34-101-A-c-1-3-2,Kościelcowy Kocioł
+M-34-101-A-c-1-3-1,Kościelec
+M-34-101-A-c-1-3-4,Kozi Wierch
+M-34-101-A-c-1-3-2,Kozia Dolinka
+M-34-101-A-c-1-3-2,Kozia Przełęcz
+M-34-101-A-c-1-3-2,Kozia Przełęcz Wyżnia
+M-34-101-A-c-1-3-2,Kozie Czuby
+M-34-101-A-c-1-3-4,Mały Kozi Wierch
+M-34-101-A-c-1-3-2,Mylna Przełęcz
+M-34-101-A-c-1-3-2,Niebieska Przełęcz
+M-34-101-A-c-1-3-1,Niebieska Turnia
+M-34-101-A-c-1-3-4,Niżnie Solnisko
+M-34-101-A-c-1-3-3,Dolina Pięciu Stawów Polskich
+M-34-101-A-c-1-3-1,Pośrednia Turnia
+M-34-101-A-c-1-3-4,Przełęcz Schodki
+M-34-101-A-c-1-3-1,Skrajna Przełęcz
+M-34-101-A-c-1-3-1,Skrajny Żleb
+M-34-101-A-c-1-3-2,Żleb Staniszewskiego
+M-34-101-A-c-1-3-1,Świnica
+M-34-101-A-c-1-3-1,Świnicka Kotlinka
+M-34-101-A-c-1-3-1,Świnicka Przełęcz
+M-34-101-A-c-1-3-3,Walentkowa Kopka
+M-34-101-A-c-1-3-3,Walentkowa Przełęcz
+M-34-101-A-c-1-3-3,Walentkowy Wierch
+M-34-101-A-c-1-3-4,Wolaczyska
+M-34-101-A-c-1-3-3,Wole Oko
+M-34-101-A-c-1-3-1,Wyżnia Niebieska Przełączka
+M-34-101-A-c-1-3-2,Wyżnia Zmarzła Przełączka
+M-34-101-A-c-1-3-4,Wyżnie Solnisko
+M-34-101-A-c-1-3-2,Zadni Kościelec
+M-34-101-A-c-1-3-3,Zadni Piarg
+M-34-101-A-c-1-3-3,Zadni Staw
+M-34-101-A-c-1-3-1,Zadni Staw Gąsienicowy
+M-34-101-A-c-1-3-1,Zadnie Koło
+M-34-101-A-c-1-3-2,Zamarła Turnia
+M-34-101-A-c-1-3-1,Żleb Zaruskiego
+M-34-101-A-c-1-3-2,Zawrat
+M-34-101-A-c-1-3-2,Zawratowa Turnia
+M-34-101-A-c-1-3-2,Zawratowy Żleb
+M-34-101-A-c-1-3-2,Zmarzła Przełęcz
+M-34-101-A-c-1-3-2,Zmarzłe Czuby
+M-34-101-A-c-1-3-2,Zmarzły Staw
+M-34-101-A-c-1-3-2,Żydowski Żleb
+M-34-101-A-c-1-3-1,Schron przy Źródle
+M-34-101-A-c-1-3-1,Schron w Zadnim Kościelcu
+M-34-101-A-c-1-3-2,Szczelina w Zadnim Kościelcu
+M-34-101-A-c-1-3-2,Świnicka Koleba
+M-34-101-A-c-1-3-2,Świnicka Koleba Niżnia
+M-34-101-A-c-1-3-2,Wyżnia Szczelina w Zadnim Kościelcu
+M-34-101-A-c-1-3-1,Wyżnia Świnicka Szczerbina
+M-34-101-A-c-1-3-1,Świnicka Kopa
+M-34-101-A-c-1-3-1,Niżnia Świnicka Szczerbina
+M-34-101-A-c-1-3-1,Niżnie Walentkowe Wrótka
+M-34-101-A-c-1-3-3,Pośrednia Walentkowa Czuba
+M-34-101-A-c-1-3-3,Wyżnie Walentkowe Wrótka
+M-34-101-A-c-1-3-3,Wielka Walentkowa Czuba
+M-34-101-A-c-1-3-3,Niżnia Walentkowa Baszta
+M-34-101-A-c-1-3-3,Wielka Walentkowa Szczerbina
+M-34-101-A-c-1-3-3,Walentkowa Grań
+M-34-101-A-c-1-3-2,Żleb Drége’a
+M-34-101-A-c-1-3-3,Wyżnia Walentkowa Szczerbina
+M-34-101-A-c-1-3-3,Wyżnie Walentkowe Wrótka
+M-34-101-A-c-1-3-3,Niżnie Walentkowe Wrótka
+M-34-101-A-c-1-3-1,Zgłady nad Czerwonymi Stawkami
+M-34-101-A-c-1-3-1,Mylna Kotlinka
+M-34-101-A-c-1-3-1,Świnicka Grań
+M-34-101-A-c-1-3-2,Rysa Kordysa
+M-34-101-A-c-1-3-2,Honoratka
+M-34-101-A-c-1-3-2,Nowy Zawrat
+M-34-101-A-c-1-3-1,Niżnie Mylne Wrótka
+M-34-101-A-c-1-3-1,Pośrednie Mylne Wrótka
+M-34-101-A-c-1-3-1,Wyżnie Mylne Wrótka
+M-34-101-A-c-1-3-1,Mylna Strażnica
+M-34-101-A-c-1-3-1,Komin Świerza
+M-34-101-A-c-1-3-1,Niebieska Przełączka Wyżnia
+M-34-101-A-c-1-3-2,Kościelcowa Grzęda
+M-34-101-A-c-1-3-2,Czarna Wanta
+M-34-101-A-c-1-3-2,Kocioł Zmarzłego Stawu
+M-34-101-A-c-1-3-2,Kocioł Czarnego Stawu Gąsienicowego
+M-34-101-A-c-1-3-2,Mały Zawrat
+M-34-101-A-c-1-3-2,Rysa Rzepeckich
+M-34-101-A-c-1-3-2,Pańszczyckie Koryto
+M-34-101-A-c-1-3-2,Żebro Czecha
+M-34-101-A-c-1-3-3,Niżnia Walentkowa Szczerbina
+M-34-101-A-c-1-3-3,Pośrednia Walentkowa Czuba
+M-34-101-A-c-1-3-3,Mała Walentkowa Czuba
+M-34-101-A-c-1-3-3,Walentkowy Grzebień
+M-34-101-A-c-1-3-3,Niżnia Walentkowa Baszta
+M-34-101-A-c-1-3-3,Wielka Walentkowa Czuba
+M-34-101-A-c-1-3-1,Swinicki Przechód
+M-34-101-A-c-1-3-2,Mylna Kopa
+M-34-101-A-c-1-3-1,Mylna Turnia
+M-34-101-A-c-1-3-2,Komin Drewnowskiego
+M-34-101-A-c-1-3-2,Płyta Lerskiego
+M-34-101-A-c-1-3-1,Czuba nad Karbem
+M-34-101-A-c-1-3-2,Filar Leporowskiego
+M-34-101-A-c-1-3-4,Turnia nad Schodkami
+M-34-101-A-c-1-3-3,Gładkie
+M-34-100-B-a-3-2-4,Koryciańskie Turnie
+M-34-100-B-b-1-3-4,Blachowski Potok
+M-34-100-B-b-1-3-4,Blachowski Potok
+M-34-100-B-b-1-3-2,Butorowski Potok
+M-34-100-B-b-1-3-4,Butorowski Potok
+M-34-100-B-b-1-3-4,Butorowski Potok
+M-34-100-B-b-1-3-4,Butorowy Wierch
+M-34-100-B-b-1-3-2,Dzianiski Potok
+M-34-100-B-b-1-3-1,Golów
+M-34-100-B-b-1-3-2,Groniki
+M-34-100-B-b-1-3-1,Groników Stawki
+M-34-100-B-b-1-3-1,Palenica
+M-34-100-B-b-1-3-2,Ptasiów
+M-34-100-B-b-1-3-1,Głęboki Potok
+M-34-100-B-b-1-3-2,Paługów Potok
+M-34-100-B-b-1-3-1,Mietłówka
+M-34-100-B-b-1-3-1,Gawrony
+M-34-100-B-b-1-3-1,Droga przez Gubałówkę
+M-34-100-B-d-1-1-4,Chuda Przełączka
+M-34-100-B-d-1-1-4,Chuda Turnia
+M-34-100-B-d-1-1-3,Jaskinia Ciasna
+M-34-100-B-d-1-1-4,Ciemniak
+M-34-100-B-d-1-1-1,Cienka Skałka
+M-34-100-B-d-1-1-4,Czerwone Wierchy
+M-34-100-B-d-1-1-2,Dziura nad Studnią
+M-34-100-B-d-1-1-2,Dziurawe
+M-34-100-B-d-1-1-3,Gawra
+M-34-100-B-d-1-1-1,Gładkie Upłaziańskie
+M-34-100-B-d-1-1-3,Jaskinia Jagnięca
+M-34-100-B-d-1-1-3,Kamienne Tomanowe
+M-34-100-B-d-1-1-1,Karczma
+M-34-100-B-d-1-1-4,Karczmisko
+M-34-100-B-d-1-1-4,Kazalnica
+M-34-100-B-d-1-1-2,Kobylarz
+M-34-100-B-d-1-1-2,Korytarz nad Dziurawem
+M-34-100-B-d-1-1-4,Kozie Upłazki
+M-34-100-B-d-1-1-3,Krakowska Piwnica
+M-34-100-B-d-1-1-3,Kraków
+M-34-100-B-d-1-1-2,Krucha Szczelina
+M-34-100-B-d-1-1-4,Lodowa Baszta
+M-34-100-B-d-1-1-3,Jaskinia Lodowa Krakowska
+M-34-100-B-d-1-1-4,Jaskinia Lodowa Mułowa
+M-34-100-B-d-1-1-4,Jaskinia Lodowa w Ciemniaku
+M-34-100-B-d-1-1-3,Lustrzana Szczelina
+M-34-100-B-d-1-1-4,Mała Przełączka
+M-34-100-B-d-1-1-1,Mała Sikawka
+M-34-100-B-d-1-1-2,Mała Świstówka
+M-34-100-B-d-1-1-2,Jaskinia Marmurowa
+M-34-100-B-d-1-1-3,Mechy
+M-34-100-B-d-1-1-2,Jaskinia Miętusia Wyżnia
+M-34-100-B-d-1-1-2,Hala Miętusia
+M-34-100-B-d-1-1-2,Jaskinia Miętusia
+M-34-100-B-d-1-1-4,Mułowa Przełęcz
+M-34-100-B-d-1-1-4,Dolina Mułowa
+M-34-100-B-d-1-1-3,Dziura nad Zachodem Wyżnia
+M-34-100-B-d-1-1-2,Jaskinia Niedźwiedzia Niżnia
+M-34-100-B-d-1-1-2,Niedźwiedź Miętusi
+M-34-100-B-d-1-1-4,Niżnie Szerokie Upłaziańskie
+M-34-100-B-d-1-1-1,Piec
+M-34-100-B-d-1-1-2,Piwnica Miętusia
+M-34-100-B-d-1-1-3,Jaskinia pod Okapem
+M-34-100-B-d-1-1-3,Dziura pod Smrekiem
+M-34-100-B-d-1-1-2,Jaskinia pod Wierchem
+M-34-100-B-d-1-1-3,Jaskinia Pośrednia
+M-34-100-B-d-1-1-3,Przednie Wysokie Siodło
+M-34-100-B-d-1-1-4,Przełączka przy Kopie
+M-34-100-B-d-1-1-3,Przełączka za Saturnem
+M-34-100-B-d-1-1-2,Jaskinia przy Grzędzie
+M-34-100-B-d-1-1-2,Jaskinia przy Progu Mułowym
+M-34-100-B-d-1-1-1,Przysłopki
+M-34-100-B-d-1-1-3,Jaskinia Psia
+M-34-100-B-d-1-1-3,Ptakowa Turnia
+M-34-100-B-d-1-1-3,Ptasi Schron
+M-34-100-B-d-1-1-2,Ptasia Studnia
+M-34-100-B-d-1-1-2,Ratusz Litworowy
+M-34-100-B-d-1-1-4,Rzędy
+M-34-100-B-d-1-1-1,Skalnisty Żlebek
+M-34-100-B-d-1-1-3,Smreczyńskie Kamienne
+M-34-100-B-d-1-1-1,Snoza
+M-34-100-B-d-1-1-2,Studnia w Dziurawem
+M-34-100-B-d-1-1-2,Studnia w Małej Świstówce
+M-34-100-B-d-1-1-3,Żleb Trzynastu Progów
+M-34-100-B-d-1-1-2,Twarda Ściana
+M-34-100-B-d-1-1-4,Twardy Grzbiet
+M-34-100-B-d-1-1-4,Twardy Grzbiet
+M-34-100-B-d-1-1-4,Twardy Upłaz
+M-34-100-B-d-1-1-4,Upłaz
+M-34-100-B-d-1-1-1,Upłaziańska Kopa
+M-34-100-B-d-1-1-1,Upłazkowa Przełączka
+M-34-100-B-d-1-1-3,Upłazkowa Turnia
+M-34-100-B-d-1-1-2,Jaskinia w Małej Świstówce
+M-34-100-B-d-1-1-4,Jaskinia w Progu
+M-34-100-B-d-1-1-4,Jaskinia w Szerokiem
+M-34-100-B-d-1-1-4,Jaskinia w Trawie
+M-34-100-B-d-1-1-2,Wantule
+M-34-100-B-d-1-1-1,Wielka Sikawka
+M-34-100-B-d-1-1-2,Wielka Świstówka
+M-34-100-B-d-1-1-2,Wodniściak
+M-34-100-B-d-1-1-3,Wolarnia
+M-34-100-B-d-1-1-1,Wolarnia
+M-34-100-B-d-1-1-3,Wolarski Przechód
+M-34-100-B-d-1-1-2,Wołowy Żleb
+M-34-100-B-d-1-1-3,Wysoka Turnia
+M-34-100-B-d-1-1-3,Jaskinia Wysoka
+M-34-100-B-d-1-1-3,Wysoki Grzbiet
+M-34-100-B-d-1-1-3,Wysokie Siodło Kamienne
+M-34-100-B-d-1-1-1,Wysranki
+M-34-100-B-d-1-1-4,Wyżnie Szerokie Upłaziańskie
+M-34-100-B-d-1-1-3,Jaskinia z Mostami
+M-34-100-B-d-1-1-3,Jaskinia za Siedmiu Progami
+M-34-100-B-d-1-1-3,Zadnie Wysokie Siodło
+M-34-100-B-d-1-1-1,Jaskinia Zakopiańska
+M-34-100-B-d-1-1-4,Jaskinia Zawaliskowa w Szerokiem
+M-34-100-B-d-1-1-2,Zawaliskowy Korytarz
+M-34-100-B-d-1-1-1,Zdziary
+M-34-100-B-d-1-1-1,Żleb pod Wysranki
+M-34-100-B-d-1-1-3,Żar
+M-34-100-B-d-1-1-3,Gruzowa Dziura
+M-34-100-B-d-1-1-3,Arkada
+M-34-100-B-d-1-1-2,Ciasna Szczelina
+M-34-100-B-d-1-1-2,Dziura na Półce
+M-34-100-B-d-1-1-3,Dziura nad Trawiastym Progiem
+M-34-100-B-d-1-1-2,Dziura nad Wantulami Pierwsza
+M-34-100-B-d-1-1-2,Dziura nad Wantulami Druga
+M-34-100-B-d-1-1-2,Dziura nad Wantulami Trzecia
+M-34-100-B-d-1-1-4,Dziura nad Zawaliskiem
+M-34-100-B-d-1-1-3,Dziura nad Żlebem
+M-34-100-B-d-1-1-3,Dziura nad Zachodem
+M-34-100-B-d-1-1-3,Dziura pod Arkadą
+M-34-100-B-d-1-1-3,Dziura pod Wantą
+M-34-100-B-d-1-1-4,Dziura pod Zawaliskiem
+M-34-100-B-d-1-1-4,Dziura w Ciemniaku
+M-34-100-B-d-1-1-2,Dziura w Kominie
+M-34-100-B-d-1-1-3,Dziura w Wielkiej Turni
+M-34-100-B-d-1-1-4,Dziura w Wysokim Grzbiecie
+M-34-100-B-d-1-1-1,Dziura w Ździarach
+M-34-100-B-d-1-1-3,Dziura z Konkrecjami Niżnia
+M-34-100-B-d-1-1-3,Dziura z Konkrecjami Wyżnia
+M-34-100-B-d-1-1-2,Górne Kominy
+M-34-100-B-d-1-1-2,Harnasiowa Szczelina
+M-34-100-B-d-1-1-2,Jasiowa Dziura
+M-34-100-B-d-1-1-3,Jaskinia Dwuotworowa Krakowska
+M-34-100-B-d-1-1-3,Jaskinia Gankowa
+M-34-100-B-d-1-1-3,Jaskinia Hakowa
+M-34-100-B-d-1-1-4,Jaskinia Lejbusiowa
+M-34-100-B-d-1-1-2,Jaskinia Lodowa Miętusia
+M-34-100-B-d-1-1-2,Jaskinia Lodowa w Twardych Spadach
+M-34-100-B-d-1-1-4,Jaskinia Mała w Mułowej
+M-34-100-B-d-1-1-3,Jaskinia nad Arkadą
+M-34-100-B-d-1-1-3,Jaskinia Pajęcza
+M-34-100-B-d-1-1-3,Jaskinia Piarżysta
+M-34-100-B-d-1-1-2,Jaskinia Niedźwiedzia Średnia
+M-34-100-B-d-1-1-3,Jaskinia przy Perci
+M-34-100-B-d-1-1-3,Jaskinia przy Sikawce
+M-34-100-B-d-1-1-3,Jaskinia Skoruszowa
+M-34-100-B-d-1-1-2,Jaskinia za Zaciskiem
+M-34-100-B-d-1-1-3,Jaskinia Zakosista
+M-34-100-B-d-1-1-3,Jaworowa Szczelina
+M-34-100-B-d-1-1-4,Kamienista Szczelina
+M-34-100-B-d-1-1-3,Koliby
+M-34-100-B-d-1-1-2,Komin w Kazalnicy Miętusiej
+M-34-100-B-d-1-1-3,Korytarzyk pod Jaskinią Jagnięcą
+M-34-100-B-d-1-1-3,Korytarzyk w Żlebie Niedźwiedź
+M-34-100-B-d-1-1-3,Kozi Schron Pierwszy
+M-34-100-B-d-1-1-3,Krasowa Nisza
+M-34-100-B-d-1-1-2,Mała Komora
+M-34-100-B-d-1-1-3,Mokra Szczelina
+M-34-100-B-d-1-1-1,Nyża w Ździarach
+M-34-100-B-d-1-1-2,Omszała Szczelina
+M-34-100-B-d-1-1-3,Ósemka
+M-34-100-B-d-1-1-2,Piwniczka
+M-34-100-B-d-1-1-2,Podwójna Szczelina
+M-34-100-B-d-1-1-2,Schron nad Kominami
+M-34-100-B-d-1-1-2,Schron pod Twardymi Spadami
+M-34-100-B-d-1-1-3,Schron przy Arkadzie
+M-34-100-B-d-1-1-2,Schron przy Studni
+M-34-100-B-d-1-1-3,Schron przy Studni Kuturniańskiej
+M-34-100-B-d-1-1-3,Schron przy Jaskini Zakosistej
+M-34-100-B-d-1-1-2,Schron w Progu Mułowym
+M-34-100-B-d-1-1-3,Schron w Upłazkowej Turni
+M-34-100-B-d-1-1-4,Schron z Balkonem
+M-34-100-B-d-1-1-3,Schron z Wantą
+M-34-100-B-d-1-1-2,Schrony nad Okapami
+M-34-100-B-d-1-1-3,Spękana Szczelina
+M-34-100-B-d-1-1-3,Studnia Kuturniańska
+M-34-100-B-d-1-1-2,Studnia w Kazalnicy
+M-34-100-B-d-1-1-2,Studnia za Murem
+M-34-100-B-d-1-1-4,Studzienka w Ciemniaku
+M-34-100-B-d-1-1-4,Szczelina nad Jaskinią Lodową
+M-34-100-B-d-1-1-3,Szczelina pod Jaskinią Gankową Pierwsza
+M-34-100-B-d-1-1-3,Szczelina pod Jaskinią Gankową Druga
+M-34-100-B-d-1-1-3,Szczelina pod Jaskinią Gankową Trzecia
+M-34-100-B-d-1-1-4,Szczelina pod Jaskinią Lodową
+M-34-100-B-d-1-1-3,Szczelina przy Arkadzie
+M-34-100-B-d-1-1-4,Szczelina w Ciemniaku
+M-34-100-B-d-1-1-4,Szczelina w Progu Mułowym
+M-34-100-B-d-1-1-4,Szczelina w Tomanowym Grzbiecie Pierwsza
+M-34-100-B-d-1-1-4,Szczelina w Tomanowym Grzbiecie Druga
+M-34-100-B-d-1-1-4,Szczelina w Tomanowym Grzbiecie Trzecia
+M-34-100-B-d-1-1-4,Szczelina w Tomanowym Grzbiecie Czwarta
+M-34-100-B-d-1-1-4,Szczelina w Tomanowym Grzbiecie Piąta
+M-34-100-B-d-1-1-4,Szczelina w Tomanowym Grzbiecie Szósta
+M-34-100-B-d-1-1-2,Szczelina w Wołowym Żlebie
+M-34-100-B-d-1-1-4,Śnieżna Szczelina
+M-34-100-B-d-1-1-2,Śnieżny Awen
+M-34-100-B-d-1-1-2,Świstowa Szczelina
+M-34-100-B-d-1-1-3,Trójkątny Schron
+M-34-100-B-d-1-1-3,Ukryty Schron
+M-34-100-B-d-1-1-2,Zimny Awen
+M-34-100-B-d-1-1-1,Schron w Piecu
+M-34-100-B-d-1-1-4,Szerokie Siodło
+M-34-100-B-d-1-1-4,Twarda Galeria
+M-34-100-B-d-1-1-4,Twarda Kopa
+M-34-100-B-d-1-1-3,Wysoki Przechód
+M-34-100-B-d-1-1-2,Zielone Kominy
+M-34-100-B-d-1-1-4,Karczmisko
+M-34-100-B-d-1-1-2,Kobylarzowe Siodełko
+M-34-100-B-d-1-1-2,Dziurawe Czuby
+M-34-100-B-d-1-1-2,Litworowe Spady
+M-34-100-B-d-1-1-2,Dziurawe Baszty
+M-34-100-B-d-1-1-2,Turnie nad Dziurawem
+M-34-100-B-d-1-1-2,Twarde Spady
+M-34-100-B-d-1-1-2,Miętusia Kazalnica
+M-34-100-B-d-1-1-1,Zdziary Upłaziańskie
+M-34-100-B-d-1-1-3,Kamienne
+M-34-100-B-d-1-1-4,Mułowe Spady
+M-34-100-B-d-1-1-2,Kobylarzowa Kopka
+M-34-100-B-d-1-1-4,Lodowy Żleb
+M-34-100-B-d-1-1-2,Miętusi Mur
+M-34-100-B-d-1-1-3,Niedźwiedź
+M-34-100-B-d-1-1-3,Przednie Kamienne
+M-34-100-B-d-1-1-3,Zadnie Kamienne
+M-34-100-B-d-1-1-3,Wolarski Żleb
+M-34-100-B-d-1-1-3,Żleb pod Lodowiec
+M-34-100-B-d-1-1-3,Płaśń Między Progi
+M-34-100-B-d-1-1-3,Kościół Mariacki
+M-34-100-B-d-1-1-4,Nad Lodowiec
+M-34-100-B-d-1-1-3,Niska Turnia
+M-34-100-B-d-1-1-1,Narciarski Żleb
+M-34-100-B-d-1-1-1,Źródliska
+M-34-100-B-d-1-1-3,Rynek
+M-34-100-B-d-1-1-1,Karczmarski Żleb
+M-34-100-B-d-1-1-1,Biały Żleb
+M-34-100-B-d-1-1-1,Do Skoli
+M-34-100-B-d-1-1-1,Białe Siodełko
+M-34-100-B-d-1-1-2,Żleb z Progiem
+M-34-100-B-d-1-1-2,Miętusie Turnie
+M-34-100-B-d-1-1-4,Twardy Upłaz Tomaniarski
+M-34-100-B-d-1-1-4,Wyznie Rzędy
+M-34-100-B-d-1-1-4,Wysoki Upłaz
+M-34-100-B-d-1-1-4,Mułowy Kocioł
+M-34-100-B-d-1-1-2,Ratuszowy Grzbiet
+M-34-100-B-d-1-1-4,Mułowy Grzbiet
+M-34-100-B-d-1-1-2,Ratuszowy Przechód
+M-34-100-B-d-1-1-2,Litworowy Próg
+M-34-100-B-d-1-1-2,Hawirska Droga
+M-34-100-B-d-1-1-4,Zadnie Kamienne
+M-34-100-B-d-1-1-1,Upłaz
+M-34-100-B-d-1-1-1,Rówień nad Karczmą
+M-34-100-B-d-1-1-2,Stoły
+M-34-100-B-d-1-1-2,Turnie Żdziary
+M-34-100-B-d-1-1-3,Zatoka ku Turni
+M-34-100-B-d-1-1-3,Czarne Turnie
+M-34-100-B-d-1-1-3,Niskie Siodło
+M-34-100-B-d-1-1-4,Lodowe Siodło
+M-34-100-B-d-1-1-3,Wysoka Zatoka
+M-34-100-B-d-1-1-3,Plateau pod Wysoką
+M-34-100-B-d-1-1-4,Morena
+M-34-100-B-d-1-1-4,Płaśń pod Moreną
+M-34-100-B-d-1-1-4,Próg Mułowy
+M-34-100-B-d-1-1-2,Dwoisty Komin
+M-34-100-B-d-1-1-2,Ślepy Żleb
+M-34-100-B-d-1-1-4,Ściana Kazalnicy Miętusiej
+M-34-100-B-d-1-1-3,Wysoka Szczerbina
+M-34-100-B-d-1-1-1,Karczmarski Przechód
+M-34-100-B-d-1-1-3,Upłazkowa Kopa
+M-34-100-B-d-1-1-3,Upłazkowe Siodło
+M-34-100-B-d-1-1-3,Upłazkowy Kocioł
+M-34-100-B-d-1-1-3,Upłazkowa Szczerbina
+M-34-100-B-d-1-1-3,Upłazkowy Ząb
+M-34-100-B-d-1-1-3,Upłazkowy Przechód
+M-34-100-B-d-1-1-3,Upłazkowa Grań
+M-34-100-B-d-1-1-3,Upłazkowy Kopiniak
+M-34-100-B-d-1-1-3,Upłazkowe Wrótka
+M-34-100-B-d-1-1-3,Przełączka za Upłazkową Basztą
+M-34-100-B-d-1-1-3,Upłazkowa Baszta
+M-34-100-B-d-1-1-3,Ptakowy Przechód
+M-34-100-B-d-1-1-1,Siodło za Piecem
+M-34-100-B-d-1-1-1,Rówień nad Piecem
+M-34-100-B-d-1-1-2,Czarcie Ślepia
+M-34-100-B-d-1-1-2,Dziurawy Zachód
+M-34-100-B-d-1-1-2,Wyżnia Rówień Miętusia
+M-34-100-B-d-1-1-4,Depresja Bilskiego
+M-34-100-B-d-1-1-2,Depresja Dziurawego
+M-34-100-B-d-1-1-2,Siodełko pod Dziurawem
+M-34-100-B-d-1-1-2,Dziurawe Turniczki
+M-34-100-B-d-1-1-2,Motylek
+M-34-100-B-d-1-1-2,Dolne Półki
+M-34-100-B-d-1-1-2,Górne Półki
+M-34-100-B-d-1-1-4,Gzyms Nowińskiego
+M-34-100-B-d-1-1-1,Karczemny Komin
+M-34-100-B-d-1-1-3,Okap nad Świętymi
+M-34-100-B-d-1-1-3,Święci
+M-34-100-B-d-1-1-4,Przełączka pod Chudą Turnią
+M-34-100-B-d-1-1-1,Żleb nad Pisaną
+M-34-101-A-b-1-3-3,Białka
+M-34-101-A-b-1-3-1,Białka
+M-34-101-A-b-1-3-1,Białka
+M-34-101-A-b-1-3-2,Dolina Białki
+M-34-101-A-b-1-3-3,Kiczora Niżnia
+M-34-101-A-b-1-3-1,Rynias
+M-34-101-A-b-1-3-1,Ku Ryniasu
+M-34-101-A-b-1-3-3,Za Rynias
+M-34-101-A-b-1-3-1,Jędrychowa
+M-34-100-B-a-2-2-1,Dzianiski Potok
+M-34-100-B-a-2-2-2,Dzianiski Potok
+M-34-100-B-a-2-2-2,Dzianiski Potok
+M-34-100-B-a-2-2-3,Gawroński
+M-34-100-B-a-2-2-1,Gawroński
+M-34-100-B-a-2-2-3,Iwanówki
+M-34-100-B-a-2-2-3,Iwański
+M-34-100-B-a-2-2-3,Iwański
+M-34-100-B-a-2-2-4,Iwański Wierch
+M-34-100-B-a-2-2-2,Kijów
+M-34-100-B-a-2-2-4,Kijów
+M-34-100-B-a-2-2-2,Labiackie Wierszyki
+M-34-100-B-a-2-2-2,Mamonów
+M-34-100-B-a-2-2-1,Wierszyki
+M-34-100-B-a-2-2-1,Zającowski
+M-34-100-B-a-2-2-4,Zającowski
+M-34-100-B-a-2-2-2,Zającowski
+M-34-100-B-a-2-2-2,Zającowski
+M-34-100-B-a-2-2-4,Zawiersie
+M-34-100-B-a-2-2-1,Chlipówki
+M-34-100-B-a-2-2-1,Wierchowa Droga
+M-34-100-B-a-2-2-1,Wierchowa Droga
+M-34-100-B-b-2-2-3,Bachledzki Potok
+M-34-100-B-b-2-2-3,Bachledzki Potok
+M-34-100-B-b-2-2-1,Bucznik
+M-34-100-B-b-2-2-2,Gutowski Potok
+M-34-100-B-b-2-2-2,Gutowski Potok
+M-34-100-B-b-2-2-4,Olczanka
+M-34-100-B-b-2-2-4,Olczanka
+M-34-100-B-b-2-2-4,Olczanka
+M-34-100-B-b-2-2-1,Rafaczański Potok
+M-34-100-B-b-2-2-4,Rybków Potok
+M-34-100-B-b-2-2-4,Rybków Potok
+M-34-100-B-b-2-2-1,Wierch Grapa
+M-34-100-B-b-2-2-3,Zakopianka
+M-34-100-B-b-2-2-3,Zakopianka
+M-34-100-B-b-2-2-2,Zakopianka
+M-34-100-B-b-2-2-2,Zakopianka
+M-34-100-B-b-2-2-4,Homolacka Droga
+M-34-100-B-b-2-2-1,Rafaczańska Grapa
+M-34-100-B-b-2-2-2,Rafaczańska Grapa
+M-34-100-B-d-1-3-2,Czerwone Żlebki
+M-34-100-B-d-1-3-2,Czerwony Żleb
+M-34-100-B-d-1-3-2,Kamienisty Żleb
+M-34-100-B-d-1-3-2,Kościołki
+M-34-100-B-d-1-3-1,Niedźwiedź
+M-34-100-B-d-1-3-2,Niski Upłaz
+M-34-100-B-d-1-3-1,Niżnia Tomanowa Polana
+M-34-100-B-d-1-3-1,Pośredni Smreczyński Grzbiet
+M-34-100-B-d-1-3-3,Skrajna Sucha Dolina Smreczyńska
+M-34-100-B-d-1-3-3,Skrajne Nadspady
+M-34-100-B-d-1-3-4,Smreczyńska Przełęcz
+M-34-100-B-d-1-3-3,Smreczyński Upłaz
+M-34-100-B-d-1-3-2,Stoły
+M-34-100-B-d-1-3-4,Sucha Dolina Tomanowa
+M-34-100-B-d-1-3-4,Suchy Wierch Tomanowy
+M-34-100-B-d-1-3-2,Tomanowa Przełęcz
+M-34-100-B-d-1-3-1,Dolina Tomanowa
+M-34-100-B-d-1-3-1,Hala Tomanowa
+M-34-100-B-d-1-3-3,Tomanowy Potok
+M-34-100-B-d-1-3-1,Tomanowy Potok
+M-34-100-B-d-1-3-4,Tomanowy Wierch Polski
+M-34-100-B-d-1-3-2,Wyżnia Tomanowa Polana
+M-34-100-B-d-1-3-1,Zadni Smreczyński Grzbiet
+M-34-100-B-d-1-3-4,Zadni Smreczyński Upłaz
+M-34-100-B-d-1-3-1,Zadnia Sucha Dolina Smreczyńska
+M-34-100-B-d-1-3-3,Zadnie Nadspady
+M-34-100-B-d-1-3-2,Kościołki
+M-34-100-B-d-1-3-2,Głazista Turnia
+M-34-100-B-d-1-3-2,Kościółki
+M-34-100-B-d-1-3-2,Tomanowe Stoły
+M-34-100-B-d-1-3-2,Niżnie Rzędy
+M-34-100-B-d-1-3-2,Szeroki Upłaz
+M-34-100-B-d-1-3-2,Kram
+M-34-100-B-d-1-3-2,Wyżnia Mała Przełączka
+M-34-100-B-d-1-3-2,Głazista Czubka
+M-34-100-B-d-1-3-4,Tomanowa Kopa
+M-34-100-B-d-3-1-1,Hlińska Przełęcz
+M-34-100-B-d-3-1-1,Skrajny Smreczyński Upłaz
+M-34-100-B-d-3-1-1,Smreczyński Wierch
+M-34-101-A-b-1-2-1,Bartkówka
+M-34-101-A-b-1-2-1,Cirhla
+M-34-101-A-b-1-2-2,Gajnik
+M-34-101-A-b-1-2-1,Klarówka
+M-34-101-A-b-1-2-3,Okólne
+M-34-101-A-b-1-2-4,Suchy Potok
+M-34-101-A-b-1-2-1,Suchy Potok
+M-34-101-A-b-1-2-1,Suchy Potok
+M-34-101-A-b-1-2-3,Suchy Potok
+M-34-101-A-b-1-2-3,Wyrobisko
+M-34-101-A-b-1-2-1,Zmyślne
+M-34-101-A-b-1-2-1,Borcok
+M-34-101-A-b-1-2-3,Piekło
+M-34-101-A-b-1-2-3,Polana Podkólne
+M-34-101-A-b-1-2-1,Budziska
+M-34-101-A-c-2-2-3,Białka
+M-34-101-A-c-2-2-1,Białka
+M-34-101-A-c-2-2-1,Białka
+M-34-101-A-c-2-2-1,Niżnia Polana pod Wołoszynem
+M-34-101-A-c-2-2-3,Roztoka
+M-34-101-A-c-2-2-1,Droga Oswalda Balzera
+M-34-100-B-b-1-2-2,Bystry
+M-34-100-B-b-1-2-2,Bystry
+M-34-100-B-b-1-2-2,Florków
+M-34-100-B-b-1-2-2,Florków
+M-34-100-B-b-1-2-3,Kulowiańska Dolina
+M-34-100-B-b-1-2-2,Kulowiańska Dolina
+M-34-100-B-b-1-2-1,Kulowiańska Dolina
+M-34-100-B-b-1-2-2,Kulowiański
+M-34-100-B-b-1-2-3,Kulowiański
+M-34-100-B-b-1-2-1,Kulowiański
+M-34-100-B-b-1-2-1,Kulowiański
+M-34-100-B-b-1-2-2,Ligasowski Potok
+M-34-100-B-b-1-2-2,Ligasowski Potok
+M-34-100-B-b-1-2-2,Lipień
+M-34-100-B-b-1-2-4,Lipień
+M-34-100-B-b-1-2-4,Lipień
+M-34-100-B-b-1-2-1,Łacków Potok
+M-34-100-B-b-1-2-1,Piszczorówka
+M-34-100-B-b-1-2-3,Polana Słodyczkowa
+M-34-100-B-b-1-2-2,Słodyczków Potok
+M-34-100-B-b-1-2-3,Słodyczków Potok
+M-34-100-B-b-1-2-3,Słodyczków Potok
+M-34-100-B-b-1-2-3,Słodyczków Potok
+M-34-100-B-b-1-2-3,Suchy Potok
+M-34-100-B-b-1-2-3,Suchy Potok
+M-34-100-B-b-1-2-4,Brylówka
+M-34-100-B-b-3-3-3,Adamica
+M-34-100-B-b-3-3-1,Czerwony Gronik
+M-34-100-B-b-3-3-1,Dziura w Kończystej Turni
+M-34-100-B-b-3-3-1,Hruby Regiel
+M-34-100-B-b-3-3-1,Jaworzynka Miętusia
+M-34-100-B-b-3-3-1,Dziura Niżnia w Kończystej Turni
+M-34-100-B-b-3-3-1,Kończysta Turnia
+M-34-100-B-b-3-3-3,Krowi Żleb
+M-34-100-B-b-3-3-1,Mała Zawiesista Turnia
+M-34-100-B-b-3-3-2,Dolina Małej Łąki
+M-34-100-B-b-3-3-2,Małołącki Potok
+M-34-100-B-b-3-3-2,Małołącki Potok
+M-34-100-B-b-3-3-2,Małołącki Potok
+M-34-100-B-b-3-3-4,Miętusi Potok
+M-34-100-B-b-3-3-1,Miętusi Potok
+M-34-100-B-b-3-3-4,Miętusi Potok
+M-34-100-B-b-3-3-1,Miętusi Potok
+M-34-100-B-b-3-3-4,Dolina Miętusia
+M-34-100-B-b-3-3-4,Dolina Miętusia
+M-34-100-B-b-3-3-2,Nad Szatrą
+M-34-100-B-b-3-3-1,Dziura Stanikowa Niżnia
+M-34-100-B-b-3-3-4,Niżnia Miętusia Rówień
+M-34-100-B-b-3-3-1,Niżnie Stanikowe Siodło
+M-34-100-B-b-3-3-1,Ogon
+M-34-100-B-b-3-3-2,Przysłop Miętusi
+M-34-100-B-b-3-3-2,Rapasiowa Turnia
+M-34-100-B-b-3-3-2,Rówienki
+M-34-100-B-b-3-3-4,Skoruśniak
+M-34-100-B-b-3-3-1,Spalone Siodło
+M-34-100-B-b-3-3-1,Staników Potok
+M-34-100-B-b-3-3-3,Szeroki Źleb
+M-34-100-B-b-3-3-3,Upłaz
+M-34-100-B-b-3-3-3,Upłaziański Wierszyk
+M-34-100-B-b-3-3-3,Upłazińska Kopka
+M-34-100-B-b-3-3-1,Dziura Stanikowa Wyżnia
+M-34-100-B-b-3-3-4,Wyżnia Rówień Miętusia
+M-34-100-B-b-3-3-3,Wyżnia Równień Upłaziańska
+M-34-100-B-b-3-3-1,Wyżnie Stanikowe Siodło
+M-34-100-B-b-3-3-1,Zawiesista Turnia
+M-34-100-B-b-3-3-1,Ciasna Norka
+M-34-100-B-b-3-3-1,Dziura w Kończystej Niżnia
+M-34-100-B-b-3-3-1,Dziura w Żlebku
+M-34-100-B-b-3-3-1,Dziura za Smrekiem w Zawiesistej
+M-34-100-B-b-3-3-1,Jaskinia Barłogowa
+M-34-100-B-b-3-3-1,Jaskinia Niska
+M-34-100-B-b-3-3-1,Koleba za Kończystą
+M-34-100-B-b-3-3-1,Mała Dziura w Kończystej Turni
+M-34-100-B-b-3-3-1,Nyża pod Progiem w Kończystej
+M-34-100-B-b-3-3-1,Nyża w Kończystej
+M-34-100-B-b-3-3-1,Okap w Kończystej Turni
+M-34-100-B-b-3-3-1,Schron pod Kończystą
+M-34-100-B-b-3-3-1,Schronik w Kończystej Turni
+M-34-100-B-b-3-3-1,Schronisko Wschodnie w Kończystej
+M-34-100-B-b-3-3-1,Szczelina Przysłopczańska
+M-34-100-B-b-3-3-4,Niedźwiedzi Przechód
+M-34-100-B-b-3-3-2,Gmiński Żleb
+M-34-100-B-b-3-3-1,Gronikowski Żleb
+M-34-100-B-b-3-3-4,Scieżka nad Reglami
+M-34-100-B-b-3-3-1,Scieżka nad Reglami
+M-34-100-B-b-3-3-1,Żeleźniak
+M-34-100-B-b-3-3-1,Lesisty Grzbiet
+M-34-100-B-b-3-3-3,Kobylarnia
+M-34-100-B-b-3-3-3,Upłaźiński Żleb
+M-34-100-B-b-3-3-3,Rówieńki
+M-34-100-B-b-3-3-3,Upłaz Miętusi
+M-34-100-B-b-3-3-3,Kotaszka
+M-34-100-B-b-3-3-2,Skalnite
+M-34-100-B-b-3-3-2,Gmińskie Siwarowe
+M-34-100-B-b-3-3-4,Siwarowa Czuba
+M-34-100-B-b-3-3-1,Gładki Żleb
+M-34-100-B-b-3-3-1,Zadnia Kończysta
+M-34-100-B-b-3-3-1,Czerwony Filar
+M-34-100-B-b-3-3-1,Siodło za Zawiesistą
+M-34-100-B-b-3-3-2,Szatra
+M-34-100-B-b-3-3-4,Hawirska Droga
+M-34-100-B-b-3-3-2,Hawirska Droga
+M-34-100-B-b-3-3-3,Polana Upłaz
+M-34-100-B-b-3-4-4,Bacuch
+M-34-100-B-b-3-4-3,Banie
+M-34-100-B-b-3-4-3,Biała Turnia
+M-34-100-B-b-3-4-1,Czarna Turnia
+M-34-100-B-b-3-4-4,Dziura nad Doliną Strążyską
+M-34-100-B-b-3-4-4,Giewont
+M-34-100-B-b-3-4-3,Grzybowiec
+M-34-100-B-b-3-4-2,Dolina Grzybowiecka
+M-34-100-B-b-3-4-2,Grzybowiecki Potok
+M-34-100-B-b-3-4-3,Grzybowiecki Potok
+M-34-100-B-b-3-4-2,Grzybowiecki Potok
+M-34-100-B-b-3-4-2,Jatki
+M-34-100-B-b-3-4-2,Jelinka
+M-34-100-B-b-3-4-2,Kapelusze
+M-34-100-B-b-3-4-2,Turnia Kiernia
+M-34-100-B-b-3-4-2,Kierniczka
+M-34-100-B-b-3-4-4,Kirkora
+M-34-100-B-b-3-4-4,Kirkora
+M-34-100-B-b-3-4-1,Kohut
+M-34-100-B-b-3-4-3,Kolebiska
+M-34-100-B-b-3-4-4,Kominek Giewontowy
+M-34-100-B-b-3-4-2,Koń
+M-34-100-B-b-3-4-2,Koński Żleb
+M-34-100-B-b-3-4-1,Krzeptowski Potok
+M-34-100-B-b-3-4-1,Łysanki
+M-34-100-B-b-3-4-4,Mała Dolinka
+M-34-100-B-b-3-4-4,Mała Dziura Giewontowa
+M-34-100-B-b-3-4-3,Mała Polanka
+M-34-100-B-b-3-4-4,Mały Bacuch
+M-34-100-B-b-3-4-4,Mały Giewont
+M-34-100-B-b-3-4-2,Miśkowiec
+M-34-100-B-b-3-4-4,Nyża pod Brzózką
+M-34-100-B-b-3-4-1,Pośredni Wierszyk
+M-34-100-B-b-3-4-2,Samkowe Siodło
+M-34-100-B-b-3-4-4,Siklawica
+M-34-100-B-b-3-4-3,Stawki
+M-34-100-B-b-3-4-4,Strążyska
+M-34-100-B-b-3-4-2,Strążyska
+M-34-100-B-b-3-4-4,Hala Strążyska
+M-34-100-B-b-3-4-2,Polana Strążyska
+M-34-100-B-b-3-4-4,Strążyski Potok
+M-34-100-B-b-3-4-2,Strążyski Potok
+M-34-100-B-b-3-4-4,Styrżnik
+M-34-100-B-b-3-4-4,Szczelina w Żlebie Kirkora
+M-34-100-B-b-3-4-4,Szczerba
+M-34-100-B-b-3-4-4,Jaskinia Śpiących Rycerzy Wyżnia
+M-34-100-B-b-3-4-3,Uwięziony Żleb
+M-34-100-B-b-3-4-3,Przełęcz w Grzybowcu
+M-34-100-B-b-3-4-4,Warzecha
+M-34-100-B-b-3-4-3,Wielka Polana
+M-34-100-B-b-3-4-4,Wielka Rówień
+M-34-100-B-b-3-4-4,Wielka Rówień
+M-34-100-B-b-3-4-4,Wielki Bacuch
+M-34-100-B-b-3-4-4,Wolejarnia
+M-34-100-B-b-3-4-3,Wyżnie
+M-34-100-B-b-3-4-4,Dziura nad Jaskinią Śpiących Rycerzy Pierwsza
+M-34-100-B-b-3-4-4,Dziura nad Jaskinią Śpiących Rycerzy Druga
+M-34-100-B-b-3-4-4,Dziura nad Jaskinią Śpiących Rycerzy Trzecia
+M-34-100-B-b-3-4-4,Dziura w Szczerbie Pierwsza
+M-34-100-B-b-3-4-2,Dziurawa Nisza w Jatkach
+M-34-100-B-b-3-4-4,Jaskinia Śpiących Rycerzy
+M-34-100-B-b-3-4-2,Jaskinia w Jatkach
+M-34-100-B-b-3-4-2,Kominek w Jatkach
+M-34-100-B-b-3-4-2,Nisza w Jatkach
+M-34-100-B-b-3-4-4,Nyża Giewontowa
+M-34-100-B-b-3-4-2,Nyża przy Jatkach
+M-34-100-B-b-3-4-4,Nyża przy Starym Szlaku
+M-34-100-B-b-3-4-2,Okno w Jatkach Pierwsze
+M-34-100-B-b-3-4-2,Okno w Jatkach Drugie
+M-34-100-B-b-3-4-2,Schron za Irgą
+M-34-100-B-b-3-4-2,Tunel w Jatkach
+M-34-100-B-b-3-4-2,Komora w Jatkach
+M-34-100-B-b-3-4-2,Sarni Żleb
+M-34-100-B-b-3-4-4,Olejarnia
+M-34-100-B-b-3-4-2,Kominy  Strążyskie
+M-34-100-B-b-3-4-2,Scieżka nad Reglami
+M-34-100-B-b-3-4-3,Siwarowe
+M-34-100-B-b-3-4-4,Giewonckie Turnie
+M-34-100-B-b-3-4-4,Skrajna Giewnocka Turnia
+M-34-100-B-b-3-4-4,Zdziarchy
+M-34-100-B-b-3-4-4,Szary Żleb
+M-34-100-B-b-3-4-4,Żleb Śpiących Rycerzy
+M-34-100-B-b-3-4-4,Żleb pod Zdziarchy
+M-34-100-B-b-3-4-4,Szara Turnia
+M-34-100-B-b-3-4-3,Koszary
+M-34-100-B-b-3-4-3,Upłazek
+M-34-100-B-b-3-4-4,Strzyżnikowy Mnich
+M-34-100-B-b-3-4-4,Giewoncki Mnich
+M-34-100-B-b-3-4-4,Giewoncki Ząb
+M-34-100-B-b-3-4-4,Dziady
+M-34-100-B-b-3-4-4,Cisowe Igły
+M-34-100-B-b-3-4-4,Wysoka Giewoncka Turnia
+M-34-100-B-b-3-4-4,Iglica
+M-34-100-B-b-3-4-1,Kohut
+M-34-100-B-b-3-4-2,Żleb pod Szczyt
+M-34-100-B-b-3-4-2,Sfinks
+M-34-100-B-c-1-3-4,Czerwony Wierch
+M-34-100-B-c-1-3-1,Długi Upłaz
+M-34-100-B-c-1-3-2,Gładki Upłaz
+M-34-100-B-c-1-3-4,Kopa
+M-34-100-B-c-1-3-2,Litworowy Potok
+M-34-100-B-c-1-3-2,Litworowy Potok
+M-34-100-B-c-1-3-2,Litworowy Żleb
+M-34-100-B-c-1-3-3,Rakoń
+M-34-100-B-c-1-3-3,Rochacz
+M-34-100-B-c-1-3-2,Siwarnie
+M-34-100-B-c-1-3-4,Skrajniak
+M-34-100-B-c-1-3-4,Skrzynia
+M-34-100-B-c-1-3-2,Smytnia
+M-34-100-B-c-1-3-3,Stoły
+M-34-100-B-c-1-3-3,Szczyt
+M-34-100-B-c-1-3-4,Szeroki Piarg
+M-34-100-B-c-1-3-4,Wyżni Chochołowski Potok
+M-34-100-B-c-1-3-2,Wyżni Chochołowski Potok
+M-34-100-B-c-1-3-4,Wyżnia Chochołowska Dolina
+M-34-100-B-c-1-3-2,Wyżnia Chochołowska Dolina
+M-34-100-B-c-1-3-4,Zychówka
+M-34-100-B-c-1-3-3,Zawracie
+M-34-100-B-c-1-3-2,Polana Chochołowska Wyżnia
+M-34-100-B-c-1-3-4,Dziurawy Kocioł
+M-34-100-B-c-1-3-4,Głęboka Ulica
+M-34-100-B-c-1-3-4,Głęboka Ulica
+M-34-100-B-c-1-3-4,Głęboka Ulica
+M-34-100-B-c-1-3-4,Szeroka Ulica
+M-34-100-B-c-1-3-3,Szeroka Ulica
+M-34-100-B-c-1-3-4,Szeroka Ulica
+M-34-100-B-c-1-3-4,Skalista Ulica
+M-34-100-B-c-1-3-4,Skalista Ulica
+M-34-100-B-c-1-3-4,Skalista Ulica
+M-34-101-A-a-1-3-3,Chłabowski Potok
+M-34-101-A-a-1-3-2,Chowańców Potok
+M-34-101-A-a-1-3-2,Faktorów Bór
+M-34-101-A-a-1-3-1,Gawlaków Wierch
+M-34-101-A-a-1-3-4,Hrubiański Potok
+M-34-101-A-a-1-3-4,Hrubiański Potok
+M-34-101-A-a-1-3-2,Hrubiański Potok
+M-34-101-A-a-1-3-3,Huciański Potok
+M-34-101-A-a-1-3-1,Janoszów Wierch
+M-34-101-A-a-1-3-3,Kadukowski Potok
+M-34-101-A-a-1-3-3,Kadukowski Potok
+M-34-101-A-a-1-3-3,Kadukowski Potok
+M-34-101-A-a-1-3-1,Olczański Wierch
+M-34-101-A-a-1-3-3,Orawców Potok
+M-34-101-A-a-1-3-1,Orawców Potok
+M-34-101-A-a-1-3-2,Orawców Potok
+M-34-101-A-a-1-3-1,Piszczorów Potok
+M-34-101-A-a-1-3-1,Piszczorów Potok
+M-34-101-A-a-1-3-1,Piszczorów Wierch
+M-34-101-A-a-1-3-3,Rów Podtatrzański
+M-34-101-A-a-1-3-1,Rola Janoszowa
+M-34-101-A-a-1-3-1,Rola Piszczorowa
+M-34-101-A-a-1-3-1,Rola Walkoszowa
+M-34-101-A-a-1-3-4,Skupniów Potok
+M-34-101-A-a-1-3-4,Skupniów Potok
+M-34-101-A-a-1-3-2,Stawiańce
+M-34-101-A-a-1-3-3,Toporów Wierch
+M-34-101-A-a-1-3-1,Walkoszów Potok
+M-34-101-A-a-1-3-1,Walkoszów Wierch
+M-34-101-A-a-1-3-3,Zajączyniec
+M-34-101-A-a-1-4-2,Bafiówki
+M-34-101-A-a-1-4-1,Budzów Potok
+M-34-101-A-a-1-4-1,Chowańców Potok
+M-34-101-A-a-1-4-3,Chowańców Potok
+M-34-101-A-a-1-4-4,Czarny Potok
+M-34-101-A-a-1-4-2,Czarny Potok
+M-34-101-A-a-1-4-2,Czarny Potok
+M-34-101-A-a-1-4-2,Czarny Potok
+M-34-101-A-a-1-4-4,Niżnia Palenica Pańszczykowa
+M-34-101-A-a-1-4-3,Rumowiec
+M-34-101-A-a-1-4-2,Serwitut
+M-34-101-A-a-1-4-3,Sichlański Potok
+M-34-101-A-a-1-4-3,Sichlański Potok
+M-34-101-A-a-1-4-1,Sichlański Potok
+M-34-101-A-a-1-4-1,Sichlański Potok
+M-34-101-A-a-1-4-1,Skupniów Potok
+M-34-101-A-a-1-4-3,Skupniów Potok
+M-34-101-A-a-1-4-4,Sucha Woda
+M-34-101-A-a-1-4-2,Sucha Woda
+M-34-101-A-a-1-4-4,Upust
+M-34-101-A-a-1-4-4,Upust
+M-34-101-A-a-1-4-1,Upust
+M-34-101-A-a-1-4-3,Wspólne
+M-34-101-A-a-1-4-4,Wyżnia Palenica Pańszczykowa
+M-34-101-A-a-1-4-1,Wieszkówka
+M-34-101-A-a-1-4-2,Stodoły
+M-34-101-A-a-1-4-4,Polana Capówka
+M-34-101-A-a-1-4-2,Lichajówki
+M-34-101-A-b-3-1-1,Białka
+M-34-101-A-b-3-1-3,Białka
+M-34-101-A-c-1-1-3,Czarna Pasza
+M-34-101-A-c-1-1-1,Czarny Potok
+M-34-101-A-c-1-1-4,Czarny Potok
+M-34-101-A-c-1-1-3,Czarny Potok
+M-34-101-A-c-1-1-4,Czarny Staw
+M-34-101-A-c-1-1-2,Dubrawiska
+M-34-101-A-c-1-1-3,Dwoisty Staw
+M-34-101-A-c-1-1-4,Dolina Gąsienicowa
+M-34-101-A-c-1-1-1,Dolina Gąsienicowa
+M-34-101-A-c-1-1-1,Hala Gąsienicowa
+M-34-101-A-c-1-1-1,Gąsienicowy Las
+M-34-101-A-c-1-1-1,Kolano
+M-34-101-A-c-1-1-4,Kolebiska
+M-34-101-A-c-1-1-1,Kopa Magury
+M-34-101-A-c-1-1-1,Królowa Wyżnia
+M-34-101-A-c-1-1-1,Królowe Rówienki
+M-34-101-A-c-1-1-4,Krzyż
+M-34-101-A-c-1-1-3,Kurtkowiec
+M-34-101-A-c-1-1-4,Łopata
+M-34-101-A-c-1-1-3,Mały Kościelec
+M-34-101-A-c-1-1-1,Mechy
+M-34-101-A-c-1-1-1,Mokra Jama
+M-34-101-A-c-1-1-2,Pańszczycka Skałka
+M-34-101-A-c-1-1-2,Pańszczycki Żleb
+M-34-101-A-c-1-1-2,Pańszczycki Żleb
+M-34-101-A-c-1-1-3,Roztoka Stawiańska
+M-34-101-A-c-1-1-1,Stawiańskie Rówienki
+M-34-101-A-c-1-1-1,Sucha Woda
+M-34-101-A-c-1-1-2,Sucha Woda
+M-34-101-A-c-1-1-1,Świński Żlebek
+M-34-101-A-c-1-1-2,Wolarczyska
+M-34-101-A-c-1-1-3,Wschodni Dwoisty Staw
+M-34-101-A-c-1-1-3,Zachodni Dwoisty Staw
+M-34-101-A-c-1-1-4,Zadni Upłaz
+M-34-101-A-c-1-1-2,Zadni Upłaz
+M-34-101-A-c-1-1-1,Zagony
+M-34-101-A-c-1-1-4,Żółta Igła
+M-34-101-A-c-1-1-4,Żółta Przełęcz
+M-34-101-A-c-1-1-4,Żółta Turnia
+M-34-101-A-c-1-1-2,Żółty Potok
+M-34-101-A-c-1-1-2,Żółty Potok
+M-34-101-A-c-1-1-2,Żółty Potok
+M-34-101-A-c-1-1-1,Magurska Przełęcz
+M-34-101-A-c-1-1-4,Czarna Gąsienicowa Dolina
+M-34-101-A-c-1-1-4,Żleb Pietscha
+M-34-101-A-c-1-1-4,Żebro Czecha
+M-34-101-A-c-1-1-4,Przełączka pod Fajki
+M-34-101-A-c-1-1-3,Morena
+M-34-101-A-c-1-1-2,Morena
+M-34-101-A-c-1-1-2,Zielona Pasza
+M-34-101-A-c-1-1-1,Magurska Płaśń
+M-34-100-B-a-2-1-1,Czarny Dunajec
+M-34-100-B-a-2-1-4,Czarny Dunajec
+M-34-100-B-a-2-1-1,Garczkowski
+M-34-100-B-a-2-1-2,Gawroński
+M-34-100-B-a-2-1-2,Gawroński
+M-34-100-B-a-2-1-2,Gawroński
+M-34-100-B-a-2-1-1,Greków Potok
+M-34-100-B-a-2-1-1,Greków Potok
+M-34-100-B-a-2-1-1,Greków Potok
+M-34-100-B-a-2-1-4,Iwański
+M-34-100-B-a-2-1-4,Iwański
+M-34-100-B-a-2-1-4,Magura
+M-34-100-B-a-2-1-3,Magura
+M-34-100-B-a-2-1-2,Pasieka
+M-34-100-B-a-2-1-3,Pohradzka Polana
+M-34-100-B-a-2-1-3,Skoruszów Potok
+M-34-100-B-a-2-1-4,Snury
+M-34-100-B-a-2-1-1,Tylkowski Potok
+M-34-100-B-a-2-1-2,Droga Dworska
+M-34-100-B-a-2-1-2,Wierchowa Droga
+M-34-100-B-a-2-1-4,Droga przez Gubałówkę
+M-34-100-B-a-2-1-4,Polana Kojsówka
+M-34-100-B-b-4-1-4,Dolina Białego
+M-34-100-B-b-4-1-2,Las Białego
+M-34-100-B-b-4-1-1,Biały Potok
+M-34-100-B-b-4-1-2,Biały Potok
+M-34-100-B-b-4-1-4,Biały Potok
+M-34-100-B-b-4-1-4,Biały Potok
+M-34-100-B-b-4-1-1,Biały Potok
+M-34-100-B-b-4-1-2,Czarny Potok
+M-34-100-B-b-4-1-2,Czarny Potok
+M-34-100-B-b-4-1-2,Czarny Potok
+M-34-100-B-b-4-1-3,Dziura
+M-34-100-B-b-4-1-2,Foluszowy Potok
+M-34-100-B-b-4-1-2,Foluszowy Potok
+M-34-100-B-b-4-1-3,Grześkówki
+M-34-100-B-b-4-1-4,Jastrzębia Turnia
+M-34-100-B-b-4-1-4,Kopa nad Białym
+M-34-100-B-b-4-1-4,Koryciska
+M-34-100-B-b-4-1-3,Dolina ku Dziurze
+M-34-100-B-b-4-1-1,Lipki
+M-34-100-B-b-4-1-3,Łomnik
+M-34-100-B-b-4-1-3,Młyniska
+M-34-100-B-b-4-1-1,Młyniska
+M-34-100-B-b-4-1-1,Młyniska
+M-34-100-B-b-4-1-4,Dolina nad Capkami
+M-34-100-B-b-4-1-3,Spadowiec
+M-34-100-B-b-4-1-1,Spadowiec
+M-34-100-B-b-4-1-3,Spadowiec
+M-34-100-B-b-4-1-1,Spadowiec
+M-34-100-B-b-4-1-3,Spadowiec
+M-34-100-B-b-4-1-3,Spadowiec
+M-34-100-B-b-4-1-3,Spaleniec
+M-34-100-B-b-4-1-3,Strążyska
+M-34-100-B-b-4-1-3,Strążyski Potok
+M-34-100-B-b-4-1-3,Strążyski Potok
+M-34-100-B-b-4-1-1,Walczacki Wierch
+M-34-100-B-b-4-1-1,Walczacki Potok
+M-34-100-B-b-4-1-4,Walowa Polana
+M-34-100-B-b-4-1-1,Wierszyki
+M-34-100-B-b-4-1-3,Dziura Wyżnia
+M-34-100-B-b-4-1-3,Lisia Jama
+M-34-100-B-b-4-1-4,Kogutki
+M-34-100-B-b-4-1-4,Żleb pod Kogutkami
+M-34-100-B-b-4-1-3,Polana pod Spadowcem
+M-34-100-B-b-4-1-2,Park Dzieci i Młodzieży
+M-34-100-B-b-4-1-3,Droga pod Reglami
+M-34-100-B-b-4-1-4,Nad Walową
+M-34-100-B-b-4-1-3,Grześkówka
+M-34-100-B-b-4-1-2,Olimp
+M-34-100-B-b-4-1-3,Ściana nad Dziurą
+M-34-100-B-b-4-3-3,Banie
+M-34-100-B-b-4-3-1,Białe
+M-34-100-B-b-4-3-3,Biały Potok
+M-34-100-B-b-4-3-1,Biały Potok
+M-34-100-B-b-4-3-1,Biały Potok
+M-34-100-B-b-4-3-4,Bystra
+M-34-100-B-b-4-3-4,Jaskinia Bystra
+M-34-100-B-b-4-3-1,Czerwona Przełęcz
+M-34-100-B-b-4-3-3,Czoło
+M-34-100-B-b-4-3-3,Długi Giewont
+M-34-100-B-b-4-3-4,Dudnica
+M-34-100-B-b-4-3-3,Dziadowiec
+M-34-100-B-b-4-3-3,Dziura nad Doliną Strążyską
+M-34-100-B-b-4-3-4,Dziura za Głazami
+M-34-100-B-b-4-3-4,Herbik
+M-34-100-B-b-4-3-1,Igła
+M-34-100-B-b-4-3-3,Jaskinia Juhaska
+M-34-100-B-b-4-3-4,Kalatówki
+M-34-100-B-b-4-3-4,Kalacka Kopa
+M-34-100-B-b-4-3-4,Kalacka Turnia
+M-34-100-B-b-4-3-4,Jaskinia Kalacka
+M-34-100-B-b-4-3-4,Kalacki Upłaz
+M-34-100-B-b-4-3-4,Kalackie Koryto
+M-34-100-B-b-4-3-4,Kalackie Siodło
+M-34-100-B-b-4-3-3,Klasztory
+M-34-100-B-b-4-3-3,Klasztory
+M-34-100-B-b-4-3-3,Koło
+M-34-100-B-b-4-3-3,Kominek Giewontowy
+M-34-100-B-b-4-3-4,Kozi Korytarz
+M-34-100-B-b-4-3-2,Krokiew
+M-34-100-B-b-4-3-2,Mała Krokiew
+M-34-100-B-b-4-3-2,Przełęcz Białego
+M-34-100-B-b-4-3-3,Niżnia Sucha Przełęcz
+M-34-100-B-b-4-3-4,Ogarle
+M-34-100-B-b-4-3-4,Opalone
+M-34-100-B-b-4-3-3,Ostry Karb
+M-34-100-B-b-4-3-2,Patyki
+M-34-100-B-b-4-3-2,Popod Perci
+M-34-100-B-b-4-3-3,Potargany Źleb
+M-34-100-B-b-4-3-3,Ruda Nyża
+M-34-100-B-b-4-3-1,Sarnia Skała
+M-34-100-B-b-4-3-2,Siwarowe
+M-34-100-B-b-4-3-2,Siwarowe Gazdowskie
+M-34-100-B-b-4-3-2,Siwarowe Pańskie
+M-34-100-B-b-4-3-2,Siwarowe Siodło
+M-34-100-B-b-4-3-2,Siwarowy Żleb
+M-34-100-B-b-4-3-1,Spaleniec
+M-34-100-B-b-4-3-3,Dolina Sucha
+M-34-100-B-b-4-3-3,Suchy Wierch
+M-34-100-B-b-4-3-3,Szczerba
+M-34-100-B-b-4-3-3,Szeroki Karb
+M-34-100-B-b-4-3-3,Świstówka
+M-34-100-B-b-4-3-3,Urwany Żleb
+M-34-100-B-b-4-3-3,Wielka Rówień
+M-34-100-B-b-4-3-3,Wielki Upłaz
+M-34-100-B-b-4-3-3,Wolarnia
+M-34-100-B-b-4-3-4,Wrótka
+M-34-100-B-b-4-3-1,Wymyte
+M-34-100-B-b-4-3-4,Wywierzysko Bystrej
+M-34-100-B-b-4-3-2,Wyżnia Przełęcz Białego
+M-34-100-B-b-4-3-3,Wyżnia Sucha Przełęcz
+M-34-100-B-b-4-3-3,Zameczki
+M-34-100-B-b-4-3-1,Sarnia Skałka
+M-34-100-B-b-4-3-3,Zdziarchy
+M-34-100-B-b-4-3-3,Zdziarchy
+M-34-100-B-b-4-3-3,Dziura w Szczerbie Pierwsza
+M-34-100-B-b-4-3-3,Dziura w Szczerbie Druga
+M-34-100-B-b-4-3-4,Frapująca Nyża
+M-34-100-B-b-4-3-4,Kalacka Nyża Pierwsza
+M-34-100-B-b-4-3-4,Kalacka Nyża Druga
+M-34-100-B-b-4-3-4,Kalacka Szczelina
+M-34-100-B-b-4-3-4,Kalacki Tunelik
+M-34-100-B-b-4-3-3,Kozia Grota
+M-34-100-B-b-4-3-4,Mokra Koleba
+M-34-100-B-b-4-3-3,Nyża Giewontowa
+M-34-100-B-b-4-3-4,Nyża z Mostem
+M-34-100-B-b-4-3-4,Płaska Nyża
+M-34-100-B-b-4-3-3,Studnia w Giewoncie
+M-34-100-B-b-4-3-4,Szczelina pod Frapującą Nyżą
+M-34-100-B-b-4-3-3,Szczelina pod Głazem
+M-34-100-B-b-4-3-4,Szczelina w Suchym Żlebie
+M-34-100-B-b-4-3-3,Szczelina w Giewoncie Pierwsza
+M-34-100-B-b-4-3-3,Szczelina w Giewoncie Druga
+M-34-100-B-b-4-3-3,Jaskinia Zawaliskowa w Długim Giewoncie
+M-34-100-B-b-4-3-1,Sarni Żleb
+M-34-100-B-b-4-3-4,Scieżka nad Reglami
+M-34-100-B-b-4-3-2,Scieżka nad Reglami
+M-34-100-B-b-4-3-1,Wolarzysko
+M-34-100-B-b-4-3-3,Szczerbinka
+M-34-100-B-b-4-3-3,Kazalnica Giewoncka
+M-34-100-B-b-4-3-3,Skośny Żleb
+M-34-100-B-b-4-3-3,Łopaty
+M-34-100-B-b-4-3-3,Suchy Grzbiet
+M-34-100-B-b-4-3-3,Suchy Grzbiet
+M-34-100-B-b-4-3-3,Suchy Grzbiet
+M-34-100-B-b-4-3-3,Turnia nad Białem
+M-34-100-B-b-4-3-3,Wyżnie Wrótka
+M-34-100-B-b-4-3-1,Szczytki
+M-34-100-B-b-4-3-2,Żleb pod Patyki
+M-34-100-B-b-4-3-4,Żleb pod Wrótka
+M-34-100-B-b-4-3-3,Słupy
+M-34-100-B-b-4-3-4,Biały Grzbiet
+M-34-100-B-b-4-3-2,Na Patykach
+M-34-100-B-b-4-3-4,Kalacki Grzbiet
+M-34-100-B-b-4-3-4,Kalacki Żleb
+M-34-100-B-b-4-3-3,Sucha Czubka
+M-34-100-B-b-4-3-1,Zawieszka
+M-34-100-B-b-4-3-1,Wyżnia Zawieszka
+M-34-100-B-b-4-3-2,Biała Czuba
+M-34-100-B-b-4-3-2,Na Patykach
+M-34-100-B-c-1-1-2,Bobrowiecka Przełęcz
+M-34-100-B-c-1-1-2,Bobrowiecki Potok
+M-34-100-B-c-1-1-2,Bobrowiecki Upłaz
+M-34-100-B-c-1-1-4,Czoło
+M-34-100-B-c-1-1-4,Dolinczański Potok
+M-34-100-B-c-1-1-4,Dolinczański Potok
+M-34-100-B-c-1-1-4,Dolinczański Żleb
+M-34-100-B-c-1-1-4,Dolinka
+M-34-100-B-c-1-1-4,Grześ
+M-34-100-B-c-1-1-2,Jambrowy Wierch
+M-34-100-B-c-1-1-4,Kruźlik
+M-34-100-B-c-1-1-4,Łuczniańska Przełęcz
+M-34-100-B-c-1-1-4,Upalone
+M-34-100-B-c-1-1-4,Czoło
+M-34-101-A-a-2-4-2,Cyrla nad Białką
+M-34-101-A-a-2-4-4,Kotrysówka
+M-34-101-A-a-2-4-1,Kramarzówka
+M-34-101-A-a-2-4-1,Poroniec
+M-34-101-A-a-2-4-3,Poroniec
+M-34-101-A-a-2-4-4,Poroniec
+M-34-101-A-a-2-4-3,Sołtysówka
+M-34-101-A-a-2-4-1,Szymkówka
+M-34-101-A-a-2-4-4,Kiczora Wyżnia
+M-34-101-A-a-2-4-1,Zadni Wierch
+M-34-101-A-a-2-4-2,Zawierszański Potok
+M-34-101-A-a-2-4-1,Kobyłówka
+M-34-101-A-a-2-4-1,Jędrysówka
+M-34-101-A-a-2-4-1,Zubkówka
+M-34-101-A-a-2-4-1,Jarkula
+M-34-101-A-a-2-4-1,Pod Markiem
+M-34-101-A-a-2-4-4,Kobyle Łomy
+M-34-101-A-a-2-4-4,Za Rynias
+M-34-101-A-a-2-4-3,Droga Oswalda Balzera
+M-34-101-A-a-2-4-2,Głodówka
+M-34-101-A-a-4-3-2,Antek
+M-34-101-A-a-4-3-4,Czerwone Brzeżki
+M-34-101-A-a-4-3-1,Filipczańska Polana
+M-34-101-A-a-4-3-1,Filipka
+M-34-101-A-a-4-3-1,Filipka
+M-34-101-A-a-4-3-3,Gęsia Szyja
+M-34-101-A-a-4-3-2,Hala Jaworzyna Rusinowa
+M-34-101-A-a-4-3-1,Łomy
+M-34-101-A-a-4-3-4,Niżnia Kopka
+M-34-101-A-a-4-3-3,Przysłop Waksmundzki
+M-34-101-A-a-4-3-3,Rówień Waksmundzka
+M-34-101-A-a-4-3-4,Rusinowa Polana
+M-34-101-A-a-4-3-2,Spiwlów Zrąb
+M-34-101-A-a-4-3-3,Suchy Wierch
+M-34-101-A-a-4-3-4,Waksmundzki Potok
+M-34-101-A-a-4-3-4,Waksmundzki Potok
+M-34-101-A-a-4-3-3,Waksmundzki Potok
+M-34-101-A-a-4-3-4,Waksmundzkie Rówienki
+M-34-101-A-a-4-3-3,Waksmundzkie Ścianki
+M-34-101-A-a-4-3-2,Wiktorówki
+M-34-101-A-a-4-3-2,Wojskowy Zrąb
+M-34-101-A-a-4-3-1,Wyżnia Filipczańska Przełęcz
+M-34-101-A-a-4-3-1,Zadnia Kopa Sołtysia
+M-34-101-A-a-4-3-1,Zadnia Sołtysia Przełęcz
+M-34-101-A-a-4-3-2,Dolina Złota
+M-34-101-A-a-4-3-2,Złoty Potok
+M-34-101-A-a-4-3-2,Złoty Potok
+M-34-101-A-a-4-3-2,Złoty Wierch
+M-34-101-A-a-4-3-3,Waksmundzka Przełęcz
+M-34-101-A-a-4-3-2,Siedlarska Droga
+M-34-101-A-c-4-3-2,Bula pod Rysami
+M-34-101-A-c-4-3-1,Chłopek
+M-34-101-A-c-4-3-2,Ciężka Przełączka
+M-34-101-A-c-4-3-1,Czarnostawiańska Przełęcz
+M-34-101-A-c-4-3-1,Długi Piarg
+M-34-101-A-c-4-3-1,Dymiąca Woda
+M-34-101-A-c-4-3-1,Dymiąca Woda
+M-34-101-A-c-4-3-1,Dymiąca Woda
+M-34-101-A-c-4-3-1,Hińczowa Turnia
+M-34-101-A-c-4-3-1,Hińczowe Czuby
+M-34-101-A-c-4-3-1,Kazalnica
+M-34-101-A-c-4-3-1,Kocioł Kazalnicy
+M-34-101-A-c-4-3-2,Kocioł pod Rysami
+M-34-101-A-c-4-3-1,Mała Rogata Szczerbina
+M-34-101-A-c-4-3-1,Mała Wołowa Szczerbina
+M-34-101-A-c-4-3-1,Mięguszowiecka Przełęcz pod Chłopkiem
+M-34-101-A-c-4-3-1,Mięguszowiecki Czarny
+M-34-101-A-c-4-3-1,Mięguszowiecki Kocioł
+M-34-101-A-c-4-3-1,Mięguszowiecki Szczyt Pośredni
+M-34-101-A-c-4-3-2,Niżnie Rysy
+M-34-101-A-c-4-3-1,Płaśń za Kazalnicą
+M-34-101-A-c-4-3-2,Półki
+M-34-101-A-c-4-3-2,Przełęcz pod Rysami
+M-34-101-A-c-4-3-2,Rysy
+M-34-101-A-c-4-3-2,Spadowa Kopa
+M-34-101-A-c-4-3-2,Szeroki Zagon
+M-34-101-A-c-4-3-2,Tomkowe Igły
+M-34-101-A-c-4-3-2,Wąski Zagon
+M-34-101-A-c-4-3-1,Wielka Rogata Szczerbina
+M-34-101-A-c-4-3-1,Wielka Wołowa Szczerbina
+M-34-101-A-c-4-3-1,Wołowa Turnia
+M-34-101-A-c-4-3-1,Wołowa Płaśń
+M-34-101-A-c-4-3-1,Wołowy Grzbiet
+M-34-101-A-c-4-3-1,Czarnostawiański Kocioł
+M-34-101-A-c-4-3-1,Zadni Piarg
+M-34-101-A-c-4-3-2,Żabi Koń
+M-34-101-A-c-4-3-1,Żabia Mięguszowiecka Przełęcz
+M-34-101-A-c-4-3-2,Żabia Przełęcz
+M-34-101-A-c-4-3-2,Żabia Przełęcz Wyżnia
+M-34-101-A-c-4-3-1,Żabia Turnia Mięguszowiecka
+M-34-101-A-c-4-3-2,Szpara pod Rysami
+M-34-101-A-c-4-3-2,Rysa
+M-34-101-A-c-4-3-1,Wschodni Wołowy Róg
+M-34-101-A-c-4-3-1,Zachodni Wołowy Róg
+M-34-101-A-c-4-3-1,Wyżnie Hińczowe Wrótka
+M-34-101-A-c-4-3-1,Niżnie Hińczowe Wrótka
+M-34-101-A-c-4-3-1,Hińczowa Szczerbina
+M-34-101-A-c-4-3-1,Rogata Turniczka
+M-34-101-A-c-4-3-2,Górny Koń
+M-34-101-A-c-4-3-2,Dolny Koń
+M-34-101-A-c-4-3-2,Zachodnia Turnia nad Żabią Przełęczą
+M-34-101-A-c-4-3-2,Wschodnia Turnia nad Żabią Przełęczą
+M-34-101-A-c-4-3-2,Wyżnia Tomkowa Przełączka
+M-34-101-A-c-4-3-2,Zadnia Tomkowa Igła
+M-34-101-A-c-4-3-2,Niżnia Tomkowa Przełączka
+M-34-101-A-c-4-3-2,Skrajna Tomkowa Igła
+M-34-101-A-c-4-3-2,Pośrednia Turnia nad Żabią Przełęczą
+M-34-101-A-c-4-3-1,Sanktuarium
+M-34-101-A-c-4-3-1,Wyżni Bańdzioch
+M-34-101-A-c-4-3-2,Spadowe Siodło
+M-34-101-A-c-4-3-2,Klimkowe Baszty
+M-34-101-A-c-4-3-2,Ślimakowe Turnie
+M-34-101-A-c-4-3-1,Wołowa Galeria
+M-34-101-A-c-4-3-1,Zachód Grońskiego
+M-34-101-A-c-4-3-1,Wołowa Kotlinka
+M-34-101-A-c-4-3-1,Komin Stanisławskiego
+M-34-101-A-c-4-3-1,Rogata Grań
+M-34-101-A-c-4-3-1,Wołowe Rogi
+M-34-101-A-c-4-3-1,Czarnostawiańska Kopa
+M-34-101-A-c-4-3-1,Wołowa Przehyba
+M-34-101-A-c-4-3-1,Czarnostawiańska Strażnica
+M-34-101-A-c-4-3-1,Hińczowy Zwornik
+M-34-101-A-c-4-3-1,Wołowa Kazalnica
+M-34-101-A-c-4-3-2,Kotlinka pod Żabim Koniem
+M-34-101-A-c-4-3-2,Spadowa Turniczka
+M-34-101-A-c-4-3-2,Prawa Depresja
+M-34-101-A-c-4-3-2,Płyty Pilcha
+M-34-101-A-c-4-3-2,Prawy Kocioł
+M-34-101-A-c-4-3-2,Grzęda Heiricha
+M-34-101-A-c-4-3-2,Półka Staszla
+M-34-101-A-c-4-3-2,Okap Skłodowskiego
+M-34-101-A-c-4-3-2,Czołówka Kopy Spadowej
+M-34-101-A-c-4-3-2,Romb
+M-34-101-A-c-4-3-2,Długi Okap
+M-34-101-A-c-4-3-2,Grzęda Rysów
+M-34-101-A-c-4-3-2,Dziewiczy Żleb
+M-34-101-A-c-4-3-2,Żleb Orłowskiego
+M-34-101-A-c-4-3-2,Płyta Skłodowskiego
+M-34-101-A-c-4-3-1,Wyrwa Worwy
+M-34-101-A-c-4-3-1,Czarnostawiańskie Siodełko
+M-34-101-A-c-4-3-1,Niżni Czarnostawiański Przechód
+M-34-101-A-c-4-3-1,Wiszący Kociołek
+M-34-101-A-c-4-3-1,Galeryjka
+M-34-101-A-c-4-3-1,Wyżni Czarnostawiański Przechód
+M-34-101-A-c-4-3-1,Hińczowa Przehyba
+M-34-101-A-c-4-3-1,Trawers Westfalewicza
+M-34-101-A-c-4-3-1,Grzybek
+M-34-101-A-c-4-3-1,Wieża Świerza
+M-34-101-A-c-4-3-1,Górny Zachód Świerza
+M-34-101-A-c-4-3-1,Mięguszowieckie Szczyty
+M-34-101-A-c-4-3-1,Lewa Ściekwa
+M-34-101-A-c-4-3-1,Filar Orłowskiego
+M-34-101-A-c-4-3-1,Dolny Zachód Świerza
+M-34-101-A-c-4-3-1,Prawa Ściekwa
+M-34-101-A-c-4-3-1,Zachód Komarnickich
+M-34-101-A-c-4-3-1,Rynna Komarnickich
+M-34-101-A-c-4-3-1,Depresja Mączki
+M-34-101-A-c-4-3-1,Taras Sokołowskiego
+M-34-101-A-c-4-3-1,Półki Ratowników
+M-34-101-A-c-4-3-1,Zacięcie Szczuki
+M-34-101-A-c-4-3-1,Dolny Taras
+M-34-101-A-c-4-3-2,Depresja Szczepańskiego
+M-34-101-A-c-4-3-2,Innominata
+M-34-101-A-c-4-3-2,Lewy Kocioł
+M-34-101-A-c-4-3-2,Filar Wigilijny
+M-34-101-A-c-4-3-2,Zachód Klemensiewicza
+M-34-101-A-c-4-3-2,Spadowa Ławka
+M-34-101-A-c-4-3-2,Dolny Kocioł
+M-34-101-A-c-4-3-2,Wyżnia Spadowa Ławka
+M-34-101-A-c-4-3-2,Mały Wołowy Żleb
+M-34-101-A-c-4-3-1,Filar Wołowego Grzbietu
+M-34-101-A-c-4-3-1,Załupa Aligatora
+M-34-101-A-c-4-3-1,Komin Węgrzynowicza
+M-34-101-A-c-4-3-2,Wielki Wołowy Żleb
+M-34-101-A-c-4-3-1,Wołowy Przechód
+M-34-101-A-c-4-3-1,Mały Wołowy Róg
+M-34-101-A-c-4-3-2,Filar Grońskiego
+M-34-101-A-c-4-3-2,Komin Węgrzynowicza
+M-34-101-A-c-4-3-1,Zachód Ratowników
+M-34-101-A-c-4-3-1,Siodło za Kazalnicą
+M-34-101-A-c-4-3-1,Filar Świerza
+M-34-101-A-c-3-2-1,Brzuchaty Piarg
+M-34-101-A-c-3-2-4,Ciemnosmreczyńska Przełączka
+M-34-101-A-c-3-2-4,Ciemnosmreczyńska Turnia
+M-34-101-A-c-3-2-4,Cubryna
+M-34-101-A-c-3-2-1,Czerwony Piarg
+M-34-101-A-c-3-2-4,Dolina za Mnichem
+M-34-101-A-c-3-2-3,Dziurawy Kopiniec
+M-34-101-A-c-3-2-3,Głaźna Czuba
+M-34-101-A-c-3-2-3,Głaźne Wrótka
+M-34-101-A-c-3-2-4,Hala za Mnichem
+M-34-101-A-c-3-2-4,Hińczowa Przełęcz
+M-34-101-A-c-3-2-2,Hruby Piarg
+M-34-101-A-c-3-2-2,Kieszonki
+M-34-101-A-c-3-2-2,Kieszonkowe Turnie
+M-34-101-A-c-3-2-4,Kirowe Kopki
+M-34-101-A-c-3-2-2,Kirowy Upłaz
+M-34-101-A-c-3-2-4,Kopa nad Wrotami
+M-34-101-A-c-3-2-1,Liliowe
+M-34-101-A-c-3-2-4,Liliowe
+M-34-101-A-c-3-2-1,Przełęcz Liptowska Ławka Niżnia
+M-34-101-A-c-3-2-1,Przełęcz Liptowska Ławka Wyżnia
+M-34-101-A-c-3-2-3,Liptowskie Mury
+M-34-101-A-c-3-2-1,Liptowskie Mury
+M-34-101-A-c-3-2-4,Mała Cubryńska Galeria
+M-34-101-A-c-3-2-2,Marchwiczna Przełęcz
+M-34-101-A-c-3-2-2,Marchwiczne
+M-34-101-A-c-3-2-2,Miedziane
+M-34-101-A-c-3-2-2,Miedziane Góry
+M-34-101-A-c-3-2-2,Miedziane Kochy
+M-34-101-A-c-3-2-1,Miedziany Kostur
+M-34-101-A-c-3-2-1,Miedziany Upłaz
+M-34-101-A-c-3-2-4,Mięguszowiecka Turnia
+M-34-101-A-c-3-2-4,Mnich
+M-34-101-A-c-3-2-4,Mnichowa Kopa
+M-34-101-A-c-3-2-4,Mnichowe Plecy
+M-34-101-A-c-3-2-4,Mnichowy Kocioł
+M-34-101-A-c-3-2-4,Mnichowy Piarg
+M-34-101-A-c-3-2-2,Mnichowy Potok
+M-34-101-A-c-3-2-4,Mnichowy Potok
+M-34-101-A-c-3-2-4,Mniszek
+M-34-101-A-c-3-2-3,Stawek na Kopkach
+M-34-101-A-c-3-2-2,Niedźwiedź
+M-34-101-A-c-3-2-1,Niżni Liptowski Kostur
+M-34-101-A-c-3-2-4,Niżni Staw Staszica
+M-34-101-A-c-3-2-2,Opalony Wierch
+M-34-101-A-c-3-2-1,Dolina Pięciu Stawów Polskich
+M-34-101-A-c-3-2-2,Płaśń pod Mnichem
+M-34-101-A-c-3-2-4,Przełączka pod Zadnim Mnichem
+M-34-101-A-c-3-2-4,Przełęcz nad Wrotami
+M-34-101-A-c-3-2-2,Szeroki Piarg
+M-34-101-A-c-3-2-1,Szpiglasowa Przełęcz
+M-34-101-A-c-3-2-3,Szpiglasowa Turniczka
+M-34-101-A-c-3-2-1,Szpiglasowe Kopki
+M-34-101-A-c-3-2-1,Szpiglasowe Perci
+M-34-101-A-c-3-2-1,Szpiglasowe Stawki
+M-34-101-A-c-3-2-3,Szpiglasowy Kopiniec
+M-34-101-A-c-3-2-3,Szpiglasowy Wierch
+M-34-101-A-c-3-2-2,Tatry Wschodnie
+M-34-101-A-c-3-2-4,Wielka Cubryńska Galeria
+M-34-101-A-c-3-2-3,Wrota Chałubińskiego
+M-34-101-A-c-3-2-1,Wyżni Liptowski Kostur
+M-34-101-A-c-3-2-4,Wyżni Staw Staszica
+M-34-101-A-c-3-2-2,Wyżnie Dziady
+M-34-101-A-c-3-2-4,Wyżnie Mnichowe Stawki
+M-34-101-A-c-3-2-3,Wyżnie Szpiglasowe Wrótka
+M-34-101-A-c-3-2-4,Zadni Mnich
+M-34-101-A-c-3-2-4,Zadni Mnichowy Piarg
+M-34-101-A-c-3-2-4,Zadni Mnichowy Stawek
+M-34-101-A-c-3-2-4,Zadnia Cubryńska Galeria
+M-34-101-A-c-3-2-4,Żleb pod Mnichem
+M-34-101-A-c-3-2-4,Cubryńska Dziura Pierwsza
+M-34-101-A-c-3-2-4,Cubryńska Dziura Druga
+M-34-101-A-c-3-2-4,Cubryńska Dziura Trzecia
+M-34-101-A-c-3-2-2,Dziura w Miedzianym Kosturze Pierwsza
+M-34-101-A-c-3-2-2,Dziura w Miedzianym Kosturze Druga
+M-34-101-A-c-3-2-4,Jaskinia przy Studni w Mnichu
+M-34-101-A-c-3-2-4,Studnia w Mnichu
+M-34-101-A-c-3-2-4,Mnichowy Komin
+M-34-101-A-c-3-2-4,Studnia przy Mnichowym Kominie
+M-34-101-A-c-3-2-3,Studnia w Dziurawej Czubie
+M-34-101-A-c-3-2-4,Ministrant
+M-34-101-A-c-3-2-4,Wyżnia Mnichowa Przełączka
+M-34-101-A-c-3-2-4,Niżnia Mnichowa Przełączka
+M-34-101-A-c-3-2-4,Wyżnia Mnichowa Płaśń
+M-34-101-A-c-3-2-4,Mięguszowiecka Turniczka
+M-34-101-A-c-3-2-3,Niżnia Przełęcz nad Wrotami
+M-34-101-A-c-3-2-4,Turnia nad Wrotami
+M-34-101-A-c-3-2-4,Przełęcz nad Wrotami
+M-34-101-A-c-3-2-4,Wyżnia Przełęcz nad Wrotami
+M-34-101-A-c-3-2-4,Nadspady
+M-34-101-A-c-3-2-4,Cubryński Żleb
+M-34-101-A-c-3-2-4,Kazalnica Cubryńska
+M-34-101-A-c-3-2-4,Ucho
+M-34-101-A-c-3-2-4,Żelazko
+M-34-101-A-c-3-2-4,Mały Bańdzioch
+M-34-101-A-c-3-2-4,Turnia Zwornikowa Cubryny
+M-34-101-A-c-3-2-2,Miedziana Turnia
+M-34-101-A-c-3-2-2,Miedziany Słup
+M-34-101-A-c-3-2-4,Ku Organistowi
+M-34-101-A-c-3-2-2,Czerwona Turniczka
+M-34-101-A-c-3-2-4,Ramię Cubryny
+M-34-101-A-c-3-2-4,Murzańska Bula
+M-34-101-A-c-3-2-4,Żleb Chmielowskiego
+M-34-101-A-c-3-2-4,Piknik pod Wiszącą Skałą
+M-34-101-A-c-3-2-4,Zachód Marusarza
+M-34-101-A-c-3-2-4,Wyżnie Siodełko
+M-34-101-A-c-3-2-4,Biały Żlebek
+M-34-101-A-c-3-2-4,Białe Siodełko
+M-34-101-A-c-3-2-4,Czerwony Żlebek
+M-34-101-A-c-3-2-4,Zachód Janczewskiego
+M-34-101-A-c-3-2-4,Płyta Paszczaka
+M-34-101-A-c-3-2-4,Nietoperz
+M-34-101-A-c-3-2-4,Hińczowy Śnieżnik
+M-34-101-A-c-3-2-4,Środkowy Bastion
+M-34-101-A-c-3-2-4,Klimkowa Ławka
+M-34-101-A-c-3-2-4,Kluczowe Zacięcie
+M-34-101-A-c-3-2-4,Środkowe Trawniki
+M-34-101-A-c-3-2-4,Komin Roja
+M-34-101-A-c-3-2-4,Komin Hobrzańskiego
+M-34-101-A-c-3-2-4,Lewy Zachód Abgarowicza
+M-34-101-A-c-3-2-4,Czerwone Siodełko
+M-34-101-A-c-3-2-4,Lewa Ściana
+M-34-101-A-c-3-2-4,Środkowa Ściana
+M-34-101-A-c-3-2-4,Prawy Zachód Abgarowicza
+M-34-101-A-c-3-2-4,Czarny Komin
+M-34-101-A-c-3-2-4,Prawa Ściana
+M-34-101-A-c-3-2-4,Skrajna Piarżysta Przełęcz
+M-34-101-A-c-3-2-4,Komin Głazków
+M-34-101-A-c-3-2-4,Filarek Orłowskiego
+M-34-101-A-c-3-2-4,Mnichowe Półki Dolne
+M-34-101-A-c-3-2-4,Zawieszony Żleb
+M-34-101-A-c-3-2-4,Niżnia Cubryńska Galeria
+M-34-101-A-c-3-2-4,Cubryńska Igła
+M-34-101-A-c-3-2-4,Wielki Cubryński Ogród
+M-34-101-A-c-3-2-4,Mały Cubryński Ogród
+M-34-101-A-c-3-2-4,Przełączka za Turnią Zwornikową
+M-34-101-A-c-3-2-4,Wyżni Cubryński Przechód
+M-34-101-A-c-3-2-4,Cubryńska Szczerbinka
+M-34-101-A-c-3-2-4,Pośredni Cubryński Przechód
+M-34-101-A-c-3-2-4,Cubryński Koń
+M-34-101-A-c-3-2-4,Trawnik z Blokami
+M-34-101-A-c-3-2-4,Szara Płyta
+M-34-101-A-c-3-2-4,Cygaro
+M-34-101-A-c-3-2-4,Wyżnia Turnica nad Uchem
+M-34-101-A-c-3-2-4,Niżnia Turnica nad Uchem
+M-34-101-A-c-3-2-4,Komin Kaskaderów
+M-34-101-A-c-3-2-4,Diabeł
+M-34-101-A-c-3-2-4,Ławka pod Diabłem
+M-34-101-A-c-3-2-4,Biała Płyta
+M-34-101-A-c-3-2-4,Żleb Pod Soplem
+M-34-101-A-c-3-2-4,Liliowa Płaśń
+M-34-101-A-c-3-2-4,Liliowa Kazalnica
+M-34-101-A-c-3-2-4,Wielka Mnichowa Baba
+M-34-101-A-c-3-2-4,Rysa Strzeleckiego
+M-34-101-A-c-3-2-4,Niżni Cubryński Przechód
+M-34-101-A-c-3-2-4,Liliowa Turniczka
+M-34-101-A-c-3-2-4,Liliowe Siodełko
+M-34-101-A-c-3-2-4,Mnichowy Taras
+M-34-101-A-c-3-2-4,Tablice
+M-34-101-A-c-3-2-4,Cubryńska Kopka
+M-34-101-A-c-3-2-4,Cubryński Komin z Dziurami
+M-34-101-A-c-3-2-4,Żleb Szulakiewicza
+M-34-101-A-c-3-2-4,Mnichowa Przehyba
+M-34-101-A-c-3-2-4,Kant Zadniego Mnicha
+M-34-101-A-c-3-2-3,Szczerbina nad Wrotami
+M-34-101-A-c-3-2-3,Kominy Uchmańskiego
+M-34-101-A-c-3-2-4,Mała Mnichowa Baba
+M-34-101-A-c-3-2-4,Pośrednia Mnichowa Baba
+M-34-101-A-c-3-2-4,Żleb Szecówki
+M-34-101-A-c-3-2-4,Skośna Rysa
+M-34-101-A-c-3-2-4,Trawnik Małolata
+M-34-101-A-c-3-2-4,Kuluar Kurtyki
+M-34-101-A-c-3-2-4,Cienka Rysa
+M-34-101-A-c-3-2-4,Rysa Strzeleckiego
+M-34-101-A-c-3-2-2,Skrajny Kirowy Żleb
+M-34-101-A-c-3-2-2,Żleb Babińskich
+M-34-101-A-c-3-2-2,Miedziana Turniczka
+M-34-101-A-c-3-2-2,Trawnik Babińskich
+M-34-101-A-c-3-2-2,Orzeł
+M-34-101-A-c-3-2-3,Szpiglasowa Grań
+M-34-101-A-c-3-2-3,Niżnie Szpiglasowe Wrótka
+M-34-101-A-c-3-2-3,Depresja Kurczaba
+M-34-101-A-c-3-2-3,Szpiglasowa Kotlinka
+M-34-101-A-c-3-2-2,Francuski Żleb
+M-34-101-A-c-3-2-2,Miedziany Przechód
+M-34-101-A-c-3-2-2,Miedziany Taras
+M-34-101-A-c-3-2-2,Wyżnia Kieszonkowa Ławka
+M-34-101-A-c-3-2-2,Miedziany Bastion
+M-34-101-A-c-3-2-2,Omszała Pochylnia
+M-34-101-A-c-3-2-2,Kieszonkowa Ławka
+M-34-101-A-c-3-2-2,Wyżni Kieszonkowy Przechód
+M-34-101-A-c-3-2-2,Opalone Zęby
+M-34-101-A-c-3-2-2,Płytowa Turnia
+M-34-101-A-c-3-2-2,Żleb Bilskiego
+M-34-101-A-c-3-2-2,Niedźwiedzie Płyty
+M-34-101-A-c-3-2-2,Omszała Pochylnia
+M-34-101-A-c-3-2-4,Filarek Porębskiego
+M-34-101-A-c-3-2-4,Cubryński Zwornik
+M-34-101-A-c-3-2-4,Sopel
+M-34-101-A-c-3-2-4,Liliowa Drabina
+M-34-101-A-c-3-2-4,Skośna Płyta
+M-34-101-A-c-3-2-4,Cubryński Śnieżnik
+M-34-101-A-c-3-2-3,Szpiglasowa Kopka
+M-34-101-A-c-3-2-2,Kieszonkowy Przechód
+M-34-101-A-c-3-2-2,Niedźwiedzie Płyty
+M-34-101-A-c-3-2-3,Szpiglasowy Ząb
+M-34-101-A-c-3-2-3,Szpiglasowa Szczerbina
+M-34-101-A-c-3-2-3,Pośrednie Szpiglasowe Wrótka
+M-34-101-A-c-3-2-3,Przełączka nad Szpiglasową Czubą
+M-34-100-B-b-3-2-1,Polana Białego
+M-34-100-B-b-3-2-1,Blachowski Potok
+M-34-100-B-b-3-2-1,Blachowski Potok
+M-34-100-B-b-3-2-1,Cicha Woda
+M-34-100-B-b-3-2-2,Cicha Woda
+M-34-100-B-b-3-2-1,Cicha Woda
+M-34-100-B-b-3-2-2,Dziadusiów Potok
+M-34-100-B-b-3-2-3,Gąsieniców Potok
+M-34-100-B-b-3-2-2,Gąsienicowy Wierch
+M-34-100-B-b-3-2-3,Jasiowe Turnie
+M-34-100-B-b-3-2-2,Krzeptowski Potok
+M-34-100-B-b-3-2-3,Krzeptowski Potok
+M-34-100-B-b-3-2-3,Krzeptowski Potok
+M-34-100-B-b-3-2-1,Krzeptowski Potok
+M-34-100-B-b-3-2-2,Księży Las
+M-34-100-B-b-3-2-3,Mały Żlebek
+M-34-100-B-b-3-2-2,Miśkowiec
+M-34-100-B-b-3-2-2,Miśkowiec
+M-34-100-B-b-3-2-4,Miśkowiec
+M-34-100-B-b-3-2-2,Miśkowiec
+M-34-100-B-b-3-2-4,Polana Młyniska
+M-34-100-B-b-3-2-3,Pieronka
+M-34-100-B-b-3-2-2,Potok za Bramką
+M-34-100-B-b-3-2-3,Potok za Bramką
+M-34-100-B-b-3-2-3,Potok za Bramką
+M-34-100-B-b-3-2-4,Potok za Bramką
+M-34-100-B-b-3-2-4,Samkowa Czuba
+M-34-100-B-b-3-2-4,Młynkowiec
+M-34-100-B-b-3-2-2,Młynkowiec
+M-34-100-B-b-3-2-4,Strążyski Potok
+M-34-100-B-b-3-2-4,Strążyski Potok
+M-34-100-B-b-3-2-4,Suchy Źleb
+M-34-100-B-b-3-2-4,Trzy Kominy
+M-34-100-B-b-3-2-2,Walczacki Potok
+M-34-100-B-b-3-2-3,Dolina za Bramką
+M-34-100-B-b-3-2-3,Jasiowy Schron
+M-34-100-B-b-3-2-2,Gronik
+M-34-100-B-b-3-2-4,Droga pod Reglami
+M-34-100-B-b-3-2-1,Czajkowski Las
+M-34-100-B-b-3-2-4,Buńdówki
+M-34-100-B-c-1-4-2,Białe Skałki
+M-34-100-B-c-1-4-1,Dolina Chochołowska
+M-34-100-B-c-1-4-1,Chochołowski Potok
+M-34-100-B-c-1-4-3,Czerwony Potok
+M-34-100-B-c-1-4-3,Czerwony Potok
+M-34-100-B-c-1-4-3,Czerwony Wierch
+M-34-100-B-c-1-4-4,Czubik
+M-34-100-B-c-1-4-4,Dudowa Kotlina
+M-34-100-B-c-1-4-4,Dudowe Stawki
+M-34-100-B-c-1-4-2,Dwojaki
+M-34-100-B-c-1-4-3,Dwojaki
+M-34-100-B-c-1-4-2,Dwojakowy Żleb
+M-34-100-B-c-1-4-1,Hotarz
+M-34-100-B-c-1-4-3,Jarząbcza Rówień
+M-34-100-B-c-1-4-1,Dolina Jarzębcza
+M-34-100-B-c-1-4-1,Hala Jarząbcza
+M-34-100-B-c-1-4-3,Jarząbcze Rówienki
+M-34-100-B-c-1-4-1,Jarząbcze Szałasiska
+M-34-100-B-c-1-4-1,Jarząbczy Potok
+M-34-100-B-c-1-4-4,Jarząbczy Potok
+M-34-100-B-c-1-4-3,Jarząbczy Potok
+M-34-100-B-c-1-4-1,Jarząbczy Potok
+M-34-100-B-c-1-4-2,Jarząbczy Upłaz
+M-34-100-B-c-1-4-4,Kopieniec
+M-34-100-B-c-1-4-1,Litworowy Potok
+M-34-100-B-c-1-4-4,Mocórki
+M-34-100-B-c-1-4-2,Mokry Żleb
+M-34-100-B-c-1-4-3,Mokrzyniec
+M-34-100-B-c-1-4-4,Nieskorniaki
+M-34-100-B-c-1-4-3,Pośredni Żleb
+M-34-100-B-c-1-4-4,Pośrednia Kopa
+M-34-100-B-c-1-4-4,Przykra Kopa
+M-34-100-B-c-1-4-1,Ropa
+M-34-100-B-c-1-4-3,Rystoki
+M-34-100-B-c-1-4-3,Skrajny Żleb
+M-34-100-B-c-1-4-4,Szeroki Żleb
+M-34-100-B-c-1-4-4,Szyja
+M-34-100-B-c-1-4-2,Trzydniowiański Upłaz
+M-34-100-B-c-1-4-2,Trzydniowiański Wierch
+M-34-100-B-c-1-4-4,Twardy Upłaz
+M-34-100-B-c-1-4-4,Wąskie Żlebki
+M-34-100-B-c-1-4-4,Wąskie Żlebki
+M-34-100-B-c-1-4-4,Wąskie Żlebki
+M-34-100-B-c-1-4-4,Wielki Przysłop
+M-34-100-B-c-1-4-2,Wydarte
+M-34-100-B-c-1-4-2,Wydarty Żleb
+M-34-100-B-c-1-4-1,Wyżni Chochołowski Potok
+M-34-100-B-c-1-4-1,Wyżnia Chochołowska Dolina
+M-34-100-B-c-1-4-4,Nieskornia
+M-34-100-B-c-1-4-3,Polana Jarząbcza Wyżnia
+M-34-100-B-c-1-4-4,Mały Przysłopek
+M-34-100-B-c-1-4-4,Przełęcz nad Szyją
+M-34-100-B-c-1-4-4,Dudowa Przełęcz
+M-34-100-B-d-2-1-3,Długi Żleb
+M-34-100-B-d-2-1-4,Goryczkowa Czuba
+M-34-100-B-d-2-1-4,Goryczkowa Przełęcz Świńska
+M-34-100-B-d-2-1-2,Dolina Goryczkowa
+M-34-100-B-d-2-1-2,Hala Goryczkowa
+M-34-100-B-d-2-1-3,Kochy
+M-34-100-B-d-2-1-1,Kondratowa Polana
+M-34-100-B-d-2-1-1,Dolina Kondratowa
+M-34-100-B-d-2-1-2,Hala Kondratowa
+M-34-100-B-d-2-1-4,Kondratowy Wierch
+M-34-100-B-d-2-1-1,Koński Żleb
+M-34-100-B-d-2-1-1,Koryciska
+M-34-100-B-d-2-1-1,Krokiew
+M-34-100-B-d-2-1-1,Krówski Żleb
+M-34-100-B-d-2-1-1,Łopata
+M-34-100-B-d-2-1-3,Magurski Upłaz
+M-34-100-B-d-2-1-1,Dolina Małego Szerokiego
+M-34-100-B-d-2-1-1,Mechy
+M-34-100-B-d-2-1-2,Niżnia Goryczkowa Rówień
+M-34-100-B-d-2-1-3,Pod Kopą Kondracką
+M-34-100-B-d-2-1-1,Portki
+M-34-100-B-d-2-1-4,Pośredni Wierch Goryczkowy
+M-34-100-B-d-2-1-3,Rówień
+M-34-100-B-d-2-1-2,Siacisko
+M-34-100-B-d-2-1-1,Sucha Dolina Kondracka
+M-34-100-B-d-2-1-3,Suche Czuby
+M-34-100-B-d-2-1-3,Suchy Wierch Kondracki
+M-34-100-B-d-2-1-1,Suchy Żleb
+M-34-100-B-d-2-1-3,Szeroki Żleb
+M-34-100-B-d-2-1-4,Dolina Świńska
+M-34-100-B-d-2-1-1,Świński Żleb
+M-34-100-B-d-2-1-1,Wanta
+M-34-100-B-d-2-1-1,Zdziarchy
+M-34-100-B-d-2-1-3,Dziura przy Piargu
+M-34-100-B-d-2-1-3,Szczelina w Kopie
+M-34-100-B-d-2-1-3,Niskie Wrótka
+M-34-100-B-d-2-1-3,Skryte Wrótka
+M-34-100-B-d-2-1-3,Mała Sucha Czuba
+M-34-100-B-d-2-1-3,Pośrednia Sucha Czuba
+M-34-100-B-d-2-1-4,Wysoka Sucha Czuba
+M-34-100-B-d-2-1-4,Wysokie Wrótka
+M-34-100-B-d-2-1-3,Kotliny
+M-34-100-B-d-2-1-4,Kondratowy Przechód
+M-34-100-B-d-2-1-4,Wyżni Kondracki Karb
+M-34-100-B-d-2-1-3,Pośredni Kondracki Karb
+M-34-100-B-d-2-1-3,Niżni Kondracki Karb
+M-34-100-B-d-2-1-3,Sucha Przełęcz Kondracka
+M-34-100-B-a-2-3-4,Baligówka
+M-34-100-B-a-2-3-2,Biała Przybylanka
+M-34-100-B-a-2-3-2,Biała Przybylanka
+M-34-100-B-a-2-3-4,Biała Przybylanka
+M-34-100-B-a-2-3-2,Cichowiański Las
+M-34-100-B-a-2-3-3,Cyrla
+M-34-100-B-a-2-3-2,Czarny Dunajec
+M-34-100-B-a-2-3-3,Hurchoci Wierch
+M-34-100-B-a-2-3-4,Kładkówka
+M-34-100-B-a-2-3-3,Koszarzyska
+M-34-100-B-a-2-3-1,Magura
+M-34-100-B-a-2-3-1,Magura
+M-34-100-B-a-2-3-2,Morgasówka
+M-34-100-B-a-2-3-2,Palenica
+M-34-100-B-a-2-3-2,Przybylanka
+M-34-100-B-a-2-3-3,Przybylanka
+M-34-100-B-a-2-3-4,Przybylanka
+M-34-100-B-a-2-3-4,Przybylanka
+M-34-100-B-a-2-3-2,Przybylanka
+M-34-100-B-a-2-3-4,Przybylanka
+M-34-100-B-a-2-3-4,Solarzówka
+M-34-100-B-a-2-3-4,Szczurkówka
+M-34-100-B-a-2-3-4,Krzystkówka
+M-34-100-B-a-2-3-2,Miśkówka
+M-34-100-B-c-2-2-1,Bańdzioch Kominiarski
+M-34-100-B-c-2-2-1,Bańdzioch Kominiarski
+M-34-100-B-c-2-2-2,Baraniarka
+M-34-100-B-c-2-2-2,Czarna Turnia
+M-34-100-B-c-2-2-2,Jaskinia Czarna
+M-34-100-B-c-2-2-3,Czarne Turnie
+M-34-100-B-c-2-2-3,Czarny Żleb
+M-34-100-B-c-2-2-4,Dziura w Ścianie
+M-34-100-B-c-2-2-4,Dzwonnica
+M-34-100-B-c-2-2-4,Jaskinia Geologiczna
+M-34-100-B-c-2-2-3,Gładki Żleb
+M-34-100-B-c-2-2-4,Groby
+M-34-100-B-c-2-2-2,Grzesie
+M-34-100-B-c-2-2-4,Gubalec
+M-34-100-B-c-2-2-3,Iwanowski Potok
+M-34-100-B-c-2-2-3,Iwanowski Potok
+M-34-100-B-c-2-2-2,Kazalnica
+M-34-100-B-c-2-2-1,Kominiarska Rówień
+M-34-100-B-c-2-2-1,Kominy Tylkowe
+M-34-100-B-c-2-2-3,Dolina Kościeliska
+M-34-100-B-c-2-2-3,Kościeliski Potok
+M-34-100-B-c-2-2-4,Kościeliski Potok
+M-34-100-B-c-2-2-2,Kościeliski Potok
+M-34-100-B-c-2-2-4,Krakowska Piwnica
+M-34-100-B-c-2-2-4,Krakowskie Okno
+M-34-100-B-c-2-2-2,Kraków
+M-34-100-B-c-2-2-4,Kraków
+M-34-100-B-c-2-2-1,Ku Stawku
+M-34-100-B-c-2-2-2,Łomniki
+M-34-100-B-c-2-2-4,Małe Kamienne
+M-34-100-B-c-2-2-1,Mnich
+M-34-100-B-c-2-2-4,Jaskinia Mylna
+M-34-100-B-c-2-2-2,Jaskinia Mylna
+M-34-100-B-c-2-2-1,Polana na Stołach
+M-34-100-B-c-2-2-1,Nisza Zachodnia
+M-34-100-B-c-2-2-2,Niżnia Pisana Polana
+M-34-100-B-c-2-2-1,Jaskinia Nowa nad Raptawicką Granią
+M-34-100-B-c-2-2-2,Jaskinia Obłazkowa
+M-34-100-B-c-2-2-2,Okna Zbójnickie Niżnie
+M-34-100-B-c-2-2-2,Okna Zbójnickie Wyżnie
+M-34-100-B-c-2-2-2,Organy
+M-34-100-B-c-2-2-4,Jaskinia Owcza
+M-34-100-B-c-2-2-2,Pisana Skała
+M-34-100-B-c-2-2-2,Hala Pisana
+M-34-100-B-c-2-2-2,Pisaniarski Żleb
+M-34-100-B-c-2-2-1,Jaskinia pod Głazem
+M-34-100-B-c-2-2-1,Jaskinia pod Kapliczką
+M-34-100-B-c-2-2-4,Jaskinia pod Smoczą Jamą
+M-34-100-B-c-2-2-4,Jaskinia Poszukiwaczy Skarbów
+M-34-100-B-c-2-2-4,Przełączka za Saturnem
+M-34-100-B-c-2-2-4,Jaskinia Przeziorowa
+M-34-100-B-c-2-2-4,Jaskinia przy Żlebie
+M-34-100-B-c-2-2-4,Jaskinia Psia
+M-34-100-B-c-2-2-3,Pyszniański Potok
+M-34-100-B-c-2-2-2,Raptawicka Brama
+M-34-100-B-c-2-2-3,Raptawicka Grań
+M-34-100-B-c-2-2-2,Raptawicka Turnia
+M-34-100-B-c-2-2-2,Jaskinia Raptawicka
+M-34-100-B-c-2-2-4,Ratusz
+M-34-100-B-c-2-2-4,Saturn
+M-34-100-B-c-2-2-1,Schron przy Suchym Biwaku
+M-34-100-B-c-2-2-4,Smocza Jama
+M-34-100-B-c-2-2-3,Dolina Smytnia
+M-34-100-B-c-2-2-4,Hala Smytnia
+M-34-100-B-c-2-2-1,Jaskinia Smytnia
+M-34-100-B-c-2-2-3,Smytniańskie Turnie
+M-34-100-B-c-2-2-2,Sowa
+M-34-100-B-c-2-2-3,Spadzisty Żleb
+M-34-100-B-c-2-2-3,Stara Polana
+M-34-100-B-c-2-2-1,Stawek
+M-34-100-B-c-2-2-2,Stoły
+M-34-100-B-c-2-2-1,Stoły
+M-34-100-B-c-2-2-1,Stoły
+M-34-100-B-c-2-2-2,Stoły
+M-34-100-B-c-2-2-4,Szczelina nad Żlebem
+M-34-100-B-c-2-2-3,Szczelina w Smytniej
+M-34-100-B-c-2-2-1,Szczerba
+M-34-100-B-c-2-2-1,Jaskinia Ślimacza
+M-34-100-B-c-2-2-4,Dolina Tomanowa
+M-34-100-B-c-2-2-3,Tomanowy Potok
+M-34-100-B-c-2-2-1,Tylkowa Szczelina
+M-34-100-B-c-2-2-1,Upłazek
+M-34-100-B-c-2-2-2,Wielka Szczelina
+M-34-100-B-c-2-2-4,Wielka Turnia
+M-34-100-B-c-2-2-4,Wielkie Kamienne Smytniańskie
+M-34-100-B-c-2-2-2,Jaskinia Wodna pod Pisaną
+M-34-100-B-c-2-2-2,Jaskinia Wodna pod Raptawicką Turnią
+M-34-100-B-c-2-2-1,Wrótka
+M-34-100-B-c-2-2-2,Wypadnionka
+M-34-100-B-c-2-2-2,Wysranki
+M-34-100-B-c-2-2-2,Wyżnia Pisana Polana
+M-34-100-B-c-2-2-4,Jaskinia za Smrekiem
+M-34-100-B-c-2-2-1,Zabijak
+M-34-100-B-c-2-2-1,Zabijak
+M-34-100-B-c-2-2-2,Zamczysko Niżnie
+M-34-100-B-c-2-2-2,Zamczysko Wyżnie
+M-34-100-B-c-2-2-4,Zbójnicka Turnia
+M-34-100-B-c-2-2-2,Jaskinia Zimna
+M-34-100-B-c-2-2-4,Jaskinia pod Zamkiem
+M-34-100-B-c-2-2-4,Żar Smreczyński
+M-34-100-B-c-2-2-1,Żeleźniak
+M-34-100-B-c-2-2-2,Polanka
+M-34-100-B-c-2-2-1,Awen Odpękniętych Nacieków
+M-34-100-B-c-2-2-2,Bardzo Niska Nyża
+M-34-100-B-c-2-2-4,Dudzia Dziura
+M-34-100-B-c-2-2-4,Dwuotworowa Szczelina
+M-34-100-B-c-2-2-2,Dziura nad Jaskinią Raptawicką Pierwsza
+M-34-100-B-c-2-2-2,Dziura nad Jaskinią Raptawicką Druga
+M-34-100-B-c-2-2-4,Dziura nad Jaskinią Mylną
+M-34-100-B-c-2-2-4,Dziura nad Żlebem
+M-34-100-B-c-2-2-4,Dziura pod Arkadą
+M-34-100-B-c-2-2-2,Dziura pod Kazalnicą
+M-34-100-B-c-2-2-4,Dziura pod Jaskinią Mylną
+M-34-100-B-c-2-2-1,Dziura pod Nową
+M-34-100-B-c-2-2-2,Dziura pod Oknem
+M-34-100-B-c-2-2-2,Dziura pod Raptawicką
+M-34-100-B-c-2-2-2,Dziura w Organach Pierwsza
+M-34-100-B-c-2-2-2,Dziura w Organach Druga
+M-34-100-B-c-2-2-2,Dziura w Organach Trzecia
+M-34-100-B-c-2-2-2,Dziura w Organach Czwarta
+M-34-100-B-c-2-2-2,Dziura w Organach Piąta
+M-34-100-B-c-2-2-2,Dziura w Organach Szósta
+M-34-100-B-c-2-2-2,Dziura w Organach Siódma
+M-34-100-B-c-2-2-1,Dziura w Stołach
+M-34-100-B-c-2-2-4,Dziura w Wielkiej Turni
+M-34-100-B-c-2-2-4,Dziura za Modrzewiami
+M-34-100-B-c-2-2-4,Dziura za Znakami
+M-34-100-B-c-2-2-2,Dziurawa Koleba
+M-34-100-B-c-2-2-1,Dziurka od Klucza
+M-34-100-B-c-2-2-2,Jaskinia Balkonowa
+M-34-100-B-c-2-2-2,Jaskinia Krwawego Nosa
+M-34-100-B-c-2-2-1,Jaskinia Lejowa Wyżnia
+M-34-100-B-c-2-2-4,Jaskinia Mała pod Zamkiem
+M-34-100-B-c-2-2-1,Jaskinia Mechata
+M-34-100-B-c-2-2-2,Jaskinia Mysia
+M-34-100-B-c-2-2-1,Jaskinia nad Prożkiem w Żlebie na Spady
+M-34-100-B-c-2-2-1,Jaskinia nad Smytnią
+M-34-100-B-c-2-2-4,Jaskinia Pajęcza
+M-34-100-B-c-2-2-1,Jaskinia pod Bramką
+M-34-100-B-c-2-2-4,Jaskinia pod Jaworem
+M-34-100-B-c-2-2-2,Jaskinia pod Murem
+M-34-100-B-c-2-2-4,Jaskinia pod Niżnią Zbójnicką Turnią
+M-34-100-B-c-2-2-4,Jaskinia pod Oknem
+M-34-100-B-c-2-2-2,Jaskinia pod Ostrewką
+M-34-100-B-c-2-2-1,Jaskinia pod Wiśniakową Jamą
+M-34-100-B-c-2-2-1,Rura Kominiarska
+M-34-100-B-c-2-2-2,Jaskinia Wodna przy Pisanej
+M-34-100-B-c-2-2-1,Jaskinia z Mułem
+M-34-100-B-c-2-2-2,Jaskinia Zawaliskowa w Stołach
+M-34-100-B-c-2-2-4,Jaskinia Ziobrowa
+M-34-100-B-c-2-2-1,Koliba w Smytniej
+M-34-100-B-c-2-2-1,Kominek przy Bańdziochu
+M-34-100-B-c-2-2-3,Kominki w Panienkach Smytniańskich
+M-34-100-B-c-2-2-2,Kopalnia Maturka
+M-34-100-B-c-2-2-2,Korytarz z Różą
+M-34-100-B-c-2-2-4,Korytarzyk pod Zamkiem
+M-34-100-B-c-2-2-3,Korytarzyk w Czarnych Turniach
+M-34-100-B-c-2-2-2,Lejek
+M-34-100-B-c-2-2-4,Mała Szczelina
+M-34-100-B-c-2-2-2,Meanderek nad Jaskinią Mylną
+M-34-100-B-c-2-2-1,Nisza nad Jelenią Percią
+M-34-100-B-c-2-2-4,Nisza nad Żółtą Dziurą
+M-34-100-B-c-2-2-1,Nisza Wschodnia
+M-34-100-B-c-2-2-1,Nyża nad Bramką
+M-34-100-B-c-2-2-1,Nyża nad Prożkiem w Żlebie na Spady
+M-34-100-B-c-2-2-4,Nyża nad Jaskinią Ziobrową
+M-34-100-B-c-2-2-1,Nyża pod Bańdziochem
+M-34-100-B-c-2-2-1,Nyża przy Perci
+M-34-100-B-c-2-2-2,Nyża z Dzięglem
+M-34-100-B-c-2-2-4,Nyża za Załomem
+M-34-100-B-c-2-2-2,Okno w Zamczysku
+M-34-100-B-c-2-2-1,Omszała Szczelina w Żeleźniaku
+M-34-100-B-c-2-2-1,Otwarty Schron
+M-34-100-B-c-2-2-1,Płaska Komórka w Żeleźniaku
+M-34-100-B-c-2-2-2,Przelot
+M-34-100-B-c-2-2-4,Radkowa Dziura Pierwsza
+M-34-100-B-c-2-2-4,Radkowa Dziura Druga
+M-34-100-B-c-2-2-4,Raptawicki Tunelik
+M-34-100-B-c-2-2-2,Schron między Żwirowymi Dziurami
+M-34-100-B-c-2-2-1,Schron nad Żlebem
+M-34-100-B-c-2-2-2,Schron pod Kazalnicą
+M-34-100-B-c-2-2-4,Schron pod Owczą Pierwszy
+M-34-100-B-c-2-2-4,Schron pod Owczą Drugi
+M-34-100-B-c-2-2-1,Schron pod Tunelem
+M-34-100-B-c-2-2-2,Schron przed Sową Pierwszy
+M-34-100-B-c-2-2-2,Schron przed Sową Drugi
+M-34-100-B-c-2-2-2,Schron przed Sową Trzeci
+M-34-100-B-c-2-2-2,Schron przy Jaskini Naciekowej
+M-34-100-B-c-2-2-4,Schron przy Smoczej Jamie
+M-34-100-B-c-2-2-1,Schron z Kołem
+M-34-100-B-c-2-2-4,Schron z Napisami
+M-34-100-B-c-2-2-1,Schronisko nad Bramą
+M-34-100-B-c-2-2-1,Schronisko nad Bramką
+M-34-100-B-c-2-2-1,Schronisko nad Trawersem w Żeleźniaku Pierwsze
+M-34-100-B-c-2-2-1,Schronisko nad Trawersem w Żeleźniaku Drugie
+M-34-100-B-c-2-2-1,Schronisko nad Wiśniakową Jamą
+M-34-100-B-c-2-2-1,Schronisko przy Jeleniej Perci
+M-34-100-B-c-2-2-4,Sokole Okno
+M-34-100-B-c-2-2-2,Sowia Jama Pierwsza
+M-34-100-B-c-2-2-2,Sowia Jama Druga
+M-34-100-B-c-2-2-2,Sowia Jama Trzecia
+M-34-100-B-c-2-2-1,Suchy Biwak
+M-34-100-B-c-2-2-1,Szczelina na Grzędzie
+M-34-100-B-c-2-2-2,Szczelina nad Jaskinią Mylną
+M-34-100-B-c-2-2-4,Szczelina nad Ponorem
+M-34-100-B-c-2-2-2,Szczelina nad Jaskinią Zimną
+M-34-100-B-c-2-2-4,Szczelina pod Niżnią Zbójnicką Turnią
+M-34-100-B-c-2-2-4,Szczelina pod Smoczą Jamą
+M-34-100-B-c-2-2-2,Szczelina pod Tunelem Pawlikowskiego
+M-34-100-B-c-2-2-1,Szczelina przed Bańdziochem
+M-34-100-B-c-2-2-4,Szczelina przy Arkadzie
+M-34-100-B-c-2-2-1,Szczelina przy Bańdziochu
+M-34-100-B-c-2-2-3,Szczelina przy Gładkim Żlebie
+M-34-100-B-c-2-2-4,Szczelina przy Mostku
+M-34-100-B-c-2-2-1,Szczelina przy Zawieszonej Skale Pierwsza
+M-34-100-B-c-2-2-1,Szczelina przy Zawieszonej Skale Druga
+M-34-100-B-c-2-2-1,Szczelina w Głębowcu
+M-34-100-B-c-2-2-1,Szczelina w Grani Pierwsza
+M-34-100-B-c-2-2-3,Szczelina w Panienkach Smytniańskich
+M-34-100-B-c-2-2-4,Szczelina w Ratuszu
+M-34-100-B-c-2-2-4,Szczelina w Ścianie
+M-34-100-B-c-2-2-3,Szczelina w Uwozisku
+M-34-100-B-c-2-2-1,Szczelina w Żlebie z Bramką Pierwsza
+M-34-100-B-c-2-2-2,Szczelina w Żlebie z Bramką Druga
+M-34-100-B-c-2-2-2,Szczelina z Mostkiem
+M-34-100-B-c-2-2-1,Trzyotworowy Kominek przy Bańdziochu
+M-34-100-B-c-2-2-1,Tunel w Żlebie z Bramką
+M-34-100-B-c-2-2-1,Tunel Wiatru
+M-34-100-B-c-2-2-4,Ukryty Schron
+M-34-100-B-c-2-2-2,Wiciowy Schron
+M-34-100-B-c-2-2-2,Wielka Nyża
+M-34-100-B-c-2-2-1,Wiśniakowa Jama
+M-34-100-B-c-2-2-1,Wnęka na Grzędzie
+M-34-100-B-c-2-2-2,Wyzior
+M-34-100-B-c-2-2-4,Zamulona Dziura
+M-34-100-B-c-2-2-1,Zasłonięta Szczelina
+M-34-100-B-c-2-2-2,Zbójnicka Nyża
+M-34-100-B-c-2-2-4,Zbójnicka Szczelina
+M-34-100-B-c-2-2-4,Zbójnicki Korytarzyk
+M-34-100-B-c-2-2-2,Zimna Szczelina Pierwsza
+M-34-100-B-c-2-2-2,Zimna Szczelina Druga
+M-34-100-B-c-2-2-2,Zimna Szczelina Trzecia
+M-34-100-B-c-2-2-1,Żelaźniakowa Brama
+M-34-100-B-c-2-2-4,Żółta Dziura
+M-34-100-B-c-2-2-4,Żółty Schron
+M-34-100-B-c-2-2-2,Żwirowa Dziura Niżnia
+M-34-100-B-c-2-2-2,Żwirowa Dziura Wyżnia
+M-34-100-B-c-2-2-1,Jaskinia w Kociołku pod Bańdziochem
+M-34-100-B-c-2-2-2,Nyża przed Bramą
+M-34-100-B-c-2-2-1,Schron nad Lejową
+M-34-100-B-c-2-2-2,Czarny Mur
+M-34-100-B-c-2-2-4,Zbójnicka Igła
+M-34-100-B-c-2-2-4,Żarskie Siodło
+M-34-100-B-c-2-2-4,Dziura nad Głazem
+M-34-100-B-c-2-2-2,Polana Pisana
+M-34-100-B-c-2-2-4,Zamki
+M-34-100-B-c-2-2-1,Maturowa Czuba
+M-34-100-B-c-2-2-1,Maturowe Siodło
+M-34-100-B-c-2-2-2,Kolisty  Żleb
+M-34-100-B-c-2-2-2,Głucha Skała
+M-34-100-B-c-2-2-4,Raptawicki Mur
+M-34-100-B-c-2-2-3,Żeleźniakowy Wierch
+M-34-100-B-c-2-2-2,Ciemny Żleb
+M-34-100-B-c-2-2-2,Skrajny Maturkowy Żleb
+M-34-100-B-c-2-2-1,Zadni Maturkowy Żleb
+M-34-100-B-c-2-2-1,Dziadki
+M-34-100-B-c-2-2-1,Suchy Wierch
+M-34-100-B-c-2-2-1,Załupa
+M-34-100-B-c-2-2-1,Przełączka nad Załupą
+M-34-100-B-c-2-2-1,Szczerbina
+M-34-100-B-c-2-2-1,Raptawicki Wierch
+M-34-100-B-c-2-2-1,Żeleźniakowa Kazalnica
+M-34-100-B-c-2-2-1,Żeleźniakowe Spady
+M-34-100-B-c-2-2-1,Głębowiec
+M-34-100-B-c-2-2-1,Raptawickie Plecy
+M-34-100-B-c-2-2-3,Raptawicka Drabina
+M-34-100-B-c-2-2-4,Świecznik
+M-34-100-B-c-2-2-1,Żleb z Bramkami
+M-34-100-B-c-2-2-3,Panienki
+M-34-100-B-c-2-2-3,Dolina Czarna
+M-34-100-B-c-2-2-4,Kościół Mariacki
+M-34-100-B-c-2-2-4,Rynek
+M-34-100-B-c-2-2-2,Kolisty Mur
+M-34-100-B-c-2-2-2,Kolisty Zwornik
+M-34-100-B-c-2-2-2,Ogrody
+M-34-100-B-c-2-2-2,Przełączka za Sową
+M-34-100-B-c-2-2-1,Dziurawa Turnia
+M-34-100-B-c-2-2-1,Orla Turnia
+M-34-100-B-c-2-2-2,Rękawica
+M-34-100-B-c-2-2-2,Zapoły
+M-34-100-B-c-2-2-2,Kolisty Żleb
+M-34-100-B-c-2-2-4,Wąwóz Kraków
+M-34-100-B-c-2-2-2,Dziurawa Ściana
+M-34-100-B-c-2-2-2,Kolisty Przechód
+M-34-100-B-c-2-2-2,Biała Turnia
+M-34-100-B-c-2-2-2,Kciuk
+M-34-100-B-c-2-2-2,Przechód za Rękawicą
+M-34-100-B-c-2-2-2,Żółta Baszta
+M-34-100-B-c-2-2-2,Mylne Siodełko
+M-34-100-B-c-2-2-2,Czarny Przechód
+M-34-100-B-c-2-2-2,Czarna Turniczka
+M-34-100-B-c-2-2-4,Przełęcz za Ratuszem
+M-34-100-B-c-2-2-4,Wyżni Zbójnicki Przechód
+M-34-100-B-c-2-2-4,Niżni Zbójnicki Przechód
+M-34-100-B-c-2-2-4,Kocioł pod Saturnem
+M-34-100-B-c-2-2-4,Okap nad Świętymi
+M-34-100-B-c-2-2-4,Plac pod Ratuszem
+M-34-100-B-c-2-2-4,Siodełko za Basztą
+M-34-100-B-c-2-2-2,Maturkowa Turnia
+M-34-100-B-c-2-2-1,Zawieszona Skała
+M-34-100-B-c-3-2-1,Czerwony Potok
+M-34-100-B-c-3-2-2,Jarząbcza Przełęcz
+M-34-100-B-c-3-2-1,Jarząbcza Rówień
+M-34-100-B-c-3-2-1,Jarząbczy Wierch
+M-34-100-B-c-3-2-2,Kończysty Wierch
+M-34-100-B-c-3-2-2,Kopa Prawdy
+M-34-100-B-c-3-2-2,Koryciska
+M-34-100-B-c-3-2-2,Koryciska
+M-34-100-B-c-3-2-1,Niska Przełęcz
+M-34-100-B-c-3-2-1,Niskie Turnie
+M-34-100-B-c-3-2-2,Starorobociańska Przełęcz
+M-34-100-B-c-3-2-1,Trojaki
+M-34-100-B-c-3-2-1,Trojaki
+M-34-100-B-d-1-2-1,Awen w Ratuszu
+M-34-100-B-d-1-2-1,Awen z Korkiem Śnieżnym
+M-34-100-B-d-1-2-1,Jaskinia Barania
+M-34-100-B-d-1-2-2,Bliźniacza Studnia
+M-34-100-B-d-1-2-1,Bliźniaczy Komin
+M-34-100-B-d-1-2-1,Jaskinia Błotna
+M-34-100-B-d-1-2-2,Chuda Mnichowa Studnia
+M-34-100-B-d-1-2-4,Czerwone Wierchy
+M-34-100-B-d-1-2-3,Czerwone Wierchy
+M-34-100-B-d-1-2-1,Czerwony Grzbiet
+M-34-100-B-d-1-2-3,Czerwony Upłaz
+M-34-100-B-d-1-2-2,Dziura Małołącka Mała
+M-34-100-B-d-1-2-1,Dziura nad Korytem
+M-34-100-B-d-1-2-1,Dziura w Litworowej
+M-34-100-B-d-1-2-1,Dziura w Wantach
+M-34-100-B-d-1-2-2,Głazisty Żleb
+M-34-100-B-d-1-2-1,Gronik
+M-34-100-B-d-1-2-2,Jędrusiowa Dziura
+M-34-100-B-d-1-2-1,Kamienne
+M-34-100-B-d-1-2-1,Kamienne
+M-34-100-B-d-1-2-4,Karby
+M-34-100-B-d-1-2-1,Kobylarzowa Turnia
+M-34-100-B-d-1-2-1,Kobylarzowy Żleb
+M-34-100-B-d-1-2-1,Komora Gwiaździsta
+M-34-100-B-d-1-2-4,Kopa Kondracka
+M-34-100-B-d-1-2-2,Przełęcz Kondracka
+M-34-100-B-d-1-2-4,Koprowa Studnia
+M-34-100-B-d-1-2-2,Dolina Koprowa
+M-34-100-B-d-1-2-1,Korytarz nad Piargiem
+M-34-100-B-d-1-2-3,Kotliny
+M-34-100-B-d-1-2-3,Kozi Grzbiet
+M-34-100-B-d-1-2-2,Królicza Jama
+M-34-100-B-d-1-2-3,Krzesanica
+M-34-100-B-d-1-2-2,Kurski Żleb
+M-34-100-B-d-1-2-3,Dolina Litworowa
+M-34-100-B-d-1-2-3,Przełęcz Litworowa
+M-34-100-B-d-1-2-3,Litworowa Studnia
+M-34-100-B-d-1-2-1,Litworowy Grzbiet
+M-34-100-B-d-1-2-3,Litworowy Upłaz
+M-34-100-B-d-1-2-1,Jaskinia Lodowa Litworowa
+M-34-100-B-d-1-2-2,Jaskinia Lodowa Małołącka
+M-34-100-B-d-1-2-1,Łamany Żleb
+M-34-100-B-d-1-2-3,Machajówka
+M-34-100-B-d-1-2-1,Maćkowa Dziura
+M-34-100-B-d-1-2-2,Mała Łąka
+M-34-100-B-d-1-2-1,Mała Turnia
+M-34-100-B-d-1-2-2,Małe Szerokie
+M-34-100-B-d-1-2-4,Małołącka Przełęcz
+M-34-100-B-d-1-2-4,Jaskinia Małołącka
+M-34-100-B-d-1-2-3,Małołączniak
+M-34-100-B-d-1-2-2,Mnich Małołącki
+M-34-100-B-d-1-2-2,Mnichowa Studnia
+M-34-100-B-d-1-2-2,Mnichowe Turnie
+M-34-100-B-d-1-2-3,Mułowa Przełęcz
+M-34-100-B-d-1-2-3,Dolina Mułowa
+M-34-100-B-d-1-2-1,Jaskinia nad Korytem
+M-34-100-B-d-1-2-1,Niedźwiedź Miętusi
+M-34-100-B-d-1-2-2,Niżni Mnichowy Upłaz
+M-34-100-B-d-1-2-2,Niżnia Świstówka
+M-34-100-B-d-1-2-2,Ogród
+M-34-100-B-d-1-2-4,Jaskinia Omszała
+M-34-100-B-d-1-2-1,Piargi pod Matką Boską
+M-34-100-B-d-1-2-2,Piekło
+M-34-100-B-d-1-2-1,Jaskinia pod Dachem
+M-34-100-B-d-1-2-1,Jaskinia pod Iglicą
+M-34-100-B-d-1-2-1,Jaskinia pod Progiem
+M-34-100-B-d-1-2-1,Jaskinia pod Wantą
+M-34-100-B-d-1-2-2,Pomarańczarnia
+M-34-100-B-d-1-2-1,Pośrednia Turnia
+M-34-100-B-d-1-2-2,Przechód
+M-34-100-B-d-1-2-1,Jaskinia przy Progu Mułowym
+M-34-100-B-d-1-2-2,Jaskinia przy Przechodzie
+M-34-100-B-d-1-2-1,Ptasia Studnia
+M-34-100-B-d-1-2-1,Ratusz Litworowy
+M-34-100-B-d-1-2-3,Ratusz Mułowy
+M-34-100-B-d-1-2-1,Ratuszowe Źródło
+M-34-100-B-d-1-2-2,Siodło
+M-34-100-B-d-1-2-2,Siodłowa Turnia
+M-34-100-B-d-1-2-1,Siwarowa Dziura
+M-34-100-B-d-1-2-1,Siwarowa Przełęcz
+M-34-100-B-d-1-2-1,Jaskinia Strzelista
+M-34-100-B-d-1-2-2,Świstowa Studnia
+M-34-100-B-d-1-2-1,Tunel pod Siwarową Dziurą
+M-34-100-B-d-1-2-2,Jaskinia pod Śnieżną Studnią
+M-34-100-B-d-1-2-3,Jaskinia Wielka Litworowa
+M-34-100-B-d-1-2-2,Jaskinia Wielka Śnieżna
+M-34-100-B-d-1-2-2,Jaskinia Wielka Śnieżna
+M-34-100-B-d-1-2-1,Wielka Turnia
+M-34-100-B-d-1-2-4,Wielkie Szerokie
+M-34-100-B-d-1-2-2,Wyżni Mnichowy Upłaz
+M-34-100-B-d-1-2-2,Wyżnia Kondracka Przełęcz
+M-34-100-B-d-1-2-3,Jaskinia Wyżnia Litworowa
+M-34-100-B-d-1-2-2,Mnichowa Studnia Wyżnia
+M-34-100-B-d-1-2-4,Wyżnia Świstówka
+M-34-100-B-d-1-2-2,Jaskinia z Dolomitami
+M-34-100-B-d-1-2-2,Jaskinia za Mnichem
+M-34-100-B-d-1-2-1,Zagon
+M-34-100-B-d-1-2-1,Zagonna Przełęcz
+M-34-100-B-d-1-2-1,Zagonna Turnia
+M-34-100-B-d-1-2-4,Zaspałkowa Szczelina
+M-34-100-B-d-1-2-2,Zdziarchy
+M-34-100-B-d-1-2-1,Jaskinia nad Zagonem
+M-34-100-B-d-1-2-2,Żleb między Mnichy
+M-34-100-B-d-1-2-1,Czerwona Studzienka
+M-34-100-B-d-1-2-2,Dolny Lej
+M-34-100-B-d-1-2-2,Duży Schron
+M-34-100-B-d-1-2-2,Dziura Mnichowa Mała
+M-34-100-B-d-1-2-1,Dziura nad Szlakiem
+M-34-100-B-d-1-2-2,Dziura pod Jaskinią Lodową Małołącką Pierwsza
+M-34-100-B-d-1-2-2,Dziura pod Jaskinią Lodową Małołącką Druga
+M-34-100-B-d-1-2-1,Dziura pod Ratuszem
+M-34-100-B-d-1-2-1,Dziura pod Siodełkiem
+M-34-100-B-d-1-2-2,Dziura pod Świstową Studnią
+M-34-100-B-d-1-2-1,Dziura pod Źródłem Ratusz
+M-34-100-B-d-1-2-2,Dziura przy Lodowej Małołąckiej Pierwsza
+M-34-100-B-d-1-2-2,Dziura przy Lodowej Małołąckiej Druga
+M-34-100-B-d-1-2-2,Dziura przy Lodowej Małołąckiej Trzecia
+M-34-100-B-d-1-2-1,Dziura w Czerwonym Grzbiecie
+M-34-100-B-d-1-2-3,Dziura w Grzędzie Pierwsza
+M-34-100-B-d-1-2-3,Dziura w Grzędzie Druga
+M-34-100-B-d-1-2-3,Dziura w Krzesanicy Pierwsza
+M-34-100-B-d-1-2-3,Dziura w Krzesanicy Druga
+M-34-100-B-d-1-2-1,Dziura w Progu Litworowym
+M-34-100-B-d-1-2-2,Dziurka nad Piargiem
+M-34-100-B-d-1-2-1,Dziurka w Trawce
+M-34-100-B-d-1-2-2,Górny Lej
+M-34-100-B-d-1-2-1,Jaskinia Ciasna w Groniu
+M-34-100-B-d-1-2-2,Jaskinia Kondracka
+M-34-100-B-d-1-2-3,Jaskinia Kozia
+M-34-100-B-d-1-2-1,Jaskinia Mała Zaruskiego
+M-34-100-B-d-1-2-1,Jaskinia nad Dachem
+M-34-100-B-d-1-2-2,Jaskinia nad Kotlinami
+M-34-100-B-d-1-2-1,Jaskinia nad Lodową Litworową
+M-34-100-B-d-1-2-1,Jaskinia nad Piargiem
+M-34-100-B-d-1-2-1,Jaskinia nad Wyżniem
+M-34-100-B-d-1-2-1,Niebieska Studnia
+M-34-100-B-d-1-2-1,Jaskinia pod Strzelistą
+M-34-100-B-d-1-2-2,Jaskinia przy Jędrusiowej Dziurze
+M-34-100-B-d-1-2-3,Jaskinia przy Ryglu
+M-34-100-B-d-1-2-2,Jaskinia Śnieżna
+M-34-100-B-d-1-2-2,Śnieżna Studnia
+M-34-100-B-d-1-2-1,Jaskinia Trójotworowa
+M-34-100-B-d-1-2-1,Tunel Małołącki
+M-34-100-B-d-1-2-1,Jaskinia Turoniowa
+M-34-100-B-d-1-2-1,Jaskinia w Trawniczku
+M-34-100-B-d-1-2-1,Jaskinia za Płytą
+M-34-100-B-d-1-2-1,Jaskinia za Ratuszem Owalna
+M-34-100-B-d-1-2-1,Jaskinia za Ratuszem Szeroka
+M-34-100-B-d-1-2-1,Jaskinia za Ratuszem Śnieżna
+M-34-100-B-d-1-2-1,Zośka
+M-34-100-B-d-1-2-2,Jasny Awen
+M-34-100-B-d-1-2-1,Kobylarzowa Szczelina
+M-34-100-B-d-1-2-1,Komin w Ratuszu
+M-34-100-B-d-1-2-1,Kominek obok Jaskini Ciasnej w Groniu
+M-34-100-B-d-1-2-1,Łamana Dziura
+M-34-100-B-d-1-2-2,Mała Mnichowa Studzienka
+M-34-100-B-d-1-2-2,Mokry Schron
+M-34-100-B-d-1-2-1,Nisza przy Zagonie
+M-34-100-B-d-1-2-1,Nisza w Kobylarzowej Turni
+M-34-100-B-d-1-2-2,Nyża nad Siodłem
+M-34-100-B-d-1-2-1,Nyża pod Ratuszem
+M-34-100-B-d-1-2-1,Nyża pod Schronem w Dolinie Litworowej
+M-34-100-B-d-1-2-2,Nyża pod Wielką Turnią
+M-34-100-B-d-1-2-1,Nyża przy Schodkach
+M-34-100-B-d-1-2-2,Nyża w Baranich Schodkach Pierwsza
+M-34-100-B-d-1-2-2,Nyża w Baranich Schodkach Druga
+M-34-100-B-d-1-2-2,Nyża w Siodłowej Turni
+M-34-100-B-d-1-2-1,Nyża z Kozicami
+M-34-100-B-d-1-2-1,Schron Partyzantów
+M-34-100-B-d-1-2-1,Schron Partyzantów Drugi
+M-34-100-B-d-1-2-2,Schron pod Jędrusiową Dziurą
+M-34-100-B-d-1-2-1,Schron w Dolinie Litworowej
+M-34-100-B-d-1-2-2,Schronisko w Wielkiej Turni
+M-34-100-B-d-1-2-1,Szara Studnia
+M-34-100-B-d-1-2-2,Studnia przy Przechodzie
+M-34-100-B-d-1-2-3,Studnia w Progu Mułowym
+M-34-100-B-d-1-2-4,Studnia z Kosówką
+M-34-100-B-d-1-2-1,Studzienka za Ratuszem
+M-34-100-B-d-1-2-2,Szczelina Mnichowa
+M-34-100-B-d-1-2-1,Szczelina na Drodze Steckiego
+M-34-100-B-d-1-2-1,Szczelina nad Dziurą w Wantach Pierwsza
+M-34-100-B-d-1-2-1,Szczelina nad Dziurą w Wantach Druga
+M-34-100-B-d-1-2-3,Szczelina nad Ptasią Studnią
+M-34-100-B-d-1-2-1,Szczelina nad Jaskinią Strzelistą
+M-34-100-B-d-1-2-3,Szczelina nad Jaskinią Wielką Litworową
+M-34-100-B-d-1-2-1,Szczelina nad Wyżniem
+M-34-100-B-d-1-2-1,Szczelina nad Zagonem
+M-34-100-B-d-1-2-1,Szczelina pod Zagonną Turnią
+M-34-100-B-d-1-2-1,Szczelina przy Nyży z Kozicami
+M-34-100-B-d-1-2-1,Szczelina w Iglicy
+M-34-100-B-d-1-2-3,Szczelina w Krzesanicy Pierwsza
+M-34-100-B-d-1-2-3,Szczelina w Krzesanicy Druga
+M-34-100-B-d-1-2-3,Szczelina w Krzesanicy Trzecia
+M-34-100-B-d-1-2-1,Szczelina w Litworowej
+M-34-100-B-d-1-2-2,Szczelina w Mnichowych Turniach Pierwsza
+M-34-100-B-d-1-2-2,Szczelina w Mnichowych Turniach Druga
+M-34-100-B-d-1-2-1,Szczelina w Niedźwiedziu
+M-34-100-B-d-1-2-1,Szczelina w Pośredniej Turni
+M-34-100-B-d-1-2-1,Szczelina w Ratuszu Miętusim
+M-34-100-B-d-1-2-2,Szczelina za Płytą
+M-34-100-B-d-1-2-1,Szpara w Zagonnej Turni
+M-34-100-B-d-1-2-1,Szuflada Dolna
+M-34-100-B-d-1-2-1,Szuflada Górna
+M-34-100-B-d-1-2-2,Średni Lej
+M-34-100-B-d-1-2-2,Ukryta Dziura
+M-34-100-B-d-1-2-1,Wciągająca Szczelina
+M-34-100-B-d-1-2-2,Wilczy Schron
+M-34-100-B-d-1-2-1,Zagonna Studnia
+M-34-100-B-d-1-2-2,Zaspałkowa Szpara
+M-34-100-B-d-1-2-1,Zawalony Schron
+M-34-100-B-d-1-2-1,Studnia na Szlaku
+M-34-100-B-d-1-2-1,Jaskinia w Kobylarzowym Żlebie
+M-34-100-B-d-1-2-2,Jaskinia w Piekle
+M-34-100-B-d-1-2-2,Jaskinia w Żarze
+M-34-100-B-d-1-2-2,Jaskinia Wilcza
+M-34-100-B-d-1-2-4,Komórka przy Średnim Leju
+M-34-100-B-d-1-2-1,Kobylarzowa Kazalnica
+M-34-100-B-d-1-2-1,Skoruszowe Siodło
+M-34-100-B-d-1-2-3,Machajówka
+M-34-100-B-d-1-2-1,Litworowy Przechód
+M-34-100-B-d-1-2-2,Giewoncka Przełęcz
+M-34-100-B-d-1-2-2,Babka
+M-34-100-B-d-1-2-1,Zagonne Wrótka
+M-34-100-B-d-1-2-1,Nyża z Kozicami
+M-34-100-B-d-1-2-1,Siwarowe Siodełko
+M-34-100-B-d-1-2-1,Trawnik nad Kamiennem
+M-34-100-B-d-1-2-1,Uwozisko
+M-34-100-B-d-1-2-1,Kamienny Żleb
+M-34-100-B-d-1-2-1,Zagonny Ząb
+M-34-100-B-d-1-2-1,Szary Żleb
+M-34-100-B-d-1-2-1,Kobylarzowa Igła
+M-34-100-B-d-1-2-1,Kobylarzowy Mur
+M-34-100-B-d-1-2-1,Kobylarzowy Zachód
+M-34-100-B-d-1-2-1,Grzbiet nad Schodki
+M-34-100-B-d-1-2-1,Żleb Pronobisa
+M-34-100-B-d-1-2-1,Skrajna Turnia Małołącka
+M-34-100-B-d-1-2-1,Skryty Żleb
+M-34-100-B-d-1-2-1,Małołącki Ogród
+M-34-100-B-d-1-2-1,Depresja Zaruskiego
+M-34-100-B-d-1-2-1,Pośrednie Małołąckie Siodło
+M-34-100-B-d-1-2-1,Kobylarzowa Kopka
+M-34-100-B-d-1-2-1,Kobylarzowe Siodełko
+M-34-100-B-d-1-2-2,Pod Zagon
+M-34-100-B-d-1-2-1,Baranie Schody
+M-34-100-B-d-1-2-1,Depresja Strzebońskiego
+M-34-100-B-d-1-2-2,Rampa Jagiełły
+M-34-100-B-d-1-2-1,Depresja Mazika
+M-34-100-B-d-1-2-1,Lewa Krawędź
+M-34-100-B-d-1-2-1,Filar Wolfa
+M-34-100-B-d-1-2-2,Kocioł Piszczyka
+M-34-100-B-d-1-2-1,Depresja Serwy
+M-34-100-B-d-1-2-2,Gzyms Olczyka
+M-34-100-B-d-1-2-1,Schodkowy Filar
+M-34-100-B-d-1-2-2,Filar nad Krzyżem
+M-34-100-B-d-1-2-2,Depresja Mroza
+M-34-100-B-d-1-2-2,Depresja Malczyka
+M-34-100-B-d-1-2-2,Wąski Filarek
+M-34-100-B-d-1-2-2,Rysa Malczyka
+M-34-100-B-d-1-2-2,Rysa Konopki
+M-34-100-B-d-1-2-2,Monolit
+M-34-100-B-d-1-2-1,Wielka Płyta
+M-34-100-B-d-1-2-1,Wąski Filarek
+M-34-100-B-d-1-2-2,Balkon Muskata
+M-34-100-B-d-1-2-2,Rysa Konopki
+M-34-100-B-d-1-2-2,Zatoki
+M-34-100-B-d-1-2-2,Głazy
+M-34-100-B-d-1-2-2,Pomarańczowa Rysa
+M-34-100-B-d-1-2-2,Mniszki Małołąckie
+M-34-100-B-d-1-2-2,Siodło za Babką
+M-34-100-B-d-1-2-2,Mnichowa Grań
+M-34-100-B-d-1-2-2,Żleb Poszukiwaczy Jaskiń
+M-34-100-B-d-1-2-2,Mnichowe Siodło
+M-34-100-B-d-1-2-2,Skrajny Mnichowy Żleb
+M-34-100-B-d-1-2-2,Mnichowa Kazalnica
+M-34-100-B-d-1-2-2,Kondratowe Spaszty
+M-34-100-B-d-1-2-2,Czarna Skała
+M-34-100-B-d-1-2-2,Szczyty
+M-34-100-B-d-1-2-2,Siodłowy Żleb
+M-34-100-B-d-1-2-2,Ponad Dziurę
+M-34-100-B-d-1-2-2,Brzeżki
+M-34-100-B-d-1-2-2,Mnichowa Galeria
+M-34-100-B-d-1-2-2,Zachód Bilskiego
+M-34-100-B-d-1-2-2,Filar Babki
+M-34-100-B-d-1-2-3,Litworowy Kocioł
+M-34-100-B-d-1-2-3,U Stawku
+M-34-100-B-d-1-2-3,Mułowy Grzbiet
+M-34-100-B-d-1-2-1,Ratuszowy Przechód
+M-34-100-B-d-1-2-1,Litworowy Próg
+M-34-100-B-d-1-2-1,Komin Flacha
+M-34-100-B-d-1-2-1,Beczka
+M-34-100-B-d-1-2-2,Dziadek
+M-34-100-B-d-1-2-2,Koprowe Mniszki
+M-34-100-B-d-1-2-4,Mały Upłaz
+M-34-100-B-d-1-2-3,Machajowa Czuba
+M-34-100-B-d-1-2-1,Małołąckie Siodło
+M-34-100-B-d-1-2-2,Komin Mroza
+M-34-100-B-d-1-2-2,Kopa nad Śnieżną
+M-34-100-B-d-1-2-1,Urwisty Filar
+M-34-100-B-d-1-2-1,Kopka
+M-34-100-B-d-1-2-3,Litworowy Zachód
+M-34-100-B-d-1-2-1,Dach
+M-34-100-B-d-1-2-1,Litworowa Rówień
+M-34-100-B-d-1-2-1,Litworowa Rówień
+M-34-100-B-d-1-2-1,Lesista Kazalnica
+M-34-101-A-a-2-3-1,Dudowski Potok
+M-34-101-A-a-2-3-2,Dudowski Potok
+M-34-101-A-a-2-3-2,Dudowski Potok
+M-34-101-A-a-2-3-1,Filipka
+M-34-101-A-a-2-3-4,Filipka
+M-34-101-A-a-2-3-1,Filipka
+M-34-101-A-a-2-3-3,Filipka
+M-34-101-A-a-2-3-1,Groń
+M-34-101-A-a-2-3-3,Groń
+M-34-101-A-a-2-3-4,Łężny Potok
+M-34-101-A-a-2-3-2,Maniowskie
+M-34-101-A-a-2-3-3,Przyporniak
+M-34-101-A-a-2-3-4,Sołtysówka
+M-34-101-A-a-2-3-4,Sołtysówka
+M-34-101-A-a-2-3-1,Sucha Woda
+M-34-101-A-a-2-3-1,Sucha Woda
+M-34-101-A-a-2-3-3,Sucha Woda
+M-34-101-A-a-2-3-3,Wojciechowski Potok
+M-34-101-A-a-2-3-2,Wojciechowski Potok
+M-34-101-A-a-2-3-4,Wojciechowski Potok
+M-34-101-A-a-2-3-2,Zadni Wierch
+M-34-101-A-a-2-3-2,Zgorzelisko
+M-34-101-A-a-2-3-2,Zgorzelisko
+M-34-101-A-a-2-3-1,Żegleński Potok
+M-34-101-A-a-2-3-1,Żegleński Potok
+M-34-101-A-a-2-3-1,Cicha Woda
+M-34-101-A-a-2-3-3,Błociska
+M-34-101-A-a-2-3-3,Dunajecki Las
+M-34-101-A-a-2-3-1,Stodoły
+M-34-101-A-a-2-3-4,Zadnia Polana
+M-34-101-A-a-4-2-3,Brzanówka
+M-34-101-A-a-4-2-2,Hurkotna Polana
+M-34-101-A-a-4-2-2,Hurkotne
+M-34-101-A-a-4-2-2,Klimkówka
+M-34-101-A-a-4-2-4,Łęgi
+M-34-101-A-a-4-2-3,Międzydrogi
+M-34-101-A-a-4-2-2,Poroniec
+M-34-101-A-a-4-2-1,Wierch Poroniec
+M-34-101-A-a-4-2-3,Wapienny Piec
+M-34-101-A-a-4-2-4,Droga Oswalda Balzera
+M-34-101-A-a-4-2-3,Siedlarska Droga
+M-34-101-A-a-4-2-2,Siedlarska Droga
+M-34-101-A-a-4-2-3,Jaworzyńska Droga
+M-34-101-A-a-4-2-1,Jaworzyńska Droga
+M-34-101-A-a-4-2-2,Mały Wierch Poroniec
+M-34-101-A-c-2-4-1,Białka
+M-34-101-A-c-2-4-1,Dolina Białki
+M-34-101-A-c-2-4-1,Ku Wancie
+M-34-101-A-c-2-4-1,Rybi Potok
+M-34-101-A-c-2-4-1,Rybi Potok
+M-34-101-A-c-2-4-1,Wanta
+M-34-101-A-c-2-4-1,Droga Oswalda Balzera
+M-34-101-A-c-4-1-4,Apostoły
+M-34-101-A-c-4-1-4,Białczańska Przełęcz
+M-34-101-A-c-4-1-4,Białczańska Przełęcz Wyżnia
+M-34-101-A-c-4-1-4,Białczańska Kopka
+M-34-101-A-c-4-1-1,Biały Piarżek
+M-34-101-A-c-4-1-1,Biały Żlebek
+M-34-101-A-c-4-1-3,Czarnostawiańska Siklawa
+M-34-101-A-c-4-1-3,Czarny Staw pod Rysami
+M-34-101-A-c-4-1-3,Dwoista Siklawa
+M-34-101-A-c-4-1-2,Dwoisty Żleb
+M-34-101-A-c-4-1-3,Koleba pod Chłopkiem
+M-34-101-A-c-4-1-3,Kosowinowy Piarg
+M-34-101-A-c-4-1-1,Małe Morskie Oko
+M-34-101-A-c-4-1-1,Małe Żabie Oko
+M-34-101-A-c-4-1-3,Mały Mięguszowiecki Kocioł
+M-34-101-A-c-4-1-3,Mały Piarżek
+M-34-101-A-c-4-1-1,Marchwiczny Żleb
+M-34-101-A-c-4-1-4,Marusarzowa Przełączka
+M-34-101-A-c-4-1-4,Marusarzowa Turnia
+M-34-101-A-c-4-1-4,Marusarzowy Żleb
+M-34-101-A-c-4-1-3,Mnichowy Potok
+M-34-101-A-c-4-1-4,Mokra Wanta
+M-34-101-A-c-4-1-3,Morskie Oko
+M-34-101-A-c-4-1-1,Hala Morskiego Oka
+M-34-101-A-c-4-1-3,Nad Spady
+M-34-101-A-c-4-1-4,Owcza Przełęcz
+M-34-101-A-c-4-1-4,Owcze Turniczki
+M-34-101-A-c-4-1-3,Owczy Żleb
+M-34-101-A-c-4-1-2,Pięterka
+M-34-101-A-c-4-1-3,Płaśń nad Spadami
+M-34-101-A-c-4-1-4,Przełączka pod Żabią Czubą
+M-34-101-A-c-4-1-4,Przełączka pod Żabią Lalką
+M-34-101-A-c-4-1-1,Rybi Potok
+M-34-101-A-c-4-1-1,Rybi Potok
+M-34-101-A-c-4-1-1,Rybie Stawki
+M-34-101-A-c-4-1-2,Siedem Granatów
+M-34-101-A-c-4-1-2,Siedem Granatów
+M-34-101-A-c-4-1-4,Siodło Południowe
+M-34-101-A-c-4-1-4,Siodło Północne
+M-34-101-A-c-4-1-3,Skalnisty Piarg
+M-34-101-A-c-4-1-1,Stadliska
+M-34-101-A-c-4-1-3,Szeroki Piarg
+M-34-101-A-c-4-1-1,Szeroki Żleb
+M-34-101-A-c-4-1-2,Ścieciska Niżnie
+M-34-101-A-c-4-1-1,Ścieciska Wyżnie
+M-34-101-A-c-4-1-1,Urwany Żleb
+M-34-101-A-c-4-1-3,Wielki Piarg
+M-34-101-A-c-4-1-4,Wyżnia Spadowa Przełączka
+M-34-101-A-c-4-1-1,Wyżnie Dziady
+M-34-101-A-c-4-1-3,Zielony Piarg
+M-34-101-A-c-4-1-4,Żabi Mnich
+M-34-101-A-c-4-1-4,Żabi Szczyt Niżni
+M-34-101-A-c-4-1-4,Żabi Szczyt Wyżni
+M-34-101-A-c-4-1-2,Żabi Żleb
+M-34-101-A-c-4-1-2,Żabia Czuba
+M-34-101-A-c-4-1-2,Żabia Grań
+M-34-101-A-c-4-1-2,Żabia Grań
+M-34-101-A-c-4-1-4,Żabia Lalka
+M-34-101-A-c-4-1-4,Żabie
+M-34-101-A-c-4-1-2,Żabie
+M-34-101-A-c-4-1-1,Żabie Oko
+M-34-101-A-c-4-1-4,Żabie Wrótka
+M-34-101-A-c-4-1-2,Żabi Przechód Białczański
+M-34-101-A-c-4-1-1,Droga Oswalda Balzera
+M-34-101-A-c-4-1-4,Lalkowe Turnie
+M-34-101-A-c-4-1-4,Białczański Żleb
+M-34-101-A-c-4-1-4,Białczański Upłaz
+M-34-101-A-c-4-1-4,Lalkowy Żleb
+M-34-101-A-c-4-1-4,Skryty Białczański Żleb
+M-34-101-A-c-4-1-3,Bula pod Bańdziochem
+M-34-101-A-c-4-1-4,Niżni Żabi Mnich
+M-34-101-A-c-4-1-4,Białczańskie Baszty
+M-34-101-A-c-4-1-3,Kazalnica Cubryńska
+M-34-101-A-c-4-1-3,Mały Bańdzioch
+M-34-101-A-c-4-1-4,Wrótka nad Oknem
+M-34-101-A-c-4-1-4,Apostoł Szósty
+M-34-101-A-c-4-1-4,Wyżni Apostolski Karb
+M-34-101-A-c-4-1-4,Apostoł Piąty
+M-34-101-A-c-4-1-4,Wrótka nad Tunelem
+M-34-101-A-c-4-1-4,Niżni Apostolski Karb
+M-34-101-A-c-4-1-4,Apostoł Trzeci
+M-34-101-A-c-4-1-4,Apostołowe Korycisko
+M-34-101-A-c-4-1-4,Apostoł Czwarty
+M-34-101-A-c-4-1-4,Wyżni Apostolski Przechód
+M-34-101-A-c-4-1-4,Apostoł Drugi
+M-34-101-A-c-4-1-4,Niżni Apostolski Przechód
+M-34-101-A-c-4-1-4,Owczy Upłaz
+M-34-101-A-c-4-1-4,Apostoł Pierwszy
+M-34-101-A-c-4-1-4,Apostoł Siódmy
+M-34-101-A-c-4-1-4,Rynna Kunickiego
+M-34-101-A-c-4-1-4,Lalkowy Mur
+M-34-101-A-c-4-1-3,Próg Czarnego Stawu
+M-34-101-A-c-4-1-3,Biały Żlebek
+M-34-101-A-c-4-1-3,Wyżnia Maszynka
+M-34-101-A-c-4-1-3,Czerwony Żlebek
+M-34-101-A-c-4-1-3,Bańdziochowa Strażnica
+M-34-101-A-c-4-1-3,Bańdziochowa Szpara
+M-34-101-A-c-4-1-3,Filar Mięguszowiecki
+M-34-101-A-c-4-1-3,Płyta Paszczaka
+M-34-101-A-c-4-1-3,Depresja Paszczaka
+M-34-101-A-c-4-1-3,Hińczowy Śnieżnik
+M-34-101-A-c-4-1-3,Bańdziochowy Grzebyk
+M-34-101-A-c-4-1-3,Bańdziochowe Siodełko
+M-34-101-A-c-4-1-3,Wyżnia Turnia nad Maszynką
+M-34-101-A-c-4-1-3,Czerwone Siodełko
+M-34-101-A-c-4-1-3,Przełączka nad Maszynką
+M-34-101-A-c-4-1-3,Żleb Ratowników
+M-34-101-A-c-4-1-3,Siodełko nad Czołówką
+M-34-101-A-c-4-1-3,Pośrednia Turnia nad Maszynką
+M-34-101-A-c-4-1-3,Zachód Wallischa
+M-34-101-A-c-4-1-3,Niżnia Turnia nad Maszynką
+M-34-101-A-c-4-1-3,Żleb Krygowskiego
+M-34-101-A-c-4-1-3,Biały Komin
+M-34-101-A-c-4-1-3,Wielka Nyża
+M-34-101-A-c-4-1-3,Dolna Nyża
+M-34-101-A-c-4-1-3,Wielki Komin
+M-34-101-A-c-4-1-3,Trójkątny Trawnik
+M-34-101-A-c-4-1-3,Zacięcie Dziadka
+M-34-101-A-c-4-1-3,Mały Komin
+M-34-101-A-c-4-1-3,Wielkie Płyty
+M-34-101-A-c-4-1-3,Długi Okap
+M-34-101-A-c-4-1-3,Dolne Tarasy
+M-34-101-A-c-4-1-3,Wiszący Balkonik
+M-34-101-A-c-4-1-3,Czarne Zacięcie
+M-34-101-A-c-4-1-3,Zacięcie Żurawskiego
+M-34-101-A-c-4-1-3,Górne Tarasy
+M-34-101-A-c-4-1-3,Szare Płyty
+M-34-101-A-c-4-1-3,Górne Półki
+M-34-101-A-c-4-1-3,Szare Zacięcie
+M-34-101-A-c-4-1-3,Trójkątny Okap
+M-34-101-A-c-4-1-3,Lustro nad Czołówką
+M-34-101-A-c-4-1-3,Rysa Zapychowa
+M-34-101-A-c-4-1-3,Górne Tarasy
+M-34-101-A-c-4-1-3,Wąski Zachód
+M-34-101-A-c-4-1-3,Tójkątny Okap
+M-34-101-A-c-4-1-3,Czołówka Mięguszowieckiego Szczytu Wielkiego
+M-34-101-A-c-4-1-3,Gruszka
+M-34-101-A-c-4-1-3,Hińczowa Zatoka
+M-34-101-A-c-4-1-3,Taras Vogla
+M-34-101-A-c-4-1-3,Półksiężyc
+M-34-101-A-c-4-1-3,Szypułka
+M-34-101-A-c-4-1-3,Wyżnia Turnica nad Uchem
+M-34-101-A-c-4-1-3,Prawy Komin
+M-34-101-A-c-4-1-3,Strome Płyty
+M-34-101-A-c-4-1-3,Schron
+M-34-101-A-c-4-1-3,Dolne Okapy
+M-34-101-A-c-4-1-1,Żleb Bilskiego
+M-34-101-A-c-4-1-1,Niedźwiedzie Płyty
+M-34-101-A-c-4-1-4,Wyżnie Żabie Wrótka
+M-34-101-A-c-4-1-4,Żabi Ząb Zadni
+M-34-101-A-c-4-1-4,Żabi Ząb Pośredni
+M-34-101-A-c-4-1-4,Żabie Zęby
+M-34-101-A-c-4-1-4,Skrajny Żabi Ząb
+M-34-101-A-c-4-1-4,Zadnie Białczańskie Wrótka
+M-34-101-A-c-4-1-4,Zadnia Białczańska Baszta
+M-34-101-A-c-4-1-4,Pośrednie Białczańskie Wrótka
+M-34-101-A-c-4-1-4,Skrajna Białczańska Baszta
+M-34-101-A-c-4-1-4,Skrajne Białczańskie Wrótka
+M-34-101-A-c-4-1-4,Pośrednia Białczańska Czubka
+M-34-101-A-c-4-1-4,Pośrednia Białczańska Przełęcz
+M-34-101-A-c-4-1-4,Płytowy Zachód
+M-34-101-A-c-4-1-4,Białowodzka Turniczka
+M-34-101-A-c-4-1-4,Żabia Szczerba
+M-34-101-A-c-4-1-4,Filar Orłowskiego
+M-34-101-A-c-4-1-4,Żabi Kapucyn
+M-34-101-A-c-4-1-4,Lalkowy Chodnik
+M-34-101-A-c-4-1-4,Wyżni Lalkowy Przechód
+M-34-101-A-c-4-1-4,Wyżnia Lalkowa Turniczka
+M-34-101-A-c-4-1-4,Pośrednia Lalkowa Turniczka
+M-34-101-A-c-4-1-4,Lody Środkowe
+M-34-101-A-c-4-1-4,Lody Prawe
+M-34-101-A-c-4-1-4,Lalkowy Zachód
+M-34-101-A-c-4-1-4,Lody Lewe
+M-34-101-A-c-4-1-4,Lalkowa Szczerbina
+M-34-101-A-c-4-1-4,Niżni Lalkowy Przechód
+M-34-101-A-c-4-1-4,Pośredni Białczański Żleb
+M-34-101-A-c-4-1-4,Niżnia Lalkowa Turniczka
+M-34-101-A-c-4-1-4,Pośredni Lalkowy Przechód
+M-34-101-A-c-4-1-4,Filar Stanisławskiego
+M-34-101-A-c-4-1-4,Filar Świerza
+M-34-101-A-c-4-1-4,Żabi Karbik
+M-34-101-A-c-4-1-4,Filar Sokołowskiego
+M-34-101-A-c-4-1-4,Apostolska Depresja
+M-34-101-A-c-4-1-4,Obelisk
+M-34-101-A-c-4-1-4,Filar Głazków
+M-34-101-A-c-4-1-4,Komin Orłowskiego
+M-34-101-A-c-4-1-4,Turniczka na Dagu
+M-34-101-A-c-4-1-4,Komin Kędziora
+M-34-101-A-c-4-1-4,Marusarzowy Przechód
+M-34-101-A-c-4-1-4,Diabla Depresja
+M-34-101-A-c-4-1-4,Wyżni Diabli Przechód
+M-34-101-A-c-4-1-4,Diabeł Szósty
+M-34-101-A-c-4-1-4,Diabeł Piąty
+M-34-101-A-c-4-1-4,Niżni Diabli Przechód
+M-34-101-A-c-4-1-4,Diabeł Czwarty
+M-34-101-A-c-4-1-4,Grań Diabłów
+M-34-101-A-c-4-1-4,Diabeł Trzeci
+M-34-101-A-c-4-1-4,Diabeł Drugi
+M-34-101-A-c-4-1-4,Diabli Kociołek
+M-34-101-A-c-4-1-4,Pośredni Apostolski Przechód
+M-34-101-A-c-4-1-4,Diabeł Pierwszy
+M-34-101-A-c-4-1-4,Apostolska Szczerbina
+M-34-101-A-c-4-1-3,Apostolski Żleb
+M-34-101-A-c-4-1-3,Kocioł Morskiego Oka
+M-34-101-A-c-4-1-4,Apostolski Kociołek
+M-34-101-A-c-4-1-2,Płetwa
+M-34-101-A-c-4-1-4,Żabie Kopki
+M-34-101-A-c-4-1-4,Koński Łeb
+M-34-101-A-c-4-1-3,Półwysep Miłości
+M-34-101-A-c-4-1-3,Zacięcie Starka
+M-34-100-B-d-2-4-2,Beskid
+M-34-100-B-d-2-4-2,Grzędy
+M-34-100-B-d-2-4-2,Liliowe
+M-34-100-B-d-2-4-2,Skrajna Turnia
+M-34-100-B-d-2-4-2,Skrajny Żleb
+M-34-100-B-d-2-4-2,Zielony Staw
+M-34-100-B-d-2-4-2,Wyżnie Liliowe
+M-34-100-B-d-2-4-2,Liliowa Kopka
+M-34-101-A-a-3-4-1,Butorowska Woda
+M-34-101-A-a-3-4-2,Butorowska Woda
+M-34-101-A-a-3-4-1,Butorowska Woda
+M-34-101-A-a-3-4-2,Butorów
+M-34-101-A-a-3-4-2,Czerwone Brzeżki
+M-34-101-A-a-3-4-4,Gładkie
+M-34-101-A-a-3-4-3,Łasicowa Czubka
+M-34-101-A-a-3-4-1,Łasicowa Woda
+M-34-101-A-a-3-4-3,Łasicowa Woda
+M-34-101-A-a-3-4-1,Łasicowa Woda
+M-34-101-A-a-3-4-3,Łasicowe Siodło
+M-34-101-A-a-3-4-2,Mała Pańszczycka Młaka
+M-34-101-A-a-3-4-1,Niżnia Sztolnia
+M-34-101-A-a-3-4-3,Nowy Bór
+M-34-101-A-a-3-4-2,Ostry Wierch
+M-34-101-A-a-3-4-3,Polana Pańszczyca Wyżnia
+M-34-101-A-a-3-4-2,Pańszczyca
+M-34-101-A-a-3-4-3,Pańszczyca
+M-34-101-A-a-3-4-4,Pańszczyca
+M-34-101-A-a-3-4-3,Pańszczycki Potok
+M-34-101-A-a-3-4-2,Pańszczycki Potok
+M-34-101-A-a-3-4-2,Pańszczycki Potok
+M-34-101-A-a-3-4-1,Pańszczycki Potok
+M-34-101-A-a-3-4-3,Pańszczycki Potok
+M-34-101-A-a-3-4-4,Pańszczycki Żleb
+M-34-101-A-a-3-4-4,Pańszczycki Żleb
+M-34-101-A-a-3-4-1,Pod Szatrę
+M-34-101-A-a-3-4-1,Psia Trawka
+M-34-101-A-a-3-4-3,Skoruśniak
+M-34-101-A-a-3-4-1,Strzelecka Koleba
+M-34-101-A-a-3-4-1,Sucha Woda
+M-34-101-A-a-3-4-1,Sucha Woda
+M-34-101-A-a-3-4-4,Waksmundzka Młaka
+M-34-101-A-a-3-4-4,Waksmundzka Polana
+M-34-101-A-a-3-4-1,Wielka Pańszczycka Młaka
+M-34-101-A-a-3-4-2,Wyżnia Filipczańska Przełęcz
+M-34-101-A-a-3-4-2,Wyżnia Pańszczycka Młaka
+M-34-101-A-a-3-4-1,Wyżnia Sztolnia
+M-34-101-A-a-3-4-2,Zadnia Sołtysia Przełęcz
+M-34-101-A-a-3-4-4,Waksmundzki Żleb
+M-34-100-B-a-4-2-2,Jantałowski Potok
+M-34-100-B-a-4-2-2,Jantałowski Potok
+M-34-100-B-a-4-2-3,Biały Potok
+M-34-100-B-a-4-2-4,Brama Kantaka
+M-34-100-B-a-4-2-2,Cikówka
+M-34-100-B-a-4-2-1,Kirowa Woda
+M-34-100-B-a-4-2-2,Kirowa Woda
+M-34-100-B-a-4-2-4,Kirowa Woda
+M-34-100-B-a-4-2-1,Kirowa Woda
+M-34-100-B-a-4-2-4,Kopki
+M-34-100-B-a-4-2-4,Dolina Kościeliska
+M-34-100-B-a-4-2-4,Kościeliskie Kopki
+M-34-100-B-a-4-2-4,Kościeliskie Kopki
+M-34-100-B-a-4-2-1,Lejowy Potok
+M-34-100-B-a-4-2-3,Lejowy Potok
+M-34-100-B-a-4-2-3,Lejowy Potok
+M-34-100-B-a-4-2-1,Lejowy Potok
+M-34-100-B-a-4-2-3,Między Ściany
+M-34-100-B-a-4-2-4,Niżnia Kira Miętusia
+M-34-100-B-a-4-2-4,Przednia Kopka
+M-34-100-B-a-4-2-2,Rogoźniańska Polana
+M-34-100-B-a-4-2-3,Rówienka
+M-34-100-B-a-4-2-1,Siwa Woda
+M-34-100-B-a-4-2-2,Staników Potok
+M-34-100-B-a-4-2-4,Jarcowa Skała
+M-34-100-B-a-4-2-3,Jaroniec
+M-34-100-B-a-4-2-4,Droga pod Reglami
+M-34-100-B-a-4-2-3,Skałki w Jarońcu
+M-34-100-B-a-4-2-1,Obrochtówka
+M-34-100-B-a-4-2-2,Groń
+M-34-100-B-a-4-2-4,Kira Miętusia
+M-34-100-B-b-2-4-3,Antałówka
+M-34-100-B-b-2-4-1,Bachledzki Potok
+M-34-100-B-b-2-4-1,Bachledzki Potok
+M-34-100-B-b-2-4-1,Bachledzki Wierch
+M-34-100-B-b-2-4-1,Bucznik
+M-34-100-B-b-2-4-4,Chłabowski Potok
+M-34-100-B-b-2-4-3,Chyców Potok
+M-34-100-B-b-2-4-1,Chyców Potok
+M-34-100-B-b-2-4-3,Chyców Potok
+M-34-100-B-b-2-4-4,Huciański Potok
+M-34-100-B-b-2-4-4,Huciański Potok
+M-34-100-B-b-2-4-4,Kadukowski Potok
+M-34-100-B-b-2-4-2,Mrowcowiański Potok
+M-34-100-B-b-2-4-4,Mrowcowiański Potok
+M-34-100-B-b-2-4-2,Mrowcowiański Potok
+M-34-100-B-b-2-4-4,Mrowcowiański Potok
+M-34-100-B-b-2-4-4,Olczanka
+M-34-100-B-b-2-4-2,Olczanka
+M-34-100-B-b-2-4-2,Olczanka
+M-34-100-B-b-2-4-2,Olczanka
+M-34-100-B-b-2-4-4,Olczanka
+M-34-100-B-b-2-4-3,Pasieka
+M-34-100-B-b-2-4-2,Piszczorów Potok
+M-34-100-B-b-2-4-4,Rów Podtatrzański
+M-34-100-B-b-2-4-1,Ugory
+M-34-100-B-b-2-4-2,Walkoszów Potok
+M-34-100-B-b-2-4-2,Walkoszów Potok
+M-34-100-B-b-2-4-3,Antałówka
+M-34-100-B-b-2-4-1,Homolacka Droga
+M-34-100-B-b-2-4-3,Homolacka Droga
+M-34-100-B-b-2-4-3,Mrowców Wierch
+M-34-100-B-b-2-4-1,Mrowców Wierch
+M-34-100-B-b-2-4-3,Mrowców Wierch
+M-34-100-B-b-2-4-1,Droga na Bachledzki Wierch
+M-34-100-B-b-2-4-3,Droga na Bachledzki Wierch
+M-34-100-B-b-2-4-1,Droga na Bachledzki Wierch
+M-34-100-B-c-3-1-2,Dziurawa Przełęcz
+M-34-100-B-c-3-1-2,Dziurawe
+M-34-100-B-c-3-1-2,Grządki
+M-34-100-B-c-3-1-2,Łopata
+M-34-100-B-c-3-1-1,Wołowiec
+M-34-101-A-a-1-1-2,Budzów Potok
+M-34-101-A-a-1-1-4,Polana Chowańcowa
+M-34-101-A-a-1-1-2,Chowańców Potok
+M-34-101-A-a-1-1-2,Chowańców Potok
+M-34-101-A-a-1-1-4,Chowańców Potok
+M-34-101-A-a-1-1-4,Chowańców Potok
+M-34-101-A-a-1-1-3,Gutowski Potok
+M-34-101-A-a-1-1-1,Gutowski Potok
+M-34-101-A-a-1-1-4,Hrubiański Potok
+M-34-101-A-a-1-1-4,Hrubiański Potok
+M-34-101-A-a-1-1-2,Jesionkowski
+M-34-101-A-a-1-1-4,Jesionkowski
+M-34-101-A-a-1-1-2,Jesionkowski
+M-34-101-A-a-1-1-4,Orawcowa
+M-34-101-A-a-1-1-4,Orawców Potok
+M-34-101-A-a-1-1-3,Orawców Potok
+M-34-101-A-a-1-1-1,Poroniec
+M-34-101-A-a-1-1-2,Poroniec
+M-34-101-A-a-1-1-3,Rola Frąckowiański Wierch
+M-34-101-A-a-1-1-3,Gutowa
+M-34-101-A-a-1-1-1,Malacińska
+M-34-101-A-a-1-1-3,Rola Toporowa
+M-34-101-A-a-1-1-3,Rybków Potok
+M-34-101-A-a-1-1-2,Wydzierówka
+M-34-101-A-a-1-1-3,Frączków Wierch
+M-34-101-A-a-1-1-3,Rybaków Wierch
+M-34-101-A-a-2-1-1,Pogórze Bukowińskie
+M-34-101-A-a-2-1-3,Czarny Potok
+M-34-101-A-a-2-1-1,Głębokie
+M-34-101-A-a-2-1-3,Marysowiański Las
+M-34-101-A-a-2-1-2,Poroniec
+M-34-101-A-a-2-1-2,Poroniec
+M-34-101-A-a-2-1-1,Sarkówka
+M-34-101-A-a-2-1-1,Upłaz
+M-34-101-A-a-2-1-1,Wiktorówka
+M-34-101-A-a-2-1-1,Wydzierówka
+M-34-101-A-a-2-1-4,Żegleński Potok
+M-34-101-A-a-2-1-2,Cyrkiel
+M-34-101-A-a-2-1-1,Do Dziedziny
+M-34-101-A-a-2-1-2,Polanki
+M-34-101-A-a-2-1-2,Ogródki
+M-34-101-A-a-2-1-2,Bór
+M-34-101-A-a-2-1-3,Tarasówka
+M-34-101-A-a-2-1-4,Młaczysko
+M-34-101-A-a-2-1-2,Wysokie
+M-34-101-A-a-4-4-3,Białka
+M-34-101-A-a-4-4-2,Białka
+M-34-101-A-a-4-4-3,Białka
+M-34-101-A-a-4-4-2,Białka
+M-34-101-A-a-4-4-4,Dolina Białki
+M-34-101-A-a-4-4-1,Goły Wierch
+M-34-101-A-a-4-4-2,Łysa Polana
+M-34-101-A-a-4-4-2,Łysa Skałka
+M-34-101-A-a-4-4-1,Palenica
+M-34-101-A-a-4-4-3,Palenica Białczańska
+M-34-101-A-a-4-4-3,Waksmundzki Potok
+M-34-101-A-a-4-4-3,Waksmundzki Potok
+M-34-101-A-a-4-4-2,Zielonka
+M-34-101-A-a-4-4-1,Droga Oswalda Balzera
+M-34-101-A-a-4-4-1,Jaworzyńska Droga
+M-34-101-A-b-1-1-2,Augustynówka
+M-34-101-A-b-1-1-2,Bartkówka
+M-34-101-A-b-1-1-2,Białka
+M-34-101-A-b-1-1-4,Białka
+M-34-101-A-b-1-1-4,Białka
+M-34-101-A-b-1-1-4,Jaworowy Potok
+M-34-101-A-b-1-1-4,Jaworowy Potok
+M-34-101-A-b-1-1-2,Młynówka
+M-34-101-A-b-1-1-2,Nadrynias
+M-34-101-A-b-1-1-4,Okólne
+M-34-101-A-b-1-1-2,Podrostok
+M-34-101-A-b-1-1-2,Suchy Potok
+M-34-101-A-b-1-1-2,Suchy Potok
+M-34-101-A-b-1-1-1,Zagóra
+M-34-101-A-b-1-1-3,Zawierch
+M-34-101-A-b-1-1-2,Zawierszański Potok
+M-34-101-A-b-1-1-4,Zawierszański Potok
+M-34-101-A-b-1-1-3,Zawierszański Potok
+M-34-101-A-b-1-1-2,Zawierszański Potok
+M-34-101-A-b-1-1-3,Zawierszański Potok
+M-34-101-A-b-1-1-2,Borcok
+M-34-101-A-b-1-1-4,Palenica
+M-34-101-A-b-1-1-2,Brzegowski Potok
+M-34-101-A-b-1-1-1,Brzegowski Potok
+M-34-101-A-b-1-1-1,Brzegowski Potok
+M-34-101-A-b-1-1-1,Zagórze
+M-34-101-A-b-1-1-3,Gromadzki Las
+M-34-101-A-b-1-1-4,Bafiów Bór
+M-34-101-A-b-1-1-2,Bafiówka
+M-34-100-B-a-1-2-4,Do Wierchu
+M-34-100-B-a-1-2-2,Garczkowski
+M-34-100-B-a-1-2-4,Greków Potok
+M-34-100-B-a-1-2-2,Maśniakowa
+M-34-100-B-a-1-2-4,Skoruszów Potok
+M-34-100-B-a-1-2-4,Skoruszów Potok
+M-34-100-B-a-1-2-2,Czerwińska Rola
+M-34-100-B-a-1-2-2,Wińska-Lachowa
+M-34-100-B-a-1-2-4,Polana Wierch
+M-34-100-B-b-1-1-2,Ciche
+M-34-100-B-b-1-1-3,Dzianiski Potok
+M-34-100-B-b-1-1-1,Dzianiski Potok
+M-34-100-B-b-1-1-4,Dzianiski Potok
+M-34-100-B-b-1-1-3,Golów
+M-34-100-B-b-1-1-3,Golów
+M-34-100-B-b-1-1-3,Golów
+M-34-100-B-b-1-1-1,Grapy
+M-34-100-B-b-1-1-2,Gruszków Wierch
+M-34-100-B-b-1-1-3,Kijów
+M-34-100-B-b-1-1-3,Kijów
+M-34-100-B-b-1-1-3,Kijów
+M-34-100-B-b-1-1-1,Liskówka
+M-34-100-B-b-1-1-2,Łacków Potok
+M-34-100-B-b-1-1-2,Polana
+M-34-100-B-b-1-1-4,Ptasiówka
+M-34-100-B-b-1-1-3,Ptasiów
+M-34-100-B-b-1-1-4,Ptasiów
+M-34-100-B-b-1-1-4,Ptasiów
+M-34-100-B-b-1-1-1,Tominów Wierch
+M-34-100-B-b-1-1-2,Trzy Kopce
+M-34-100-B-b-1-1-4,Paługów Potok
+M-34-100-B-b-3-1-3,Jantałowski Potok
+M-34-100-B-b-3-1-1,Jantałowski Potok
+M-34-100-B-b-3-1-2,Polana Białego
+M-34-100-B-b-3-1-2,Butorowski Potok
+M-34-100-B-b-3-1-2,Butorowski Potok
+M-34-100-B-b-3-1-2,Butorowski Potok
+M-34-100-B-b-3-1-3,Cicha Woda
+M-34-100-B-b-3-1-2,Cicha Woda
+M-34-100-B-b-3-1-4,Gąsieniców Potok
+M-34-100-B-b-3-1-1,Jamrychówka
+M-34-100-B-b-3-1-2,Małołącki Potok
+M-34-100-B-b-3-1-4,Małołącki Potok
+M-34-100-B-b-3-1-4,Małołącki Potok
+M-34-100-B-b-3-1-3,Mały Regiel
+M-34-100-B-b-3-1-3,Nędzowski Dział
+M-34-100-B-b-3-1-3,Nędzowskie Bory
+M-34-100-B-b-3-1-4,Spyrłówka
+M-34-100-B-b-3-1-3,Staników Źleb
+M-34-100-B-b-3-1-1,Staników Potok
+M-34-100-B-b-3-1-3,Staników Potok
+M-34-100-B-b-3-1-2,Słodyczkówka
+M-34-100-B-b-3-1-2,Szeligówka
+M-34-100-B-b-3-1-3,Droga pod Reglami
+M-34-100-B-b-3-1-4,Droga pod Reglami
+M-34-100-B-b-3-1-4,Kierpcówka
+M-34-100-B-c-2-1-2,Capik
+M-34-100-B-c-2-1-1,Chochołowski Potok
+M-34-100-B-c-2-1-2,Dudowe Spady
+M-34-100-B-c-2-1-2,Dudowa Studnia
+M-34-100-B-c-2-1-3,Dudówka
+M-34-100-B-c-2-1-3,Dziad
+M-34-100-B-c-2-1-4,Iwaniacka Przełęcz
+M-34-100-B-c-2-1-3,Iwaniacki Potok
+M-34-100-B-c-2-1-4,Iwaniacki Potok
+M-34-100-B-c-2-1-3,Iwaniacki Potok
+M-34-100-B-c-2-1-3,Dolina Iwaniacka
+M-34-100-B-c-2-1-3,Iwanówka
+M-34-100-B-c-2-1-3,Iwanówka
+M-34-100-B-c-2-1-2,Karczma
+M-34-100-B-c-2-1-4,Kliny
+M-34-100-B-c-2-1-1,Kobyla Głowa
+M-34-100-B-c-2-1-1,Kobyle Głowy
+M-34-100-B-c-2-1-1,Kolesa
+M-34-100-B-c-2-1-2,Kominiarski Wierch
+M-34-100-B-c-2-1-2,Kominy Dudowe
+M-34-100-B-c-2-1-1,Kościół
+M-34-100-B-c-2-1-2,Kufa
+M-34-100-B-c-2-1-2,Lejowa Szczelina
+M-34-100-B-c-2-1-1,Ogarle
+M-34-100-B-c-2-1-2,Piece
+M-34-100-B-c-2-1-3,Piekło
+M-34-100-B-c-2-1-4,Piszczałki
+M-34-100-B-c-2-1-2,Jaskinia pod Baranami
+M-34-100-B-c-2-1-2,Jaskinia pod Głazem
+M-34-100-B-c-2-1-2,Pod Spady
+M-34-100-B-c-2-1-2,Przełączka pod Kufą
+M-34-100-B-c-2-1-4,Pustać
+M-34-100-B-c-2-1-1,Jaskinia Rybia
+M-34-100-B-c-2-1-2,Schron przy Jaskini Troistej Drugi
+M-34-100-B-c-2-1-2,Jaskinia Skośna
+M-34-100-B-c-2-1-2,Skrzynie
+M-34-100-B-c-2-1-4,Smytniańskie Rzędy
+M-34-100-B-c-2-1-3,Polana Starorobociańska
+M-34-100-B-c-2-1-3,Dolina Starorobociańska
+M-34-100-B-c-2-1-3,Starorobociański Potok
+M-34-100-B-c-2-1-1,Starorobociański Potok
+M-34-100-B-c-2-1-4,Szałasiska
+M-34-100-B-c-2-1-2,Szemrzący Schron
+M-34-100-B-c-2-1-1,Szeroki Żleb
+M-34-100-B-c-2-1-2,Wierch Świerkule
+M-34-100-B-c-2-1-1,Turnia Olejarnia
+M-34-100-B-c-2-1-2,Tylkowiańskie Spady
+M-34-100-B-c-2-1-2,Ulica
+M-34-100-B-c-2-1-2,Jaskinia w Kosówkach
+M-34-100-B-c-2-1-1,Polana Wierszyk
+M-34-100-B-c-2-1-1,Wyżnia Chochołowska Brama
+M-34-100-B-c-2-1-1,Wyżnia Dudowa Rówień
+M-34-100-B-c-2-1-2,Wyżnie Dudowe Siodło
+M-34-100-B-c-2-1-2,Zadni Upłaz
+M-34-100-B-c-2-1-1,Zbójecka Dziura
+M-34-100-B-c-2-1-4,Zdrapiska
+M-34-100-B-c-2-1-2,Dudowy Schron
+M-34-100-B-c-2-1-1,Jaskinia Dwuotworowa w Iwanówce
+M-34-100-B-c-2-1-2,Jaskinia Lodowa nad Kufą
+M-34-100-B-c-2-1-1,Jaskinia Mała
+M-34-100-B-c-2-1-2,Jaskinia Trójkątna
+M-34-100-B-c-2-1-2,Nisza przy Szemrzącym Schronie Pierwsza
+M-34-100-B-c-2-1-2,Nisza przy Szemrzącym Schronie Druga
+M-34-100-B-c-2-1-1,Piwnica
+M-34-100-B-c-2-1-4,Sarni Schron
+M-34-100-B-c-2-1-2,Schron nad Żlebem
+M-34-100-B-c-2-1-2,Schron pod Kufą Zachodni
+M-34-100-B-c-2-1-1,Schron przy Szczelinie
+M-34-100-B-c-2-1-2,Schron przy Jaskini Troistej Pierwszy
+M-34-100-B-c-2-1-2,Schron w Opalonym Pierwszy
+M-34-100-B-c-2-1-2,Schron w Opalonym Drugi
+M-34-100-B-c-2-1-2,Schron w Ścianie pod Szczytem
+M-34-100-B-c-2-1-1,Schron w Wyżniej Bramie Chochołowskiej
+M-34-100-B-c-2-1-2,Schron Wschodni pod Kufą
+M-34-100-B-c-2-1-1,Schron z Płytą
+M-34-100-B-c-2-1-1,Schron za Smrekiem
+M-34-100-B-c-2-1-1,Schron Zachodni w Iwanówce
+M-34-100-B-c-2-1-2,Schronisko Dudowe
+M-34-100-B-c-2-1-2,Schronisko Dudowe Górne
+M-34-100-B-c-2-1-1,Schronisko pod Dziobem Pierwsze
+M-34-100-B-c-2-1-1,Schronisko pod Dziobem Drugie
+M-34-100-B-c-2-1-1,Schronisko pod Dziobem Trzecie
+M-34-100-B-c-2-1-1,Schronisko przy Jaskini w Dudzińcu
+M-34-100-B-c-2-1-1,Schronisko przy Ścianach
+M-34-100-B-c-2-1-1,Szczelina Chochołowska
+M-34-100-B-c-2-1-1,Szczelina nad Jaskinią w Dudzińcu
+M-34-100-B-c-2-1-2,Szczelina pod Jaskinią Skośną
+M-34-100-B-c-2-1-2,Szczelina przed Kufą
+M-34-100-B-c-2-1-2,Szczelina przy Jaskini Lodowej nad Kufą
+M-34-100-B-c-2-1-1,Szczelina w Dudzińcu
+M-34-100-B-c-2-1-2,Szczelina w Grani Pierwsza
+M-34-100-B-c-2-1-2,Szczelina w Grani Druga
+M-34-100-B-c-2-1-1,Szczelina w Iwanówce
+M-34-100-B-c-2-1-1,Szczelina w Osmętnicy
+M-34-100-B-c-2-1-2,Szczelina Zawaliskowa nad Kufą
+M-34-100-B-c-2-1-2,Szczelina ze Śniegiem
+M-34-100-B-c-2-1-2,Jaskinia Troista
+M-34-100-B-c-2-1-1,Jaskinia w Dudzińcu
+M-34-100-B-c-2-1-2,Komórka nad Smytnią
+M-34-100-B-c-2-1-1,Chochołowskie Czoło
+M-34-100-B-c-2-1-2,Szczerbina
+M-34-100-B-c-2-1-4,Rzędowe Czuby
+M-34-100-B-c-2-1-1,Dudziniec
+M-34-100-B-c-2-1-1,Ściany
+M-34-100-B-c-2-1-3,Hawiarska Droga
+M-34-100-B-c-2-1-3,Hawiarska Droga
+M-34-100-B-c-2-1-4,Smytniańska Przełączka
+M-34-100-B-c-2-1-2,Smytniańskie Zęby
+M-34-100-B-c-2-1-2,Pusta Rówień
+M-34-100-B-c-2-1-2,Zwornik nad Kufą
+M-34-100-B-c-4-2-1,Babi Grzbiet
+M-34-100-B-c-4-2-2,Babi Potok
+M-34-100-B-c-4-2-2,Babi Potok
+M-34-100-B-c-4-2-1,Babi Potok
+M-34-100-B-c-4-2-1,Babi Potok
+M-34-100-B-c-4-2-2,Babie Nogi
+M-34-100-B-c-4-2-2,Dolinczański Grzbiet
+M-34-100-B-c-4-2-2,Dolinczański Upłaz
+M-34-100-B-c-4-2-2,Dolinka
+M-34-100-B-c-4-2-4,Kamienista
+M-34-100-B-c-4-2-3,Pyszniańska Przełęcz
+M-34-100-B-c-4-2-1,Pyszniański Potok
+M-34-100-B-c-4-2-2,Stoły
+M-34-100-B-c-4-2-1,Wyżnia Polana Pyszna
+M-34-100-B-c-4-2-1,Zadni Upłaz
+M-34-100-B-c-4-2-2,Babia Wolarnia
+M-34-100-B-c-4-2-3,Zakos
