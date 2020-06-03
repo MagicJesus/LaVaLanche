@@ -99,9 +99,9 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
     def draw_labels(self):
         self.label = QLabel(self)
         self.font = QFont("Times", 20, QFont.Bold)
-        self.label.setGeometry(170, 0, 500, 50)
+        self.label.setGeometry(230, 0, 500, 50)
         self.label.setFont(self.font)
-        self.label.setText("Witaj w (TEMPLATE APP NAME)")
+        self.label.setText("Witaj w LaVaLanche!")
 
         self.label2 = QLabel(self)
         self.font = QFont("Times", 20, )
