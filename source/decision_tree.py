@@ -1,15 +1,6 @@
-from pathlib import Path
-import os
+# Ten skrypt nie jest stworzony przez autorów.
+# Link do źródła: https://github.com/random-forests/tutorials
 
-# 1. Ładowanie danych
-path = str(Path(os.getcwd()).parent.parent) + "/data/artif_data.txt"
-
-f = open(path, "r")
-training_data = [line.rstrip().split(',') for line in f]
-
-header = training_data.pop(0)
-
-# 2. Drzewo
 def unique_vals(rows, col):
     """Find the unique values for a column in a dataset."""
     return set([row[col] for row in rows])
@@ -214,7 +205,17 @@ def print_tree(node, spacing=""):
     print (spacing + '--> False:')
     print_tree(node.false_branch, spacing + "  ")
 
-# 3. Budowa drzewa
+def classify(row, node):
+    """See the 'rules of recursion' above."""
 
-tree = build_tree(training_data)
-print_tree(tree)
+    # Base case: we've reached a leaf
+    if isinstance(node, Leaf):
+        return node.predictions
+
+    # Decide whether to follow the true-branch or the false-branch.
+    # Compare the feature / value stored in the node,
+    # to the example we're considering.
+    if node.question.match(row):
+        return classify(row, node.true_branch)
+    else:
+        return classify(row, node.false_branch)
