@@ -9,15 +9,18 @@
 \contentsline {section}{\numberline {2.1}Cel}{5}
 \contentsline {section}{\numberline {2.2}Opis problemu}{5}
 \contentsline {section}{\numberline {2.3}Mo\IeC {\.z}liwe rozwi\IeC {\k a}zanie}{5}
-\contentsline {chapter}{\numberline {3}Pierwszy dokument}{7}
-\contentsline {section}{\numberline {3.1}Struktura dokumentu}{7}
-\contentsline {section}{\numberline {3.2}Kompilacja}{8}
-\contentsline {section}{\numberline {3.3}Narz\IeC {\k e}dzia}{8}
-\contentsline {section}{\numberline {3.4}Przygotowanie dokumentu}{9}
-\contentsline {chapter}{\numberline {4}Testy}{11}
-\contentsline {section}{\numberline {4.1}Test URL-a}{11}
-\contentsline {section}{\numberline {4.2}Test dzielenia wd\IeC {\'o}w}{12}
-\contentsline {subsection}{\numberline {4.2.1}Lorem ipsum}{13}
+\contentsline {chapter}{\numberline {3}Stworzony model zjawiska}{7}
+\contentsline {section}{\numberline {3.1}Opracowanie danych topograficznych}{7}
+\contentsline {subsection}{\numberline {3.1.1}Format .las}{7}
+\contentsline {subsection}{\numberline {3.1.2}Wyb\IeC {\'o}r cech}{8}
+\contentsline {subsection}{\numberline {3.1.3}Triangulacja Delaunaya}{8}
+\contentsline {section}{\numberline {3.2}Kompilacja}{9}
+\contentsline {section}{\numberline {3.3}Narz\IeC {\k e}dzia}{9}
+\contentsline {section}{\numberline {3.4}Przygotowanie dokumentu}{10}
+\contentsline {chapter}{\numberline {4}Testy}{13}
+\contentsline {section}{\numberline {4.1}Test URL-a}{13}
+\contentsline {section}{\numberline {4.2}Test dzielenia wd\IeC {\'o}w}{14}
+\contentsline {subsection}{\numberline {4.2.1}Lorem ipsum}{15}
 \babel@toc {polish}{}
 \babel@toc {polish}{}
 \babel@toc {polish}{}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.27)  3 JUN 2020 00:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.27)  3 JUN 2020 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1379,7 +1379,7 @@ File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                'urldate=iso' requires 'seconds=true'.
-(biblatex)                Setting 'seconds=true' on input line 147.
+(biblatex)                Setting 'seconds=true' on input line 148.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1393,19 +1393,19 @@ LaTeX Warning: Unused global option(s):
 ))
 \openout1 = `praca.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
-LaTeX Font Info:    ... okay on input line 147.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
-LaTeX Font Info:    ... okay on input line 147.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
-LaTeX Font Info:    ... okay on input line 147.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
-LaTeX Font Info:    ... okay on input line 147.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
-LaTeX Font Info:    ... okay on input line 147.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
-LaTeX Font Info:    ... okay on input line 147.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 147.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 148.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -1573,15 +1573,15 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'praca.bbl' found.
 
 (./praca.bbl)
-Package biblatex Info: Reference section=0 on input line 147.
-Package biblatex Info: Reference segment=0 on input line 147.
+Package biblatex Info: Reference section=0 on input line 148.
+Package biblatex Info: Reference segment=0 on input line 148.
 \c@lstlisting=\count436
 \c__siunitx_mathsf_int=\count437
-LaTeX Font Info:    Try loading font information for U+msa on input line 147.
+LaTeX Font Info:    Try loading font information for U+msa on input line 148.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 147.
+LaTeX Font Info:    Try loading font information for U+msb on input line 148.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1590,27 +1590,27 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <agh.jpg, id=1, 146.4672pt x 284.7438pt>
 File: agh.jpg Graphic file (type jpg)
 <use agh.jpg>
-Package pdftex.def Info: agh.jpg  used on input line 149.
+Package pdftex.def Info: agh.jpg  used on input line 150.
 (pdftex.def)             Requested size: 87.88098pt x 170.8476pt.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 149.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 150.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 149.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 150.
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
-(Font)              Font shape `T1/phv/b/sc' tried instead on input line 149.
+(Font)              Font shape `T1/phv/b/sc' tried instead on input line 150.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 149.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 150.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 149.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 150.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 149.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 150.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 162.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 163.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 162.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 163.
  (./praca.toc [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./agh.jpg>])
@@ -1667,45 +1667,67 @@ Underfull \vbox (badness 2478) has occurred while \output is active []
 
  (./rozdzial2.tex
 Rozdzia\l  3.
-[7
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 8.
+<las_example.png, id=33, 380.42125pt x 273.02pt>
+File: las_example.png Graphic file (type png)
+<use las_example.png>
+Package pdftex.def Info: las_example.png  used on input line 16.
+(pdftex.def)             Requested size: 227.62204pt x 163.36334pt.
+
+Underfull \vbox (badness 5985) has occurred while \output is active []
+
+ [7
 
 
 
-] [8]) [9]
+ <./las_example.png>]
+<no_delaunay.png, id=40, 382.42876pt x 254.9525pt>
+File: no_delaunay.png Graphic file (type png)
+<use no_delaunay.png>
+Package pdftex.def Info: no_delaunay.png  used on input line 42.
+(pdftex.def)             Requested size: 136.57462pt x 91.04756pt.
+<delaunay.png, id=41, 704.6325pt x 508.90125pt>
+File: delaunay.png Graphic file (type png)
+<use delaunay.png>
+Package pdftex.def Info: delaunay.png  used on input line 48.
+(pdftex.def)             Requested size: 136.57462pt x 98.63353pt.
+ [8 <./no_delaunay.png> <./delaunay.png>] [9]
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [10])
+[11]
 \openout2 = `tests.aux'.
 
- (./tests.tex [10
+ (./tests.tex [12
 
 
 
 ]
 Rozdzia\l  4.
-[11]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 33.
-
+[13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12
+ [14
 
 ])
-[13] [14
+[15] [16
 
 
-] [15] (./praca.aux (./rozdzial3.aux) (./rozdzial1.aux)
+] [17] (./praca.aux (./rozdzial3.aux) (./rozdzial1.aux)
 (./rozdzial2.aux) (./tests.aux))
 Package logreq Info: Writing requests to 'praca.run.xml'.
 \openout1 = `praca.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26839 strings out of 494815
- 496899 string characters out of 6178284
+ 26854 strings out of 494815
+ 497142 string characters out of 6178284
  744786 words of memory out of 5000000
- 29783 multiletter control sequences out of 15000+600000
+ 29795 multiletter control sequences out of 15000+600000
  611689 words of font info for 121 fonts, out of 8000000 for 9000
  79 hyphenation exceptions out of 8191
- 44i,24n,51p,10383b,2672s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,24n,51p,10383b,3326s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
@@ -1717,10 +1739,10 @@ are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on praca.pdf (15 pages, 219122 bytes).
+Output written on praca.pdf (17 pages, 347969 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

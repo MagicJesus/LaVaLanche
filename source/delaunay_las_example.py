@@ -101,6 +101,7 @@ for i in range(surf.face_normals.shape[0]):
             c = "brown"
             break
 
+    """
     if c:
         # Teraz zaznaczymy na wykresie stoki o odpowiedniej ekspozycji
         v1 = surf.points[surf.faces[i * 4 + 1]]
@@ -111,6 +112,7 @@ for i in range(surf.face_normals.shape[0]):
         polygon = pv.PolyData(vertices, np.array([3, 0, 1, 2]))
 
         p.add_mesh(polygon, color = c, opacity = 0.7)
+    """
 
 # Finalizujemy rysowanie wykresu
 p.add_axes(xlabel = "East", ylabel = "North", zlabel = "Height")
