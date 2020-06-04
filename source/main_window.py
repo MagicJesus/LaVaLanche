@@ -161,7 +161,7 @@ class DetailWindow(QMainWindow):
     def __init__(self, map_name, topo_objects):
         super(DetailWindow, self).__init__()
         # self.setGeometry(100, 100, 450, 300)
-        self.setFixedSize(300, 200)
+        self.setFixedSize(700, 200)
         self.setWindowTitle("Detail Window of " + map_name.rstrip())
 
         # MUSI BYĆ WIDGET, ŻEBY DZIAŁAŁ LAYOUT
