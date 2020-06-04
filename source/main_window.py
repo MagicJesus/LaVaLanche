@@ -4,6 +4,8 @@ import os
 import sys
 from pathlib import Path
 from random import randint
+from merge_predict import *
+from weather_analysis import overall_weather_analysis
 
 from las_processing import extract_data
 import merge_predict
@@ -65,34 +67,36 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         button_width = 22
         button_height = 22
         with open(parent_path + "/data/button_coords.txt") as buttonmap:
+
+            records = add_weather(add_season(load_topo_data()), overall_weather_analysis())
+            records = get_risks(records)
             nazwy_map = open(parent_path + "/data/maps_sequence.txt")
+
             for line in buttonmap:
                 if draw:
+                    mapa = nazwy_map.readline().rstrip()
                     coords = line.rstrip().split(",")
                     for i in range(0, 2):
                         coords[i] = int(coords[i])
                     button = QPushButton(self)
-                    risk_level = randint(0, 4)
+                    risk_level = records[mapa]
                     self.risk_color(risk_level, button)
                     button.setGeometry(coords[0], coords[1], button_width, button_height)
-                    button.clicked.connect(lambda checked, arg=nazwy_map.readline(): self.show_details(arg))
+                    button.clicked.connect(lambda checked, arg=mapa: self.show_details(arg))
                 else:
                     if "M-34-101-A-b-3-1-1" in nazwy_map.readline():
                         draw = True
 
     def risk_color(self, risk_level, button):
-        if risk_level == 0:
+        if 'brak' in risk_level:
             button.setStyleSheet("QPushButton{background:rgba(76, 175, 80, 0.25)}")
-        elif risk_level == 1:
+        elif 'niskie/umiarkowane' in risk_level:
             button.setStyleSheet("QPushButton{background:rgba(255, 255, 0, 0.25)}")
-        elif risk_level == 2:
-            button.setStyleSheet("QPushButton{background:rgba(255, 127, 0, 0.25)}")
-        elif risk_level == 3:
+        elif 'wysokie' in risk_level:
             button.setStyleSheet("QPushButton{background:rgba(255, 0, 0, 0.25)}")
-        elif risk_level == 4:
-            button.setStyleSheet("QPushButton{background:rgba(0, 0, 0, 0.25)}")
 
     def show_details(self, map_name):
+        print(map_name)
         details = DetailWindow(map_name, self.topo_objects[map_name[ : -1]]) # -1 z powodu znaku końca linii
         self.dialogs.append(details)
         details.show()
