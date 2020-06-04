@@ -6,7 +6,7 @@ from pathlib import Path
 from random import randint
 from merge_predict import *
 from weather_analysis import overall_weather_analysis
-
+import get_weather_data_from_server
 from las_processing import extract_data
 import merge_predict
 
@@ -96,7 +96,6 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
             button.setStyleSheet("QPushButton{background:rgba(255, 0, 0, 0.25)}")
 
     def show_details(self, map_name):
-        print(map_name)
         details = DetailWindow(map_name, self.topo_objects[map_name[ : -1]]) # -1 z powodu znaku końca linii
         self.dialogs.append(details)
         details.show()
@@ -120,6 +119,7 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         self.draw_buttons()
         # self.set_image("..\\images\\main_bg.jpg")
         self.set_image(parent_path + "/images/main_bg.jpg")
+        # AKTUALIZACJA DANYCH POGODOWYCH
         self.show()
 
     def draw_buttons(self):
