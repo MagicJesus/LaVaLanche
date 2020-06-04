@@ -74,12 +74,12 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
 
             for line in buttonmap:
                 if draw:
-                    mapa = nazwy_map.readline().rstrip()
+                    mapa = nazwy_map.readline()
                     coords = line.rstrip().split(",")
                     for i in range(0, 2):
                         coords[i] = int(coords[i])
                     button = QPushButton(self)
-                    risk_level = records[mapa]
+                    risk_level = records[mapa.rstrip()]
                     self.risk_color(risk_level, button)
                     button.setGeometry(coords[0], coords[1], button_width, button_height)
                     button.clicked.connect(lambda checked, arg=mapa: self.show_details(arg))
