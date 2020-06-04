@@ -1,9 +1,10 @@
 import pyowm
-import os
+import os, re
 import time
 
 
 def weather_analysis(map_name):
+    regex_pattern = '[0-9]+\.?[0-9]*'
     path = "..\\data\\weather_data\\" + map_name[0:16]
     weather = {}
     temperature = []
@@ -33,9 +34,7 @@ def weather_analysis(map_name):
     overall_snow_layer = 0.0
     for s in snow:
         if 'h' in s:
-            amount_in_mm = s[7:11]
-            if '}' in amount_in_mm:
-                amount_in_mm = amount_in_mm[0:3]
+            amount_in_mm = re.findall(regex_pattern, s)[1]
             overall_snow_layer += float(amount_in_mm)
         elif s.replace("{}", "none") == "none":
             overall_snow_layer += 0
@@ -45,12 +44,12 @@ def weather_analysis(map_name):
     # rain stats
     weather["deszcz48h"] = False
     for r in rain:
-        if s.replace("{}", "none") != "none":
+        if '{}' not in r:
             weather["deszcz48h"] = True
     # wind stats
     weather["wiatr48h"] = False
     for w in wind:
-        if float(w[10:13]) >= 13.0:
+        if float(re.findall(regex_pattern, w)[0]) >= 13.0:
             weather["wiatr48h"] = True
 
     print(map_name, weather)
