@@ -21,7 +21,7 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         super(MapWindow, self).__init__()
         self.buttons = []
         self.dialogs = list()
-        self.setGeometry(600, 600, 753, 454)
+        # self.setGeometry(0, 0, 0, 0)
         self.setFixedSize(753, 454)
         self.setWindowTitle("LaVaLanche")
         # self.set_image("..\\images\\tlo.png")
@@ -40,7 +40,7 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         self.move(qtRectangle.topLeft())
 
     def get_topo_objects(self, objects_path):
-        f = open(objects_path, 'r')
+        f = open(objects_path, 'r', encoding = "utf-8")
         data = f.readlines()
 
         self.topo_objects = {}
@@ -50,7 +50,7 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
 
             if l[0] not in self.topo_objects:
                 self.topo_objects[l[0]] = [l[1]]
-            else: # if len(l[0]) <= 5: # wystarczy 5 nazw obiektów, czasami jest dużo więcej
+            elif len(self.topo_objects[l[0]]) <= 7: # wystarczy 7 nazw obiektów, czasami jest dużo więcej
                 self.topo_objects[l[0]].append(l[1])
 
     def set_image(self, img_path):
@@ -101,7 +101,7 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
 class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
     def __init__(self):
         super(MainWindow, self).__init__()
-        self.setGeometry(500, 500, 753, 454)
+        # self.setGeometry(500, 500, 753, 454)
         self.setFixedSize(753, 454)
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
@@ -160,8 +160,13 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
 class DetailWindow(QMainWindow):
     def __init__(self, map_name, topo_objects):
         super(DetailWindow, self).__init__()
-        self.setGeometry(100, 100, 450, 300)
+        # self.setGeometry(100, 100, 450, 300)
+        self.setFixedSize(300, 200)
         self.setWindowTitle("Detail Window of " + map_name.rstrip())
+
+        # MUSI BYĆ WIDGET, ŻEBY DZIAŁAŁ LAYOUT
+        wid = QtWidgets.QWidget(self)
+        self.setCentralWidget(wid)
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
         qtRectangle = self.frameGeometry()
@@ -172,9 +177,23 @@ class DetailWindow(QMainWindow):
         # self.map_data = extract_data(map_name.rstrip() + ".las")  # funkcja uzywajaca laspy do otwarcia mapy
         # wypisz obiekty znajdujące się na obszarze
 
-        self.label = QLabel(self)
-        self.label.setText("Obiekty: \n" + ' '.join(topo_objects))
-        self.label.setGeometry(100, 100, 300, 500)
+        self.objects = QLabel(self)
+        self.objects.setText("Obiekty: \n" + ''.join(topo_objects))
+
+        self.objects2 = QLabel(self)
+        self.objects2.setText("Obiekty: \n" + ''.join(topo_objects))
+
+        self.risk = QLabel(self)
+        self.risk.setText("Ryzyko: niskie/umiarkowane")
+
+        # POŁOŻENIE ELEMENTÓW
+        self.gridLayout = QtWidgets.QGridLayout()
+        self.gridLayout.addWidget(self.risk, 0, 1)
+        self.gridLayout.addWidget(self.objects, 1, 0)
+        self.gridLayout.addWidget(self.objects2, 1, 2)
+        self.gridLayout.setVerticalSpacing(2)
+        wid.setLayout(self.gridLayout)
+
         self.show()
 
 

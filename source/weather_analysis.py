@@ -2,7 +2,6 @@ import pyowm
 import os, re
 import time
 
-
 def single_weather_analysis(map_name):
     regex_pattern = '[0-9]+\.?[0-9]*'
     path = "..\\data\\weather_data\\" + map_name[0:16]
