@@ -3,7 +3,6 @@
 
 import os
 from pathlib import Path
-
 # --- WCZYTAJ DANE LOKALNE I UTWÓRZ SŁOWNIK ---
 def load_topo_data():
     path = str(Path(os.getcwd()).parent) + "/data/topo_features.txt"
@@ -13,7 +12,7 @@ def load_topo_data():
     records = {}
 
     for line in data:
-        l = line.split(',')
+        l = line.rstrip().split(',')
         records[l[0]] = l[1 : ]
 
     return records
@@ -27,13 +26,13 @@ def add_season(records):
     day = int(today[2])
 
     if month == 6 and day >= 22 or month in (7, 8) or month == 9 and day <= 22:
-        season = False # lato, pora roku nie stwarza zagrożenia
+        season = 'False' # lato, pora roku nie stwarza zagrożenia
     else:
-        season = True
+        season = 'True'
 
     for area in records:
         records[area].append(season)
-
+    return records
 # --- STWORZENIE FINALNYCH REKORDÓW (CECHY TOPOGRAFICZNE + POGODOWE) ---
 def add_weather(topo_records, weather_records):
     final_records = {}

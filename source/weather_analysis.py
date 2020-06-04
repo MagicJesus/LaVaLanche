@@ -3,7 +3,7 @@ import os, re
 import time
 
 
-def weather_analysis(map_name):
+def single_weather_analysis(map_name):
     regex_pattern = '[0-9]+\.?[0-9]*'
     path = "..\\data\\weather_data\\" + map_name[0:16]
     weather = {}
@@ -11,6 +11,7 @@ def weather_analysis(map_name):
     snow = []
     wind = []
     rain = []
+    final_list = []
     files = os.listdir(path)
     for file in files:
         handle = open(path + "\\" + file)
@@ -26,11 +27,11 @@ def weather_analysis(map_name):
         mean.append(float(t))
     avg = sum(mean)/len(mean)
     if min(mean)*max(mean) < 0 and avg > 0:
-        weather["wzr_temp"] = True
+        weather["wzr_temp"] = 'True'
     else:
-        weather["wzr_temp"] = False
+        weather["wzr_temp"] = 'False'
     # snow stats
-    weather["snieg48h"] = False
+    weather["snieg48h"] = 'False'
     overall_snow_layer = 0.0
     for s in snow:
         if 'h' in s:
@@ -39,23 +40,32 @@ def weather_analysis(map_name):
         elif s.replace("{}", "none") == "none":
             overall_snow_layer += 0
     if overall_snow_layer > 200:
-        weather["snieg48h"] = True
+        weather["snieg48h"] = 'True'
 
     # rain stats
-    weather["deszcz48h"] = False
+    weather["deszcz48h"] = 'False'
     for r in rain:
         if '{}' not in r:
-            weather["deszcz48h"] = True
+            weather["deszcz48h"] = 'True'
     # wind stats
-    weather["wiatr48h"] = False
+    weather["wiatr48h"] = 'False'
     for w in wind:
         if float(re.findall(regex_pattern, w)[0]) >= 13.0:
-            weather["wiatr48h"] = True
+            weather["wiatr48h"] = 'True'
 
-    print(map_name, weather)
+    final_list.append(weather["deszcz48h"])
+    final_list.append(weather["snieg48h"])
+    final_list.append(weather["wiatr48h"])
+    final_list.append(weather["wzr_temp"])
+
+    return final_list
 
 
-# mapy = os.listdir("..\\..\\maps\\A")
-# for m in mapy:
-#     weather_analysis(m)
-weather_analysis("M-34-100-B-a-1-2-1")
+def overall_weather_analysis():
+    mapy = os.listdir("..\\..\\maps\\A")
+    mapy += os.listdir("..\\..\\maps\\B")
+    weather_records = {}
+    for m in mapy:
+        weather_records[m[0:18]] = single_weather_analysis(m)
+    return weather_records
+
