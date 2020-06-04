@@ -1,10 +1,12 @@
 import pyowm
-import os, re
+import os
+import re
 import time
+from pathlib import Path
 
 def single_weather_analysis(map_name):
     regex_pattern = '[0-9]+\.?[0-9]*'
-    path = "..\\data\\weather_data\\" + map_name[0:16]
+    path = "../data/weather_data/" + map_name[0:16]
     weather = {}
     temperature = []
     snow = []
@@ -13,7 +15,7 @@ def single_weather_analysis(map_name):
     final_list = []
     files = os.listdir(path)
     for file in files:
-        handle = open(path + "\\" + file)
+        handle = open(path + '/' + file)
         temperature.append(handle.readline().rstrip())
         snow.append(handle.readline().rstrip())
         wind.append(handle.readline().rstrip())
@@ -61,8 +63,12 @@ def single_weather_analysis(map_name):
 
 
 def overall_weather_analysis():
-    mapy = # wczytaj
+    path = str(Path(os.getcwd()).parent) + "/data/maps_sequence.txt"
+    f = open(path, 'r')
+    mapy = f.readlines()
+
     weather_records = {}
+
     for m in mapy:
         weather_records[m[0:18]] = single_weather_analysis(m)
     return weather_records

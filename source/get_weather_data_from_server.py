@@ -6,13 +6,13 @@ overall_time = time.time()
 start_time = time.time()
 ssh = SSHClient()
 ssh.load_system_host_keys()
-ssh.connect('34.72.152.18', username="marekjachym99")
+ssh.connect('34.72.152.18', username="wojtek_konieczkowicz")
 print("ssh connection took: ", time.time() - start_time)
 
 start_time = time.time()
 # SCPCLient takes a paramiko transport as an argument
 scp = SCPClient(ssh.get_transport())
-scp.get("/home/marekjachym99/lavalanche/weather.tar", "D:\\GitHub\\LaVaLanche\\data")
+scp.get("/home/marekjachym99/lavalanche/weather.tar", "../data")
 scp.close()
 print("scp copying took: ", time.time() - start_time)
 # extract .tar file

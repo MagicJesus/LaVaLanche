@@ -33,6 +33,7 @@ def add_season(records):
     for area in records:
         records[area].append(season)
     return records
+
 # --- STWORZENIE FINALNYCH REKORDÓW (CECHY TOPOGRAFICZNE + POGODOWE) ---
 def add_weather(topo_records, weather_records):
     final_records = {}
@@ -57,6 +58,6 @@ def get_risks(records):
     predicted_risks = {}
 
     for area in records:
-        predicted_risks[area] = list(classify(records[area]).keys())[0]
+        predicted_risks[area] = list(classify(records[area], tree).keys())[0]
 
     return predicted_risks
