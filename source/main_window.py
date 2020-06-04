@@ -1,17 +1,20 @@
+# TODO: ujednolicić nazwy (komentarze po polsku, ZMIENNE I NAZWY PLIKÓW PO ANGIELSKU)
+
 import os
 import sys
-
+from pathlib import Path
 from random import randint
+
 from las_processing import extract_data
+import merge_predict
+
 from PyQt5 import QtWidgets
 from PyQt5.QtCore import QSize
 from PyQt5.QtGui import QImage, QPalette, QBrush, QFont
-from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel
-from pathlib import Path
+from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel, QDesktopWidget
 
 parent_path = str(Path(os.getcwd()).parent)
-print(parent_path)
-
+# print(parent_path)
 
 class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której beda odnośniki do każdej z map
     def __init__(self):
@@ -24,6 +27,31 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         # self.set_image("..\\images\\tlo.png")
         self.set_image(parent_path + "/images/tlo.png")
         self.draw_map_link_buttons()
+
+        # obiekty topograficzne znajdujące się na poszczególnych obszarach (okno szczegółowe)
+        self.get_topo_objects(parent_path + "/data/obiekty_scraped.txt")
+
+        # TUTAJ OKREŚLAMY RYZYKO PRZY POMOCY MODUŁU merge_predict
+
+        # PONIŻEJ WYŚRODKOWANIE OKNA
+        qtRectangle = self.frameGeometry()
+        centerPoint = QDesktopWidget().availableGeometry().center()
+        qtRectangle.moveCenter(centerPoint)
+        self.move(qtRectangle.topLeft())
+
+    def get_topo_objects(self, objects_path):
+        f = open(objects_path, 'r')
+        data = f.readlines()
+
+        self.topo_objects = {}
+
+        for line in data:
+            l = line.split(',')
+
+            if l[0] not in self.topo_objects:
+                self.topo_objects[l[0]] = [l[1]]
+            else: # if len(l[0]) <= 5: # wystarczy 5 nazw obiektów, czasami jest dużo więcej
+                self.topo_objects[l[0]].append(l[1])
 
     def set_image(self, img_path):
         oimage = QImage(img_path)
@@ -65,7 +93,7 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
             button.setStyleSheet("QPushButton{background:rgba(0, 0, 0, 0.25)}")
 
     def show_details(self, map_name):
-        details = DetailWindow(map_name)
+        details = DetailWindow(map_name, self.topo_objects[map_name[ : -1]]) # -1 z powodu znaku końca linii
         self.dialogs.append(details)
         details.show()
 
@@ -75,6 +103,13 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         super(MainWindow, self).__init__()
         self.setGeometry(500, 500, 753, 454)
         self.setFixedSize(753, 454)
+
+        # PONIŻEJ WYŚRODKOWANIE OKNA
+        qtRectangle = self.frameGeometry()
+        centerPoint = QDesktopWidget().availableGeometry().center()
+        qtRectangle.moveCenter(centerPoint)
+        self.move(qtRectangle.topLeft())
+
         self.setWindowTitle("LaVaLanche")
         self.dialogs = list()
         self.draw_labels()
@@ -87,7 +122,8 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         self.show_map_button = QPushButton(self)
         self.show_map_button.setText("SHOW HAZARD MAP")
         self.show_map_button.setGeometry(300, 100, 150, 30)
-        self.show_map_button.clicked.connect(self.show_map)  # .clicked.connect() przy przycisnieciu wola funkcje
+        self.show_map_button.clicked.connect(self.show_map)
+        # .clicked.connect() przy przycisnieciu wola funkcje
 
     def set_image(self, img_path):
         oimage = QImage(img_path)
@@ -109,6 +145,7 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         self.label2.setGeometry(10, 430, 300, 20)
 
     def show_map(self):  # funkcja wołająca się gdy przyciskamy przycisk "POKAZ MAPE ZAGROZEN"
+        self.closeEvent()
         mapa = MapWindow()  # tworzenie instancji klasy MapWindow()
         self.dialogs.append(mapa)  # dodanie okna z mapą do dialogów głównego okna MainWindow
         mapa.show()
@@ -116,18 +153,28 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
     def klikniecie(self):
         print("dupa")
 
+    def closeEvent(self):
+        self.destroy()
+
 
 class DetailWindow(QMainWindow):
-    def __init__(self, map_name):
+    def __init__(self, map_name, topo_objects):
         super(DetailWindow, self).__init__()
         self.setGeometry(100, 100, 450, 300)
         self.setWindowTitle("Detail Window of " + map_name.rstrip())
 
-        self.map_data = extract_data(map_name.rstrip() + ".las")  # funkcja uzywajaca laspy do otwarcia mapy
+        # PONIŻEJ WYŚRODKOWANIE OKNA
+        qtRectangle = self.frameGeometry()
+        centerPoint = QDesktopWidget().availableGeometry().center()
+        qtRectangle.moveCenter(centerPoint)
+        self.move(qtRectangle.topLeft())
+
+        # self.map_data = extract_data(map_name.rstrip() + ".las")  # funkcja uzywajaca laspy do otwarcia mapy
+        # wypisz obiekty znajdujące się na obszarze
 
         self.label = QLabel(self)
-        self.label.setText("Sczegóły ryzyka dla: " + map_name.rstrip())
-        self.label.setGeometry(20, 20, 300, 20)
+        self.label.setText("Obiekty: \n" + ' '.join(topo_objects))
+        self.label.setGeometry(100, 100, 300, 500)
         self.show()
 
 
