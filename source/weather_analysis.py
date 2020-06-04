@@ -62,10 +62,8 @@ def single_weather_analysis(map_name):
 
 
 def overall_weather_analysis():
-    mapy = os.listdir("..\\..\\maps\\A")
-    mapy += os.listdir("..\\..\\maps\\B")
+    mapy = # wczytaj
     weather_records = {}
     for m in mapy:
         weather_records[m[0:18]] = single_weather_analysis(m)
     return weather_records
-
