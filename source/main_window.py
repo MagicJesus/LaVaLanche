@@ -176,6 +176,9 @@ class DetailWindow(QMainWindow):
         self.setFixedSize(700, 400)
         self.setWindowTitle("Szczegóły dla obszaru " + map_name.rstrip())
 
+        self.dialogs = []
+
+
         # MUSI BYĆ WIDGET, ŻEBY DZIAŁAŁ LAYOUT
         wid = QtWidgets.QWidget(self)
         self.setCentralWidget(wid)
@@ -201,6 +204,7 @@ class DetailWindow(QMainWindow):
 
         self.display_button = QPushButton(self)
         self.display_button.setText("Wyświetl drzewo decyzyjne")
+        self.display_button.clicked.connect(self.show_tree)
 
         # POŁOŻENIE ELEMENTÓW
         self.gridLayout = QtWidgets.QGridLayout()
@@ -212,6 +216,27 @@ class DetailWindow(QMainWindow):
         wid.setLayout(self.gridLayout)
 
         self.show()
+
+    def show_tree(self):
+        tree_window = ImageWindow()
+        self.dialogs.append(tree_window)
+
+
+class ImageWindow(QMainWindow):
+    def __init__(self):
+        super(ImageWindow, self).__init__()
+        self.scale = 0.9
+        self.setFixedSize(1243*self.scale, 896*self.scale)
+        self.set_image("../images/tree.png")
+        self.show()
+
+    def set_image(self, img_path):
+        oimage = QImage(img_path)
+        simage = oimage.scaled(oimage.size()*self.scale)
+        palette = QPalette()
+        palette.setBrush(QPalette.Window, QBrush(simage))
+        self.setPalette(palette)
+
 
 
 if __name__ == "__main__":

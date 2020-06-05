@@ -26,7 +26,6 @@ def extract_data(map_name):
 
 
 # extract_data("M-34-100-B-a-1-2-2")
-extract_data("M-34-101-A-c-4-1-1")
 
 # file = File("./out.las", mode = 'r')
 # file = File("D:\\maps\\A\\M-34-101-A-a-1-1-2.las")
