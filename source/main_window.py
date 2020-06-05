@@ -11,7 +11,7 @@ from las_processing import extract_data
 import merge_predict
 
 from PyQt5 import QtWidgets
-from PyQt5.QtCore import QSize
+from PyQt5.QtCore import QSize, Qt
 from PyQt5.QtGui import QImage, QPalette, QBrush, QFont
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel, QDesktopWidget
 
@@ -173,7 +173,7 @@ class DetailWindow(QMainWindow):
     def __init__(self, map_name, topo_objects, risk_level, features, features_names):
         super(DetailWindow, self).__init__()
         # self.setGeometry(100, 100, 450, 300)
-        self.setFixedSize(700, 400)
+        self.setFixedSize(400, 500)
         self.setWindowTitle("Szczegóły dla obszaru " + map_name.rstrip())
 
         self.dialogs = []
@@ -193,27 +193,29 @@ class DetailWindow(QMainWindow):
         # wypisz obiekty znajdujące się na obszarze
 
         self.objects = QLabel(self)
-        self.objects.setText("Obiekty topograficzne: \n" + ''.join(topo_objects))
+        self.objects.setText("OBIEKTY TOPOGRAFICZNE: \n" + ''.join(topo_objects))
+        self.objects.setAlignment(Qt.AlignCenter)
 
         inc_features = [feature for index, feature in enumerate(features_names) if features[index] == "True"]
         self.incs = QLabel(self)
-        self.incs.setText("Cechy INC: \n" + '\n'.join(inc_features))
+        self.incs.setText("CECHY INC: \n" + '\n'.join(inc_features))
+        self.incs.setAlignment(Qt.AlignCenter)
 
         self.risk = QLabel(self)
-        self.risk.setText("Ryzyko: " + risk_level + '\n')
+        self.risk.setText("RYZYKO:\n" + risk_level)
+        self.risk.setAlignment(Qt.AlignCenter)
 
         self.display_button = QPushButton(self)
         self.display_button.setText("Wyświetl drzewo decyzyjne")
         self.display_button.clicked.connect(self.show_tree)
 
         # POŁOŻENIE ELEMENTÓW
-        self.gridLayout = QtWidgets.QGridLayout()
-        self.gridLayout.addWidget(self.risk, 0, 0)
-        self.gridLayout.addWidget(self.display_button, 0, 1)
-        self.gridLayout.addWidget(self.objects, 1, 0)
-        self.gridLayout.addWidget(self.incs, 1, 1)
-        self.gridLayout.setVerticalSpacing(2)
-        wid.setLayout(self.gridLayout)
+        self.layout = QtWidgets.QVBoxLayout()
+        self.layout.addWidget(self.risk)
+        self.layout.addWidget(self.objects)
+        self.layout.addWidget(self.incs)
+        self.layout.addWidget(self.display_button)
+        wid.setLayout(self.layout)
 
         self.show()
 
@@ -225,19 +227,24 @@ class DetailWindow(QMainWindow):
 class ImageWindow(QMainWindow):
     def __init__(self):
         super(ImageWindow, self).__init__()
-        self.scale = 0.9
-        self.setFixedSize(1243*self.scale, 896*self.scale)
+        self.setWindowTitle("Drzewo decyzyjne")
+        self.scale = 1
+        self.setFixedSize(1243 * self.scale, 896 * self.scale)
         self.set_image("../images/tree.png")
         self.show()
 
+        # PONIŻEJ WYŚRODKOWANIE OKNA
+        qtRectangle = self.frameGeometry()
+        centerPoint = QDesktopWidget().availableGeometry().center()
+        qtRectangle.moveCenter(centerPoint)
+        self.move(qtRectangle.topLeft())
+
     def set_image(self, img_path):
         oimage = QImage(img_path)
-        simage = oimage.scaled(oimage.size()*self.scale)
+        simage = oimage.scaled(oimage.size() * self.scale)
         palette = QPalette()
         palette.setBrush(QPalette.Window, QBrush(simage))
         self.setPalette(palette)
-
-
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
