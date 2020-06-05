@@ -28,12 +28,14 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         self.setWindowTitle("LaVaLanche")
         # self.set_image("..\\images\\tlo.png")
         self.set_image(parent_path + "/images/tlo.png")
+
+        # ustalamy jakie są cechy
+        self.get_features_names(parent_path + "/data/artif_data.txt")
+
         self.draw_map_link_buttons()
 
         # obiekty topograficzne znajdujące się na poszczególnych obszarach (okno szczegółowe)
         self.get_topo_objects(parent_path + "/data/obiekty_scraped.txt")
-
-        # TUTAJ OKREŚLAMY RYZYKO PRZY POMOCY MODUŁU merge_predict
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
         qtRectangle = self.frameGeometry()
@@ -55,6 +57,10 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
             elif len(self.topo_objects[l[0]]) <= 7: # wystarczy 7 nazw obiektów, czasami jest dużo więcej
                 self.topo_objects[l[0]].append(l[1])
 
+    def get_features_names(self, features_names_path):
+        f = open(features_names_path, 'r', encoding = "utf-8")
+        self.features_names = f.readline().split(',')
+
     def set_image(self, img_path):
         oimage = QImage(img_path)
         simage = oimage.scaled(QSize(1506, 908))
@@ -69,7 +75,7 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         with open(parent_path + "/data/button_coords.txt") as buttonmap:
 
             records = add_weather(add_season(load_topo_data()), overall_weather_analysis())
-            records = get_risks(records)
+            risks = get_risks(records)
             nazwy_map = open(parent_path + "/data/maps_sequence.txt")
 
             for line in buttonmap:
@@ -79,24 +85,26 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
                     for i in range(0, 2):
                         coords[i] = int(coords[i])
                     button = QPushButton(self)
-                    risk_level = records[mapa.rstrip()]
+                    risk_level = risks[mapa.rstrip()]
                     self.risk_color(risk_level, button)
                     button.setGeometry(coords[0], coords[1], button_width, button_height)
-                    button.clicked.connect(lambda checked, arg=mapa: self.show_details(arg))
+                    button.clicked.connect(lambda checked, arg1 = mapa, arg2 = risk_level,
+                    arg3 = records[mapa.rstrip()], arg4 = self.features_names
+                                : self.show_details(arg1, arg2, arg3, arg4))
                 else:
                     if "M-34-101-A-b-3-1-1" in nazwy_map.readline():
                         draw = True
 
     def risk_color(self, risk_level, button):
-        if 'brak' in risk_level:
+        if "brak" in risk_level:
             button.setStyleSheet("QPushButton{background:rgba(76, 175, 80, 0.25)}")
-        elif 'niskie/umiarkowane' in risk_level:
+        elif "niskie/umiarkowane" in risk_level:
             button.setStyleSheet("QPushButton{background:rgba(255, 255, 0, 0.25)}")
-        elif 'wysokie' in risk_level:
+        elif "wysokie" in risk_level:
             button.setStyleSheet("QPushButton{background:rgba(255, 0, 0, 0.25)}")
 
-    def show_details(self, map_name):
-        details = DetailWindow(map_name, self.topo_objects[map_name[ : -1]]) # -1 z powodu znaku końca linii
+    def show_details(self, map_name, risk_level, features, features_names):
+        details = DetailWindow(map_name, self.topo_objects[map_name.rstrip()], risk_level, features, features_names)
         self.dialogs.append(details)
         details.show()
 
@@ -162,11 +170,11 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
 
 
 class DetailWindow(QMainWindow):
-    def __init__(self, map_name, topo_objects):
+    def __init__(self, map_name, topo_objects, risk_level, features, features_names):
         super(DetailWindow, self).__init__()
         # self.setGeometry(100, 100, 450, 300)
-        self.setFixedSize(700, 200)
-        self.setWindowTitle("Detail Window of " + map_name.rstrip())
+        self.setFixedSize(700, 400)
+        self.setWindowTitle("Szczegóły dla obszaru " + map_name.rstrip())
 
         # MUSI BYĆ WIDGET, ŻEBY DZIAŁAŁ LAYOUT
         wid = QtWidgets.QWidget(self)
@@ -182,19 +190,24 @@ class DetailWindow(QMainWindow):
         # wypisz obiekty znajdujące się na obszarze
 
         self.objects = QLabel(self)
-        self.objects.setText("Obiekty: \n" + ''.join(topo_objects))
+        self.objects.setText("Obiekty topograficzne: \n" + ''.join(topo_objects))
 
-        self.objects2 = QLabel(self)
-        self.objects2.setText("Obiekty: \n" + ''.join(topo_objects))
+        inc_features = [feature for index, feature in enumerate(features_names) if features[index] == "True"]
+        self.incs = QLabel(self)
+        self.incs.setText("Cechy INC: \n" + '\n'.join(inc_features))
 
         self.risk = QLabel(self)
-        self.risk.setText("Ryzyko: niskie/umiarkowane")
+        self.risk.setText("Ryzyko: " + risk_level + '\n')
+
+        self.display_button = QPushButton(self)
+        self.display_button.setText("Wyświetl drzewo decyzyjne")
 
         # POŁOŻENIE ELEMENTÓW
         self.gridLayout = QtWidgets.QGridLayout()
-        self.gridLayout.addWidget(self.risk, 0, 1)
+        self.gridLayout.addWidget(self.risk, 0, 0)
+        self.gridLayout.addWidget(self.display_button, 0, 1)
         self.gridLayout.addWidget(self.objects, 1, 0)
-        self.gridLayout.addWidget(self.objects2, 1, 2)
+        self.gridLayout.addWidget(self.incs, 1, 1)
         self.gridLayout.setVerticalSpacing(2)
         wid.setLayout(self.gridLayout)
 
