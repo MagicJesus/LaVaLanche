@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.6)  6 JUN 2020 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.6)  6 JUN 2020 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,6 +449,9 @@ Package: amsthm 2020/05/29 v2.20.6
 \WF@everypar=\toks34
 Package: wrapfig 2003/01/31  v 3.6
 )
+(c:/texlive/2020/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
 (c:/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
@@ -807,7 +810,7 @@ Package: threeparttable 2003/06/13  v 3.0
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                'urldate=iso' requires 'seconds=true'.
-(biblatex)                Setting 'seconds=true' on input line 149.
+(biblatex)                Setting 'seconds=true' on input line 150.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -817,24 +820,24 @@ Package csquotes Info: Redefining alias 'default' -> 'polish'.
 LaTeX Warning: Unused global option(s):
     [11pt].
 
-(./praca.aux (./rozdzial1.aux) (./rozdzial2.aux) (./rozdzial3.aux)
-(./rozdzial4.aux))
+(./praca.aux (./rozdzial2.aux) (./rozdzial3.aux) (./rozdzial4.aux)
+(./rozdzial5.aux))
 \openout1 = `praca.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
 
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -916,9 +919,20 @@ Dictionary: translator-basic-dictionary, Language: English
 (c:/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
+LaTeX Info: Redefining \celsius on input line 150.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 150
+.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 150.
+Package gensymb Info: Using \Omega for \ohm on input line 150.
+
+Package gensymb Warning: Not defining \micro.
+
 Package biblatex Info: Trying to load language 'polish'...
 Package biblatex Info: ... file 'polish.lbx' found.
-
 (c:/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/polish.lbx
 File: polish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
@@ -944,15 +958,15 @@ Package biblatex Warning: File 'praca.bbl' is wrong format version - expected 3
 
 Package biblatex Info: ... file 'praca.bbl' found.
 (./praca.bbl)
-Package biblatex Info: Reference section=0 on input line 149.
-Package biblatex Info: Reference segment=0 on input line 149.
+Package biblatex Info: Reference section=0 on input line 150.
+Package biblatex Info: Reference segment=0 on input line 150.
 \c@lstlisting=\count446
-LaTeX Font Info:    Trying to load font information for U+msa on input line 149
+LaTeX Font Info:    Trying to load font information for U+msa on input line 150
 .
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 149
+LaTeX Font Info:    Trying to load font information for U+msb on input line 150
 .
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -961,18 +975,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <agh.jpg, id=1, 146.4672pt x 284.7438pt>
 File: agh.jpg Graphic file (type jpg)
 <use agh.jpg>
-Package pdftex.def Info: agh.jpg  used on input line 151.
+Package pdftex.def Info: agh.jpg  used on input line 152.
 (pdftex.def)             Requested size: 87.88098pt x 170.8476pt.
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 15
-1.
+2.
 
 (c:/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 151.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 151.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 152.
  (./praca.toc [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./agh.jpg>])
@@ -980,53 +994,25 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 \openout4 = `praca.toc'.
 
  [2]
-\openout2 = `rozdzial1.aux'.
-
-
-(./rozdzial1.tex
-Rozdzia\l  1.
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 5.
-
-(c:/texlive/2020/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-
- []
-
-[3
-
-
-
-]) [4]
 \openout2 = `rozdzial2.aux'.
 
- (./rozdzial2.tex
-Rozdzia\l  2.
+
+(./rozdzial2.tex
+Rozdzia\l  1.
 
 Underfull \vbox (badness 2478) has occurred while \output is active []
 
- [5
+ [3
 
 
 
 ])
-[6]
+[4]
 \openout2 = `rozdzial3.aux'.
 
  (./rozdzial3.tex
-Rozdzia\l  3.
-<las_example.png, id=33, 380.42125pt x 273.02pt>
+Rozdzia\l  2.
+<las_example.png, id=24, 380.42125pt x 273.02pt>
 File: las_example.png Graphic file (type png)
 <use las_example.png>
 Package pdftex.def Info: las_example.png  used on input line 16.
@@ -1034,32 +1020,29 @@ Package pdftex.def Info: las_example.png  used on input line 16.
 
 Underfull \vbox (badness 5985) has occurred while \output is active []
 
- [7
+ [5
 
 
 
  <./las_example.png>]
-<no_delaunay.png, id=40, 382.42876pt x 254.9525pt>
+<no_delaunay.png, id=30, 382.42876pt x 254.9525pt>
 File: no_delaunay.png Graphic file (type png)
 <use no_delaunay.png>
-Package pdftex.def Info: no_delaunay.png  used on input line 42.
+Package pdftex.def Info: no_delaunay.png  used on input line 41.
 (pdftex.def)             Requested size: 136.57462pt x 91.04756pt.
-<delaunay.png, id=41, 704.6325pt x 508.90125pt>
+<delaunay.png, id=31, 704.6325pt x 508.90125pt>
 File: delaunay.png Graphic file (type png)
 <use delaunay.png>
-Package pdftex.def Info: delaunay.png  used on input line 48.
+Package pdftex.def Info: delaunay.png  used on input line 47.
 (pdftex.def)             Requested size: 136.57462pt x 98.63353pt.
- [8 <./no_delaunay.png> <./delaunay.png>]) [9]
+ [6 <./no_delaunay.png> <./delaunay.png>] [7
+
+]) [8]
 \openout2 = `rozdzial4.aux'.
 
  (./rozdzial4.tex
-[10
-
-
-
-]
-Rozdzia\l  4.
-<PyCharm_Logo.png, id=53, 1204.5pt x 1204.5pt>
+Rozdzia\l  3.
+<PyCharm_Logo.png, id=45, 1204.5pt x 1204.5pt>
 File: PyCharm_Logo.png Graphic file (type png)
 <use PyCharm_Logo.png>
 Package pdftex.def Info: PyCharm_Logo.png  used on input line 17.
@@ -1069,17 +1052,27 @@ Underfull \hbox (badness 1360) in paragraph at lines 22--23
 [][]\T1/ptm/m/n/10.95 Wykorzystano \T1/ptm/b/n/10.95 Py-Charm Com-mu-nity
  []
 
-[11 <./PyCharm_Logo.png>]
-<gcp_logo.png, id=58, 863.225pt x 527.9725pt>
+[9
+
+
+
+ <./PyCharm_Logo.png>]
+<gcp_logo.png, id=50, 863.225pt x 527.9725pt>
 File: gcp_logo.png Graphic file (type png)
 <use gcp_logo.png>
 Package pdftex.def Info: gcp_logo.png  used on input line 45.
 (pdftex.def)             Requested size: 113.81102pt x 69.60558pt.
- [12
+ [10
 
  <./gcp_logo.png>]
 (c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 52
+.
+
+(c:/texlive/2020/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9> not available
 (Font)              Font shape `T1/pcr/m/sl' tried instead on input line 55.
@@ -1093,7 +1086,7 @@ Overfull \hbox (19.96072pt too wide) in paragraph at lines 83--84
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[13
+[11
 
 ]
 Overfull \hbox (57.21527pt too wide) in paragraph at lines 103--103
@@ -1113,13 +1106,22 @@ Overfull \hbox (63.78526pt too wide) in paragraph at lines 103--103
 eather_conditions.py
  []
 
-) [14
+) [12
 
-] [15
+]
+\openout2 = `rozdzial5.aux'.
+
+ (./rozdzial5.tex
+Rozdzia\l  4.
+) [13
 
 
-] (./praca.aux (./rozdzial1.aux) (./rozdzial2.aux) (./rozdzial3.aux)
-(./rozdzial4.aux))
+
+] [14
+
+
+] [15] (./praca.aux (./rozdzial2.aux) (./rozdzial3.aux)
+(./rozdzial4.aux) (./rozdzial5.aux))
 Package logreq Info: Writing requests to 'praca.run.xml'.
 \openout1 = `praca.run.xml'.
 
@@ -1129,29 +1131,28 @@ Package logreq Info: Writing requests to 'praca.run.xml'.
 ### semi simple group (level 1) entered at line 41 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 19836 strings out of 480478
- 361336 string characters out of 5903486
- 1009775 words of memory out of 5000000
- 35505 multiletter control sequences out of 15000+600000
- 614344 words of font info for 126 fonts, out of 8000000 for 9000
+ 19808 strings out of 480478
+ 360932 string characters out of 5903486
+ 1010731 words of memory out of 5000000
+ 35485 multiletter control sequences out of 15000+600000
+ 601949 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,24n,54p,1130b,3355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,50p,1130b,2839s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/typ
-e1/urw/courier/ucrb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/courier/u
-crr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb><c:/t
-exlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2020/tex
-mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2020/texmf-dist/fonts/t
-ype1/urw/helvetic/uhvro8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times
-/utmb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/te
-xlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2020/texmf-d
-ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on praca.pdf (15 pages, 479205 bytes).
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/
+fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/
+courier/ucrr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/courier/ucrro8a.
+pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive
+/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2020/texmf-dis
+t/fonts/type1/urw/helvetic/uhvro8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/202
+0/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on praca.pdf (15 pages, 467388 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

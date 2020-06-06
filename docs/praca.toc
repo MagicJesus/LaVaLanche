@@ -1,29 +1,33 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {polish}{}
-\contentsline {chapter}{\numberline {1}Przykłady elementów pracy dyplomowej}{3}%
-\contentsline {section}{\numberline {1.1}Liczba}{3}%
-\contentsline {section}{\numberline {1.2}Rysunek}{3}%
-\contentsline {section}{\numberline {1.3}Tabela}{3}%
-\contentsline {section}{\numberline {1.4}Wzory matematyczne}{4}%
-\contentsline {chapter}{\numberline {2}Wprowadzenie}{5}%
-\contentsline {section}{\numberline {2.1}Cel}{5}%
-\contentsline {section}{\numberline {2.2}Opis problemu}{5}%
-\contentsline {section}{\numberline {2.3}Możliwe rozwiązanie}{5}%
-\contentsline {chapter}{\numberline {3}Stworzony model zjawiska}{7}%
-\contentsline {section}{\numberline {3.1}Opracowanie danych topograficznych}{7}%
-\contentsline {subsection}{\numberline {3.1.1}Format .las}{7}%
-\contentsline {subsection}{\numberline {3.1.2}Wybór cech}{8}%
-\contentsline {subsection}{\numberline {3.1.3}Triangulacja Delaunaya}{8}%
-\contentsline {section}{\numberline {3.2}Opracowanie danych pogodowych}{9}%
-\contentsline {section}{\numberline {3.3}Narzędzia}{9}%
-\contentsline {section}{\numberline {3.4}Przygotowanie dokumentu}{9}%
-\contentsline {chapter}{\numberline {4}Symulacja zjawiska - implementacja i szczegóły techniczne}{11}%
-\contentsline {section}{\numberline {4.1}Wybór języka programowania}{11}%
-\contentsline {section}{\numberline {4.2}Narzędzia wykorzystywane w trakcie tworzenia projektu}{11}%
-\contentsline {subsection}{\numberline {4.2.1}Środowisko programowania}{11}%
-\contentsline {subsection}{\numberline {4.2.2}Wybrane biblioteki zewnętrzne języka Python}{12}%
-\contentsline {subsection}{\numberline {4.2.3}Usługi chmurowe Google Cloud Platform i dane pogodowe}{12}%
-\contentsline {subsubsection}{\numberline {4.2.3.1}Harmonogram pobrania danych}{14}%
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{3}%
+\contentsline {section}{\numberline {1.1}Cel}{3}%
+\contentsline {section}{\numberline {1.2}Opis problemu}{3}%
+\contentsline {section}{\numberline {1.3}Możliwe rozwiązanie}{3}%
+\contentsline {chapter}{\numberline {2}Stworzony model zjawiska}{5}%
+\contentsline {section}{\numberline {2.1}Opracowanie danych topograficznych}{5}%
+\contentsline {subsection}{\numberline {2.1.1}Format .las}{5}%
+\contentsline {subsection}{\numberline {2.1.2}Wybór cech}{6}%
+\contentsline {subsection}{\numberline {2.1.3}Triangulacja Delaunaya}{6}%
+\contentsline {section}{\numberline {2.2}Opracowanie danych pogodowych}{7}%
+\contentsline {subsection}{\numberline {2.2.1}Progi pogodowe}{7}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Grubość pokrywy śnieżnej}{7}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Zmiany temperatury}{7}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}Opad deszczu}{7}%
+\contentsline {subsubsection}{\numberline {2.2.1.4}Prędkość wiatru}{7}%
+\contentsline {subsection}{\numberline {2.2.2}Pobieranie danych pogodowych}{8}%
+\contentsline {section}{\numberline {2.3}Narzędzia}{8}%
+\contentsline {section}{\numberline {2.4}Przygotowanie dokumentu}{8}%
+\contentsline {chapter}{\numberline {3}Symulacja zjawiska - implementacja i szczegóły techniczne}{9}%
+\contentsline {section}{\numberline {3.1}Wybór języka programowania}{9}%
+\contentsline {section}{\numberline {3.2}Narzędzia wykorzystywane w trakcie tworzenia projektu}{9}%
+\contentsline {subsection}{\numberline {3.2.1}Środowisko programowania}{9}%
+\contentsline {subsection}{\numberline {3.2.2}Wybrane biblioteki zewnętrzne języka Python}{10}%
+\contentsline {subsection}{\numberline {3.2.3}Usługi chmurowe Google Cloud Platform i dane pogodowe}{10}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Harmonogram pobrania danych}{12}%
+\contentsline {chapter}{\numberline {4}DuPadUpAdUPa czyli krócej GUI SRUI komutopoczebne?}{13}%
+\contentsline {section}{\numberline {4.1}gruboczłowieku}{13}%
+\contentsline {section}{\numberline {4.2}Liwko Liwko skocz po piwko}{13}%
 \babel@toc {polish}{}
 \babel@toc {polish}{}
 \babel@toc {polish}{}

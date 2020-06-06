@@ -10,7 +10,7 @@ Na początkowym etapie pracy otrzymano pliki w formacie .las - każdy z nich rep
 
 Format .las został stworzony do przechowywania zbioru punktów w przestrzeni trójwymiarowej (ang. point cloud), otrzymanych przy pomocy metody Lidar, która polega na oświetlaniu wybranych punktów na powierzchni Ziemi laserem i zapisie jego odbicia przy pomocy sensorów. Dzięki tej metodzie powstają mapy o wysokiej rozdzielczości, stosowane w naukach o Ziemi (źródło: angielska wiki). 
 
-Otrzymane pliki zawierały średnio około 11 milionów punktów, przy czym każdy z nich reprezentował powierzchnię ponad 2 km$^2$.
+Otrzymane pliki zawierały średnio około 11 milionów punktów, przy czym każdy z nich reprezentował powierzchnię około 4 km$^2$.
 
 \begin{figure}[h]
 	\includegraphics[width=8cm]{las_example}
@@ -33,7 +33,6 @@ Sam zbiór punktów nie oferuje możliwości łatwego obliczania wyżej wymienio
 
 Jest to algorytm, który na podstawie zbioru punktów tworzy zbiór trójkątów, gdzie wierzchołki każdego trójkąta stanowią owe punkty. Własnością algorytmu jest, że maksymalizuje on najmniejsze z katów w powstałych trójkątach, unikając tzw. sliver triangles.
 
-TE ZDJĘCIA POWINNY BYĆ DALEJ.
 
 \begin{figure}[h]
 	\centering
@@ -50,34 +49,8 @@ TE ZDJĘCIA POWINNY BYĆ DALEJ.
 		\label{fig:test2}
 	\end{minipage}
 \end{figure}
-
-Plik \LaTeX owy jest plikiem tekstowym, który oprócz tekstu zawiera polecenia formatujące ten tekst (analogicznie do języka HTML). Plik składa się z dwóch części:
-\begin{enumerate}%[1)]
-\item Preambuły -- określającej klasę dokumentu oraz zawierającej m.in. polecenia dołączającej dodatkowe pakiety;
-
-\item Części głównej -- zawierającej zasadniczą treść dokumentu.
-\end{enumerate}
-
-
-\begin{lstlisting}
-\documentclass[a4paper,12pt]{article}      % preambuła
-\usepackage[polish]{babel}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{times}
-
-\begin{document}                           % część główna
-
-\section{Sztuczne życie}
-
-% treść
-% ąśężźćńłóĘŚĄŻŹĆŃÓŁ
-
-\end{document}
-\end{lstlisting}
-
-Nie ma żadnych przeciwskazań do tworzenia dokumentów w~\LaTeX u w~języku polskim. Plik źródłowy jest zwykłym plikiem tekstowym i~do jego przygotowania można użyć dowolnego edytora tekstów, a~polskie znaki wprowadzać używając prawego klawisza \texttt{Alt}. Jeżeli po kompilacji dokumentu polskie znaki nie są wyświetlane poprawnie, to na 95\% źle określono sposób kodowania znaków (należy zmienić opcje wykorzystywanych pakietów).
-
+Tutaj możesz dodać potem jak dokładniej policzyłeś ostatenie te nachylenia, bo szczerze mówiąc nie zaglądałem do tego jakoś szczegółowo xD
+\clearpage
 
 %---------------------------------------------------------------------------
 
@@ -85,7 +58,28 @@ Nie ma żadnych przeciwskazań do tworzenia dokumentów w~\LaTeX u w~języku pol
 \label{sec:kompilacja}
 
 
-Dane pogodowe potrzebne do symulacji zagrożenia 
+Dane pogodowe są kolejnymi kluczowymi danymi potrzebnymi do przewidzenia wystąpienia lawiny na danym obszarze. Wyodrębnione zostały 4 najważniejsze cechy wpływające na występowanie lawiny.
+\begin{enumerate}
+	\item Grubość pokrywy śnieżnej
+	\item Zmiany temperatury
+	\item Opad deszczu
+	\item Prędkość wiatru
+\end{enumerate}
+\subsection{Progi pogodowe}
+Na podstawie słowackiej strony \url{http://www.laviny.sk} przyjęliśmy następujące progi dla poszczególnych cech.
+\subsubsection{Grubość pokrywy śnieżnej}
+Dolny próg wysokości pokrywy śnieżnej niezbędnej do wystąpienia lawiny obraliśmy jako 20 centymetrów. Ze względu na bardzo ograniczone dane o zalegającej pokrywie śnieżnej na chwilę obecną te cechę jako spełnioną uznajemy w momencie, gdy w ostatnich 48 godzinach opad śniegu przekroczył próg 200mm.
+\subsubsection{Zmiany temperatury}
+Temperatura, zwłaszcza w okresie wczesnej lub późnej zimy, często ulega zmianom w okolicach 0\degree C.
+Pokrywa śnieżna może nadtopnieć w dodatniej temperaturze i następnie zamarznąć, tworząc śliską warstwę która, kiedy ma na sobie warstwę śniegu, może w wysokim stopniu sprzyjać osunięciu się pokrywy i spowodowaniu lawiny. Z tego powodu przyjmujemy iż kiedy w ciągu ostatnich 48 godzin temperatura ulegnie zmianie z ujemnej na dodatnią, i do tego średnia temperatura jest powyżej zera, uznajemy tą cechę jako zwiąkszającą zagrożenie lawiną.
+\subsubsection{Opad deszczu}
+Nie ma podanych konkretnych wartości co do opadów deszczu, jedynym punktem odniesienia jest to iż opad musi być intensywny żeby przyczynił sie do powstania lawiny. Z tego powodu przyjęliśmy iż jeżeli w ciągu ostatnich 48 godzin wystąpił opad o minimalnej intensywności 10mm/h to ta cecha jest uznawana za spełnioną.
+\subsubsection{Prędkość wiatru}
+Jeżeli w ciągu ostatnich 48 godzin wystąpił wiatr o minimalnej prędkości 13m/s to tą cechę uznajemy jako zwiększającą zagrożenie lawiną.
+
+\subsection{Pobieranie danych pogodowych}
+Do pobrania danych pogodowych skorzystaliśmy z Open Weather Map API umożliwiającego łatwe i szybkie pobranie danych pogodowych.
+
 
 
 
