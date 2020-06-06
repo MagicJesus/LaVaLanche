@@ -1,0 +1,105 @@
+\chapter{Symulacja zjawiska - implementacja i szczegóły techniczne}
+
+\section{Wybór języka programowania}
+
+Językiem który postanowiliśmy wybrać do implementacji symulacji przedstawionego powyżej problemu wybrano język Python w wersji \textbf{3.7.x}.
+
+Ze względu na jego prostotę, wydajność i obszerny wybór bibliotek zewnętrznych wybraliśmy zamiast innych, również bardzo wydajnych ale bardziej skomplikowanych języków takich jak C++ czy Java.
+
+% \clearpage
+
+\section{Narzędzia wykorzystywane w trakcie tworzenia projektu}
+\begingroup
+\subsection{Środowisko programowania}
+\begin{wrapfigure}{L}{0.55\textwidth}
+
+	\centering
+	\includegraphics[width=0.25\textwidth]{PyCharm_Logo.png}
+	\caption{\label{fig:frog2}PyCharm Community 2019}
+
+\end{wrapfigure}
+
+Wykorzystano \textbf{PyCharm Community 2019.3}, rozbudowane, potężne i wyposażone w dużą ilość dodatkowych narzędzi środowisko stworzone do pracy z językiem Python. Dostępne jest w dwóch wersjach, Professional oraz Community będąca wersją open-source przez co idealnie nadała się do wykorzystania przy naszym projekcie.
+
+\endgroup
+\clearpage
+
+\subsection{Wybrane biblioteki zewnętrzne języka Python}
+Jak wspomniano wcześniej, Python jest bardzo popularnym językiem przez co posiada wiele bibliotek zewnętrznych.
+
+Do implementacji symulacji naszego problemu wykorzystaliśmy następujące biblioteki zewnętrzne:
+
+\begin{enumerate}
+	\item \textbf{PyQt5} - oferująca zestaw narzędzi do budowy graficznego interfejsu użytkownika
+	\item \textbf{pyowm} - oferująca zestaw narzędzi do eksploatacji API Open Weather Map
+	\item \textbf{laspy} - zestaw funkcji umożliwiająca wykonywanie wielu operacji na plikach .las
+	\item \textbf{paramiko} - moduł umożliwiający komunikację SSH z poziomu skryptu w Pythonie
+	\item \textbf{pyvista} - biblioteka zawierająca implementację algorytmu triangulacji Delaunaya
+\end{enumerate}
+
+\subsection{Usługi chmurowe Google Cloud Platform i dane pogodowe}
+\begingroup
+\begin{wrapfigure}{L}{0.45\textwidth}
+	
+	\centering
+	\includegraphics[width=0.25\textwidth]{gcp_logo.png}
+	
+\end{wrapfigure}
+Kluczowym, z punktu widzenia naszego projektu, okazało się znalezienie rozwiązania problemu ciągłej aktualizacji danych pogodowych. Z powodu iż dane muszą być nieustannie aktualizowane co 8 godzin, jedna z naszych maszyn roboczych musiałaby pracować bez przerwy. Nie jest to w żadnym stopniu rozwiązanie optymalne. Zdecydowaliśmy się skorzystać z darmowego okresu próbnego oferowanego na platformie \textbf{Google Cloud Platform}. Oferta Google zawarła w sobie możliwość stworzenia instancji maszyny wirtualnej operującej na systemie \textbf{Debian 10 Buster} co otworzyło nam drogę do rozwiązania problemu ciągłej aktualizacji danych pogodowych.
+\clearpage
+
+Dane pogodowe pobierane są co 8 godzin, o godzinach 00:00, 08:00 i 16:00 przy pomocy skryptu \textbf{weather\_conditions.py} który korzysta z biblioteki \textbf{pyowm}
+\begin{lstlisting}[language=Python]
+ weather_conditions.py
+ 
+ #!/usr/bin/python2.7
+ import pyowm
+ import os
+ import time
+ import tarfile
+ #ZMIENNA path REPREZENTUJE ODPOWIEDNIE ŚCIEŻKI DO PLIKÓW
+ def get_weather_conditions(map_name):
+ # UTWÓRZ ODPOWIEDNI FOLDER JEŻELI NIE ISTNIEJE
+ if os.path.isdir(path):
+ 	pass
+ else:
+ 	path = path
+ os.mkdir(path)
+ # WSPÓŁRZĘDNE ODPOWIEDNIEGO OBSZARU I CZAS POBRANIA DANYCH
+ coords = extract_coords(map_name)
+ czas_pomiaru = str(time.ctime()).split(" ")
+ # POBRANIE DANYCH POGODOWYCH
+ owm = pyowm.OWM("7202a85833f71127c0a0b4fefc86ea2a")
+ observation = owm.weather_around_coords(float(coords["N_lat"]), float(coords["W_long"]))
+ 
+ # USUWANIE NAJSTARSZEGO POMIARU I ZASTĄPIENIE GO NOWYM
+ data = os.listdir(path)
+ data.sort()
+ if len(data) >= 6:
+ 	os.remove(path)
+ # STWÓRZ PLIK ZAWIERAJĄCY AKTUALNE DANE POGODOWE
+ filename = str(observation[0].get_weather().get_reference_time('date'))[0:10]
+ data = open(path, "w+")
+ data.write(str(observation[0].get_weather().get_temperature('celsius')['temp']) + "\n")
+ data.write(str(observation[0].get_weather().get_snow()) + "\n")
+ data.write(str(observation[0].get_weather().get_wind('meters_sec')) + "\n")
+ data.write(str(observation[0].get_weather().get_rain()) + "\n")
+ 
+ with open(path) as file:
+ 	file.readline()
+ 	for line in file:
+ 		get_weather_conditions(line.rstrip()[0:16])
+ 
+\end{lstlisting}
+\clearpage
+\subsubsection{Harmonogram pobrania danych}
+Za odpowiedni czas pobrania danych odpowiada narzędzie uniksopodobnych systemów operacyjnych \textbf{cron}. Jest to realizowane za pomocą odpowietnich wpisów w pliku \textbf{crontab}
+\begin{verbatim}
+	0 6 * * * /usr/bin/python /home/marekjachym99/lavalanche/weather_conditions.py
+
+	0 14 * * * /usr/bin/python /home/marekjachym99/lavalanche/weather_conditions.py
+	
+	0 22 * * * /usr/bin/python /home/marekjachym99/lavalanche/weather_conditions.py	
+\end{verbatim}
+
+

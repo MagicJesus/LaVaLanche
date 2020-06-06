@@ -1,72 +1,122 @@
-\chapter{Przykłady elementów pracy dyplomowej}
+\chapter{Stworzony model zjawiska}
 
-\section{Liczba}
+Niniejszy rozdział opisuje szczegółowo kolejne kroki oraz wykorzystane algorytmy niezbędne do uzyskania efektu końcowego.
 
-Pakiet \texttt{siunitx} zadba o to, by liczba została poprawnie sformatowana: \\
-\begin{center}
-	\num{1234567890.0987654321}
-\end{center}
+%---------------------------------------------------------------------------
 
+\section{Opracowanie danych topograficznych}
+\subsection{Format .las}
+Na początkowym etapie pracy otrzymano pliki w formacie .las - każdy z nich reprezentujący ukształtowanie terenu wybranego obszaru. 
 
-\section{Rysunek}
+Format .las został stworzony do przechowywania zbioru punktów w przestrzeni trójwymiarowej (ang. point cloud), otrzymanych przy pomocy metody Lidar, która polega na oświetlaniu wybranych punktów na powierzchni Ziemi laserem i zapisie jego odbicia przy pomocy sensorów. Dzięki tej metodzie powstają mapy o wysokiej rozdzielczości, stosowane w naukach o Ziemi (źródło: angielska wiki). 
 
-Pakiet \texttt{subcaption} pozwala na umieszczanie w podpisie rysunku odnośników do ,,podilustracji'': \\
+Otrzymane pliki zawierały średnio około 11 milionów punktów, przy czym każdy z nich reprezentował powierzchnię ponad 2 km$^2$.
+
+\begin{figure}[h]
+	\includegraphics[width=8cm]{las_example}
+	\centering
+	\caption{Uproszczona wizualizacja zbioru punktów z pliku .las przy użyciu biblioteki matplotlib}
+\end{figure}
+
+\subsection{Wybór cech}
+Jak wspomniano już wcześniej, do oszacowania ryzyka lawinowego konieczne jest posiadanie danych dotyczących cech terenu. Bazując na pracy pani Izabeli Woszczak, skupiono się na obliczeniu taki cech, jak:
+\begin{itemize}
+	\item forma terenu (skupiono się na żlebach);
+	\item ekspozycja słoneczna;
+	\item nachylenie powierzchni;
+	\item piętro;
+	\item wysokość.
+\end{itemize}
+
+\subsection{Triangulacja Delaunaya}
+Sam zbiór punktów nie oferuje możliwości łatwego obliczania wyżej wymienionych cech, dlatego zastosowano uproszczenie powierzchni terenu przy pomocy triangulacji Delaunaya.
+
+Jest to algorytm, który na podstawie zbioru punktów tworzy zbiór trójkątów, gdzie wierzchołki każdego trójkąta stanowią owe punkty. Własnością algorytmu jest, że maksymalizuje on najmniejsze z katów w powstałych trójkątach, unikając tzw. sliver triangles.
+
+TE ZDJĘCIA POWINNY BYĆ DALEJ.
 
 \begin{figure}[h]
 	\centering
-	\begin{subfigure}{0.35\textwidth}
+	\begin{minipage}{.5\textwidth}
 		\centering
-		\framebox[2.0\width]{A}
-		\subcaption{\label{subfigure_a}}
-	\end{subfigure}
-	\begin{subfigure}{0.35\textwidth}
+		\includegraphics[width=.6\linewidth]{no_delaunay}
+		\captionof{figure}{Obszar przedstawiony jako zbiór punktów}
+		\label{fig:test1}
+	\end{minipage}%
+	\begin{minipage}{.5\textwidth}
 		\centering
-		\framebox[2.0\width]{B}
-		\subcaption{\label{subfigure_b}}
-	\end{subfigure}
-	
-	\caption{\label{fig:subcaption_example}Przykład użycia \texttt{\textbackslash subcaption}: \protect\subref{subfigure_a} litera A, \protect\subref{subfigure_b} litera B.}
+		\includegraphics[width=.6\linewidth]{delaunay}
+		\captionof{figure}{Ten samo obszar poddany triangulacji}
+		\label{fig:test2}
+	\end{minipage}
 \end{figure}
 
-\section{Tabela}
+Plik \LaTeX owy jest plikiem tekstowym, który oprócz tekstu zawiera polecenia formatujące ten tekst (analogicznie do języka HTML). Plik składa się z dwóch części:
+\begin{enumerate}%[1)]
+\item Preambuły -- określającej klasę dokumentu oraz zawierającej m.in. polecenia dołączającej dodatkowe pakiety;
 
-Pakiet \texttt{threeparttable} umożliwia dodanie do tabeli adnotacji: \\
+\item Części głównej -- zawierającej zasadniczą treść dokumentu.
+\end{enumerate}
 
-\begin{table}[h]
-	\centering
-	
-	\begin{threeparttable}
-		\caption{Przykład tabeli}
-		\label{tab:table_example}
-		
-		\begin{tabularx}{0.6\textwidth}{C{1}}
-			\toprule
-			\thead{Nagłówek\tnote{a}} \\
-			\midrule
-			Tekst 1 \\
-			Tekst 2 \\
-			\bottomrule
-		\end{tabularx}
-		
-		\begin{tablenotes}
-			\footnotesize
-			\item[a] Jakiś komentarz\textellipsis
-		\end{tablenotes}
-		
-	\end{threeparttable}
-\end{table}
 
-\section{Wzory matematyczne}
+\begin{lstlisting}
+\documentclass[a4paper,12pt]{article}      % preambuła
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{times}
 
-Czasem zachodzi potrzeba wytłumaczenia znaczenia symboli użytych w równaniu. Można to zrobić z użyciem zdefiniowanego na potrzeby niniejszej klasy środowiska \texttt{eqwhere}.
+\begin{document}                           % część główna
 
-\begin{equation}
-E = mc^2
-\end{equation}
-gdzie
-\begin{eqwhere}[2cm]
-	\item[$m$] masa
-	\item[$c$] prędkość światła w próżni
-\end{eqwhere}
+\section{Sztuczne życie}
 
-Odległość półpauzy od lewego marginesu należy dobrać pod kątem najdłuższego symbolu (bądź listy symboli) poprzez odpowiednie ustawienie parametru tego środowiska (domyślnie: 2 cm).
+% treść
+% ąśężźćńłóĘŚĄŻŹĆŃÓŁ
+
+\end{document}
+\end{lstlisting}
+
+Nie ma żadnych przeciwskazań do tworzenia dokumentów w~\LaTeX u w~języku polskim. Plik źródłowy jest zwykłym plikiem tekstowym i~do jego przygotowania można użyć dowolnego edytora tekstów, a~polskie znaki wprowadzać używając prawego klawisza \texttt{Alt}. Jeżeli po kompilacji dokumentu polskie znaki nie są wyświetlane poprawnie, to na 95\% źle określono sposób kodowania znaków (należy zmienić opcje wykorzystywanych pakietów).
+
+
+%---------------------------------------------------------------------------
+
+\section{Opracowanie danych pogodowych}
+\label{sec:kompilacja}
+
+
+Dane pogodowe potrzebne do symulacji zagrożenia 
+
+
+
+%---------------------------------------------------------------------------
+
+\section{Narzędzia}
+\label{sec:narzedzia}
+
+
+%---------------------------------------------------------------------------
+
+\section{Przygotowanie dokumentu}
+\label{sec:przygotowanieDokumentu}
+
+Plik źródłowy \LaTeX a jest zwykłym plikiem tekstowym. Przygotowując plik
+źródłowy warto wiedzieć o kilku szczegółach:
+
+\begin{itemize}
+\item
+Poszczególne słowa oddzielamy spacjami, przy czym ilość spacji nie ma znaczenia.
+Po kompilacji wielokrotne spacje i tak będą wyglądały jak pojedyncza spacja.
+Aby uzyskać {\em twardą spację}, zamiast znaku spacji należy użyć znaku {\em
+tyldy}.
+
+\item
+Znakiem końca akapitu jest pusta linia (ilość pusty linii nie ma znaczenia), a
+nie znaki przejścia do nowej linii.
+
+\item
+\LaTeX~sam formatuje tekst. \textbf{Nie starajmy się go poprawiać}, chyba, że
+naprawdę wiemy co robimy.
+\end{itemize} 
+
+

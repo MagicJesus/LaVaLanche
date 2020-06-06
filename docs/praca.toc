@@ -1,26 +1,29 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {polish}{}
-\contentsline {chapter}{\numberline {1}Przyk\IeC {\l }ady element\IeC {\'o}w pracy dyplomowej}{3}
-\contentsline {section}{\numberline {1.1}Liczba}{3}
-\contentsline {section}{\numberline {1.2}Rysunek}{3}
-\contentsline {section}{\numberline {1.3}Tabela}{3}
-\contentsline {section}{\numberline {1.4}Wzory matematyczne}{4}
-\contentsline {chapter}{\numberline {2}Wprowadzenie}{5}
-\contentsline {section}{\numberline {2.1}Cel}{5}
-\contentsline {section}{\numberline {2.2}Opis problemu}{5}
-\contentsline {section}{\numberline {2.3}Mo\IeC {\.z}liwe rozwi\IeC {\k a}zanie}{5}
-\contentsline {chapter}{\numberline {3}Stworzony model zjawiska}{7}
-\contentsline {section}{\numberline {3.1}Opracowanie danych topograficznych}{7}
-\contentsline {subsection}{\numberline {3.1.1}Format .las}{7}
-\contentsline {subsection}{\numberline {3.1.2}Wyb\IeC {\'o}r cech}{8}
-\contentsline {subsection}{\numberline {3.1.3}Triangulacja Delaunaya}{8}
-\contentsline {section}{\numberline {3.2}Kompilacja}{9}
-\contentsline {section}{\numberline {3.3}Narz\IeC {\k e}dzia}{9}
-\contentsline {section}{\numberline {3.4}Przygotowanie dokumentu}{10}
-\contentsline {chapter}{\numberline {4}Testy}{13}
-\contentsline {section}{\numberline {4.1}Test URL-a}{13}
-\contentsline {section}{\numberline {4.2}Test dzielenia wd\IeC {\'o}w}{14}
-\contentsline {subsection}{\numberline {4.2.1}Lorem ipsum}{15}
+\contentsline {chapter}{\numberline {1}Przykłady elementów pracy dyplomowej}{3}%
+\contentsline {section}{\numberline {1.1}Liczba}{3}%
+\contentsline {section}{\numberline {1.2}Rysunek}{3}%
+\contentsline {section}{\numberline {1.3}Tabela}{3}%
+\contentsline {section}{\numberline {1.4}Wzory matematyczne}{4}%
+\contentsline {chapter}{\numberline {2}Wprowadzenie}{5}%
+\contentsline {section}{\numberline {2.1}Cel}{5}%
+\contentsline {section}{\numberline {2.2}Opis problemu}{5}%
+\contentsline {section}{\numberline {2.3}Możliwe rozwiązanie}{5}%
+\contentsline {chapter}{\numberline {3}Stworzony model zjawiska}{7}%
+\contentsline {section}{\numberline {3.1}Opracowanie danych topograficznych}{7}%
+\contentsline {subsection}{\numberline {3.1.1}Format .las}{7}%
+\contentsline {subsection}{\numberline {3.1.2}Wybór cech}{8}%
+\contentsline {subsection}{\numberline {3.1.3}Triangulacja Delaunaya}{8}%
+\contentsline {section}{\numberline {3.2}Opracowanie danych pogodowych}{9}%
+\contentsline {section}{\numberline {3.3}Narzędzia}{9}%
+\contentsline {section}{\numberline {3.4}Przygotowanie dokumentu}{9}%
+\contentsline {chapter}{\numberline {4}Symulacja zjawiska - implementacja i szczegóły techniczne}{11}%
+\contentsline {section}{\numberline {4.1}Wybór języka programowania}{11}%
+\contentsline {section}{\numberline {4.2}Narzędzia wykorzystywane w trakcie tworzenia projektu}{11}%
+\contentsline {subsection}{\numberline {4.2.1}Środowisko programowania}{11}%
+\contentsline {subsection}{\numberline {4.2.2}Wybrane biblioteki zewnętrzne języka Python}{12}%
+\contentsline {subsection}{\numberline {4.2.3}Usługi chmurowe Google Cloud Platform i dane pogodowe}{12}%
+\contentsline {subsubsection}{\numberline {4.2.3.1}Harmonogram pobrania danych}{14}%
 \babel@toc {polish}{}
 \babel@toc {polish}{}
 \babel@toc {polish}{}
