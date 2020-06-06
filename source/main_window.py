@@ -157,7 +157,7 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         self.label2.setGeometry(10, 430, 300, 20)
 
     def show_map(self):  # funkcja wołająca się gdy przyciskamy przycisk "POKAZ MAPE ZAGROZEN"
-        self.closeEvent()
+        self.hide()
         mapa = MapWindow()  # tworzenie instancji klasy MapWindow()
         self.dialogs.append(mapa)  # dodanie okna z mapą do dialogów głównego okna MainWindow
         mapa.show()
@@ -178,7 +178,13 @@ class DetailWindow(QMainWindow):
 
         self.dialogs = []
 
-
+        if 'brak' in risk_level:
+            self.setStyleSheet("DetailWindow{background:rgba(76, 175, 80, 0.5)}")
+        elif "niskie/umiarkowane" in risk_level:
+            self.setStyleSheet("QPushButton{background:rgba(255, 255, 0, 0.5)}")
+        elif "wysokie" in risk_level:
+            self.setStyleSheet("QPushButton{background:rgba(255, 0, 0, 0.5)}")
+            
         # MUSI BYĆ WIDGET, ŻEBY DZIAŁAŁ LAYOUT
         wid = QtWidgets.QWidget(self)
         self.setCentralWidget(wid)
