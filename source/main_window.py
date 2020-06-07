@@ -132,7 +132,7 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
 
     def draw_buttons(self):
         self.show_map_button = QPushButton(self)
-        self.show_map_button.setText("SHOW HAZARD MAP")
+        self.show_map_button.setText("Mapa zagrożeń")
         self.show_map_button.setGeometry(300, 100, 150, 30)
         self.show_map_button.clicked.connect(self.show_map)
         # .clicked.connect() przy przycisnieciu wola funkcje
@@ -184,7 +184,7 @@ class DetailWindow(QMainWindow):
             self.setStyleSheet("QPushButton{background:rgba(255, 255, 0, 0.5)}")
         elif "wysokie" in risk_level:
             self.setStyleSheet("QPushButton{background:rgba(255, 0, 0, 0.5)}")
-            
+
         # MUSI BYĆ WIDGET, ŻEBY DZIAŁAŁ LAYOUT
         wid = QtWidgets.QWidget(self)
         self.setCentralWidget(wid)
