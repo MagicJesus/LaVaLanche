@@ -23,7 +23,8 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         super(MapWindow, self).__init__()
         self.buttons = []
         self.dialogs = list()
-        self.setFixedSize(753, 454)
+        self.setFixedSize(753,
+                          454)
         self.setWindowTitle("LaVaLanche")
         self.set_image(parent_path + "/images/tlo.png")
 
