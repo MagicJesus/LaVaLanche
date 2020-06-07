@@ -1,40 +1,39 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {polish}{}
-\contentsline {chapter}{\numberline {1}Wprowadzenie}{3}%
-\contentsline {section}{\numberline {1.1}Cel}{3}%
-\contentsline {section}{\numberline {1.2}Opis problemu}{3}%
-\contentsline {section}{\numberline {1.3}Możliwe rozwiązanie}{3}%
-\contentsline {chapter}{\numberline {2}Stworzony model zjawiska}{5}%
-\contentsline {section}{\numberline {2.1}Opracowanie danych topograficznych}{5}%
-\contentsline {subsection}{\numberline {2.1.1}Format .las}{5}%
-\contentsline {subsection}{\numberline {2.1.2}Wybór cech}{6}%
-\contentsline {subsection}{\numberline {2.1.3}Triangulacja Delaunaya}{6}%
-\contentsline {section}{\numberline {2.2}Opracowanie danych pogodowych}{7}%
-\contentsline {subsection}{\numberline {2.2.1}Progi pogodowe}{7}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}Grubość pokrywy śnieżnej}{7}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}Zmiany temperatury}{7}%
-\contentsline {subsubsection}{\numberline {2.2.1.3}Opad deszczu}{7}%
-\contentsline {subsubsection}{\numberline {2.2.1.4}Prędkość wiatru}{7}%
-\contentsline {subsection}{\numberline {2.2.2}Pobieranie danych pogodowych}{8}%
-\contentsline {section}{\numberline {2.3}Narzędzia}{8}%
-\contentsline {section}{\numberline {2.4}Przygotowanie dokumentu}{8}%
-\contentsline {chapter}{\numberline {3}Symulacja zjawiska - implementacja i szczegóły techniczne}{9}%
-\contentsline {section}{\numberline {3.1}Wybór języka programowania}{9}%
-\contentsline {section}{\numberline {3.2}Narzędzia wykorzystywane w trakcie tworzenia projektu}{9}%
-\contentsline {subsection}{\numberline {3.2.1}Środowisko programowania}{9}%
-\contentsline {subsection}{\numberline {3.2.2}Wybrane biblioteki zewnętrzne języka Python}{10}%
-\contentsline {subsection}{\numberline {3.2.3}Usługi chmurowe Google Cloud Platform i dane pogodowe}{10}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}Harmonogram pobrania danych}{11}%
-\contentsline {chapter}{\numberline {4}Graficzny interfejs użytkownika}{13}%
-\contentsline {section}{\numberline {4.1}Pierwszy etap implementacji}{13}%
-\contentsline {subsection}{\numberline {4.1.1}Mapa Tatr}{13}%
-\contentsline {section}{\numberline {4.2}Etap drugi - główne okno aplikacji}{14}%
-\contentsline {section}{\numberline {4.3}Etap trzeci - interaktywna mapa Tatr}{15}%
-\contentsline {section}{\numberline {4.4}Etap czwarty - okna detaliczne}{16}%
-\contentsline {section}{\numberline {4.5}Obsługa aplikacji i jej działanie}{17}%
-\babel@toc {polish}{}
-\babel@toc {polish}{}
-\babel@toc {polish}{}
-\babel@toc {polish}{}
-\babel@toc {english}{}
-\babel@toc {polish}{}
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{5}
+\contentsline {section}{\numberline {1.1}Cel}{5}
+\contentsline {section}{\numberline {1.2}Opis problemu}{5}
+\contentsline {section}{\numberline {1.3}Mo\IeC {\.z}liwe rozwi\IeC {\k a}zanie}{5}
+\contentsline {chapter}{\numberline {2}Stworzony model zjawiska}{7}
+\contentsline {section}{\numberline {2.1}Opracowanie danych topograficznych}{7}
+\contentsline {subsection}{\numberline {2.1.1}Wyb\IeC {\'o}r cech}{7}
+\contentsline {subsection}{\numberline {2.1.2}Format .las}{7}
+\contentsline {subsection}{\numberline {2.1.3}Triangulacja Delaunaya}{8}
+\contentsline {subsection}{\numberline {2.1.4}Nachylenie powierzchni i ekspozycja s\IeC {\l }oneczna}{8}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Obliczenia dla nachylenia powierzchni}{9}
+\contentsline {subsubsection}{\numberline {2.1.4.2}Obliczenia dla ekspozycji s\IeC {\l }onecznej}{9}
+\contentsline {subsection}{\numberline {2.1.5}Pi\IeC {\k e}tro}{10}
+\contentsline {subsection}{\numberline {2.1.6}Wysoko\IeC {\'s}\IeC {\'c}}{10}
+\contentsline {subsection}{\numberline {2.1.7}Wkl\IeC {\k e}s\IeC {\l }e formy terenu}{10}
+\contentsline {section}{\numberline {2.2}Dane pogodowe}{10}
+\contentsline {subsection}{\numberline {2.2.1}Najwa\IeC {\.z}niejsze czynniki}{10}
+\contentsline {subsection}{\numberline {2.2.2}Pobieranie danych pogodowych}{10}
+\contentsline {section}{\numberline {2.3}Predykcja zagro\IeC {\.z}enia na podstawie danych}{11}
+\contentsline {subsection}{\numberline {2.3.1}Przyjmowane warto\IeC {\'s}ci}{11}
+\contentsline {subsection}{\numberline {2.3.2}Uzasadnienie przyj\IeC {\k e}tych warto\IeC {\'s}ci}{11}
+\contentsline {subsection}{\numberline {2.3.3}Syntetyczny zbi\IeC {\'o}r danych}{12}
+\contentsline {subsection}{\numberline {2.3.4}Drzewo decyzyjne}{13}
+\contentsline {chapter}{\numberline {3}Symulacja zjawiska - implementacja i szczeg\IeC {\'o}\IeC {\l }y techniczne}{15}
+\contentsline {section}{\numberline {3.1}Wyb\IeC {\'o}r j\IeC {\k e}zyka programowania}{15}
+\contentsline {section}{\numberline {3.2}Narz\IeC {\k e}dzia wykorzystywane w trakcie tworzenia projektu}{15}
+\contentsline {subsection}{\numberline {3.2.1}\IeC {\'S}rodowisko programowania}{15}
+\contentsline {subsection}{\numberline {3.2.2}Wybrane biblioteki zewn\IeC {\k e}trzne j\IeC {\k e}zyka Python}{16}
+\contentsline {subsection}{\numberline {3.2.3}Us\IeC {\l }ugi chmurowe Google Cloud Platform i dane pogodowe}{16}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Harmonogram pobrania danych}{18}
+\contentsline {chapter}{\numberline {4}Graficzny interfejs u\IeC {\.z}ytkownika}{19}
+\contentsline {section}{\numberline {4.1}Pierwszy etap implementacji}{19}
+\contentsline {subsection}{\numberline {4.1.1}Mapa Tatr}{19}
+\contentsline {section}{\numberline {4.2}Etap drugi - g\IeC {\l }\IeC {\'o}wne okno aplikacji}{20}
+\contentsline {section}{\numberline {4.3}Etap trzeci - interaktywna mapa Tatr}{21}
+\contentsline {section}{\numberline {4.4}Etap czwarty - okna detaliczne}{22}
+\contentsline {section}{\numberline {4.5}Obs\IeC {\l }uga aplikacji i jej dzia\IeC {\l }anie}{23}
