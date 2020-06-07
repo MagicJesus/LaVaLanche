@@ -4,3 +4,15 @@ __pycache__
 data/weather_data/
 maps
 /source/testfile.py
+*.aux
+docs/praca-blx.bib
+docs/praca.aux
+docs/praca.log
+docs/praca.pdf
+docs/praca.run.xml
+docs/praca.synctex.gz
+docs/praca.toc
+docs/rozdzial2.aux
+docs/rozdzial3.aux
+docs/rozdzial4.aux
+docs/rozdzial5.aux
