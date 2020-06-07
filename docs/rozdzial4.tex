@@ -27,7 +27,7 @@ Wykorzystano \textbf{PyCharm Community 2019.3}, rozbudowane, potężne i wyposa�
 \subsection{Wybrane biblioteki zewnętrzne języka Python}
 Jak wspomniano wcześniej, Python jest bardzo popularnym językiem przez co posiada wiele bibliotek zewnętrznych.
 
-Do implementacji symulacji naszego problemu wykorzystaliśmy następujące biblioteki zewnętrzne:
+Do implementacji symulacji problemu wykorzystano następujące biblioteki zewnętrzne:
 
 \begin{enumerate}
 	\item \textbf{PyQt5} - oferująca zestaw narzędzi do budowy graficznego interfejsu użytkownika
@@ -45,7 +45,7 @@ Do implementacji symulacji naszego problemu wykorzystaliśmy następujące bibli
 	\includegraphics[width=0.25\textwidth]{gcp_logo.png}
 	
 \end{wrapfigure}
-Kluczowym, z punktu widzenia naszego projektu, okazało się znalezienie rozwiązania problemu ciągłej aktualizacji danych pogodowych. Z powodu iż dane muszą być nieustannie aktualizowane co 8 godzin, jedna z naszych maszyn roboczych musiałaby pracować bez przerwy. Nie jest to w żadnym stopniu rozwiązanie optymalne. Zdecydowaliśmy się skorzystać z darmowego okresu próbnego oferowanego na platformie \textbf{Google Cloud Platform}. Oferta Google zawarła w sobie możliwość stworzenia instancji maszyny wirtualnej operującej na systemie \textbf{Debian 10 Buster} co otworzyło nam drogę do rozwiązania problemu ciągłej aktualizacji danych pogodowych.
+Kluczowym, z punktu widzenia projektu, okazało się znalezienie rozwiązania problemu ciągłej aktualizacji danych pogodowych. Z powodu iż dane muszą być nieustannie aktualizowane co 8 godzin, jedna z maszyn roboczych autorów musiałaby pracować bez przerwy. Nie jest to w żadnym stopniu rozwiązanie optymalne. Zdecydowano się na skorzystanie z darmowego okresu próbnego oferowanego na platformie \textbf{Google Cloud Platform}. Oferta Google zawarła w sobie możliwość stworzenia instancji maszyny wirtualnej operującej na systemie \textbf{Debian 10 Buster} co otworzyło drogę do rozwiązania problemu ciągłej aktualizacji danych pogodowych.
 \clearpage
 
 Dane pogodowe pobierane są co 8 godzin, o godzinach 00:00, 08:00 i 16:00 przy pomocy skryptu \textbf{weather\_conditions.py} który korzysta z biblioteki \textbf{pyowm}
@@ -84,12 +84,7 @@ Dane pogodowe pobierane są co 8 godzin, o godzinach 00:00, 08:00 i 16:00 przy p
  data.write(str(observation[0].get_weather().get_snow()) + "\n")
  data.write(str(observation[0].get_weather().get_wind('meters_sec')) + "\n")
  data.write(str(observation[0].get_weather().get_rain()) + "\n")
- 
- with open(path) as file:
- 	file.readline()
- 	for line in file:
- 		get_weather_conditions(line.rstrip()[0:16])
- 
+
 \end{lstlisting}
 \clearpage
 \subsubsection{Harmonogram pobrania danych}

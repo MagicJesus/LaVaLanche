@@ -25,9 +25,13 @@
 \contentsline {subsection}{\numberline {3.2.2}Wybrane biblioteki zewnętrzne języka Python}{10}%
 \contentsline {subsection}{\numberline {3.2.3}Usługi chmurowe Google Cloud Platform i dane pogodowe}{10}%
 \contentsline {subsubsection}{\numberline {3.2.3.1}Harmonogram pobrania danych}{12}%
-\contentsline {chapter}{\numberline {4}DuPadUpAdUPa czyli krócej GUI SRUI komutopoczebne?}{13}%
-\contentsline {section}{\numberline {4.1}gruboczłowieku}{13}%
-\contentsline {section}{\numberline {4.2}Liwko Liwko skocz po piwko}{13}%
+\contentsline {chapter}{\numberline {4}Graficzny interfejs użytkownika}{13}%
+\contentsline {section}{\numberline {4.1}Pierwszy etap implementacji}{13}%
+\contentsline {subsection}{\numberline {4.1.1}Mapa Tatr}{13}%
+\contentsline {section}{\numberline {4.2}Etap drugi - główne okno aplikacji}{14}%
+\contentsline {section}{\numberline {4.3}Etap trzeci - interaktywna mapa Tatr}{15}%
+\contentsline {section}{\numberline {4.4}Etap czwarty - okna detaliczne}{16}%
+\contentsline {section}{\numberline {4.5}Obsługa aplikacji i jej działanie}{17}%
 \babel@toc {polish}{}
 \babel@toc {polish}{}
 \babel@toc {polish}{}
