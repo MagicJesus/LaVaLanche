@@ -2,10 +2,10 @@ This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: praca.aux
 The style file: biblatex.bst
-A level-1 auxiliary file: rozdzial3.aux
-A level-1 auxiliary file: rozdzial1.aux
 A level-1 auxiliary file: rozdzial2.aux
-A level-1 auxiliary file: tests.aux
+A level-1 auxiliary file: rozdzial3.aux
+A level-1 auxiliary file: rozdzial4.aux
+A level-1 auxiliary file: rozdzial5.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -25,44 +25,44 @@ Database file #2: bibliografia.bib
 Biblatex version: 3.8
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 4 entries,
+You've used 1 entry,
             6268 wiz_defined-function locations,
-            1205 strings with 8931 characters,
-and the built_in function-call counts, 13726 in all, are:
-= -- 876
-> -- 355
-< -- 137
-+ -- 284
-- -- 86
-* -- 625
-:= -- 1138
+            1182 strings with 8619 characters,
+and the built_in function-call counts, 1205 in all, are:
+= -- 58
+> -- 52
+< -- 1
++ -- 37
+- -- 22
+* -- 24
+:= -- 275
 add.period$ -- 0
-call.type$ -- 4
-change.case$ -- 111
+call.type$ -- 1
+change.case$ -- 0
 chr.to.int$ -- 30
-cite$ -- 6
-duplicate$ -- 1477
-empty$ -- 1307
-format.name$ -- 137
-if$ -- 3082
+cite$ -- 0
+duplicate$ -- 11
+empty$ -- 87
+format.name$ -- 0
+if$ -- 266
 int.to.chr$ -- 0
-int.to.str$ -- 11
+int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 91
-num.names$ -- 214
-pop$ -- 1010
+newline$ -- 20
+num.names$ -- 0
+pop$ -- 40
 preamble$ -- 1
-purify$ -- 120
+purify$ -- 0
 quote$ -- 0
-skip$ -- 748
+skip$ -- 67
 stack$ -- 0
-substring$ -- 1031
-swap$ -- 412
-text.length$ -- 68
+substring$ -- 110
+swap$ -- 1
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 124
+type$ -- 22
 warning$ -- 0
-while$ -- 152
+while$ -- 45
 width$ -- 0
-write$ -- 88
+write$ -- 20
