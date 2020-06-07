@@ -49,52 +49,39 @@ Kluczowym, z punktu widzenia projektu, okazało się znalezienie rozwiązania pr
 \clearpage
 
 Dane pogodowe pobierane są co 8 godzin, o godzinach 00:00, 08:00 i 16:00 przy pomocy skryptu \textbf{weather\_conditions.py} który korzysta z biblioteki \textbf{pyowm}
-\begin{lstlisting}[language=Python]
+\begin{lstlisting}[language=Python,caption=pseudokod realizujący pobieranie danych pogodowych]
  weather_conditions.py
  
- #!/usr/bin/python2.7
  import pyowm
- import os
- import time
- import tarfile
- #ZMIENNA path REPREZENTUJE ODPOWIEDNIE ŚCIEŻKI DO PLIKÓW
- def get_weather_conditions(map_name):
+
  # UTWÓRZ ODPOWIEDNI FOLDER JEŻELI NIE ISTNIEJE
- if os.path.isdir(path):
- 	pass
- else:
- 	path = path
- os.mkdir(path)
- # WSPÓŁRZĘDNE ODPOWIEDNIEGO OBSZARU I CZAS POBRANIA DANYCH
+ if dir_not_exists:
+ 	create_dir
+ 	
+ # WSPÓŁRZĘDNE ODPOWIEDNIEGO OBSZARU
  coords = extract_coords(map_name)
- czas_pomiaru = str(time.ctime()).split(" ")
+ 
  # POBRANIE DANYCH POGODOWYCH
- owm = pyowm.OWM("7202a85833f71127c0a0b4fefc86ea2a")
- observation = owm.weather_around_coords(float(coords["N_lat"]), float(coords["W_long"]))
+ owm = pyowm.OWM("API_KEY")
+ observation = owm.weather_around_coords(N_lat, W_long))
  
  # USUWANIE NAJSTARSZEGO POMIARU I ZASTĄPIENIE GO NOWYM
- data = os.listdir(path)
- data.sort()
- if len(data) >= 6:
- 	os.remove(path)
+ if measurement_count == 6:
+ 	delete(oldest_measurement)
+ 	
  # STWÓRZ PLIK ZAWIERAJĄCY AKTUALNE DANE POGODOWE
- filename = str(observation[0].get_weather().get_reference_time('date'))[0:10]
- data = open(path, "w+")
- data.write(str(observation[0].get_weather().get_temperature('celsius')['temp']) + "\n")
- data.write(str(observation[0].get_weather().get_snow()) + "\n")
- data.write(str(observation[0].get_weather().get_wind('meters_sec')) + "\n")
- data.write(str(observation[0].get_weather().get_rain()) + "\n")
-
+ data_file.create(path_to_file)
+ data_file.write(observation.weather_data)
 \end{lstlisting}
-\clearpage
+
 \subsubsection{Harmonogram pobrania danych}
 Za odpowiedni czas pobrania danych odpowiada narzędzie uniksopodobnych systemów operacyjnych \textbf{cron}. Jest to realizowane za pomocą odpowietnich wpisów w pliku \textbf{crontab}
 \begin{verbatim}
-	0 6 * * * /usr/bin/python /home/marekjachym99/lavalanche/weather_conditions.py
+	0 6 * * * /usr/bin/python /path_to_script/weather_conditions.py
 
-	0 14 * * * /usr/bin/python /home/marekjachym99/lavalanche/weather_conditions.py
+	0 14 * * * /usr/bin/python /path_to_script/weather_conditions.py
 	
-	0 22 * * * /usr/bin/python /home/marekjachym99/lavalanche/weather_conditions.py	
+	0 22 * * * /usr/bin/python /path_to_script/weather_conditions.py	
 \end{verbatim}
 
 

@@ -19,6 +19,19 @@ Stwierdzono, że główne okno aplikacji powinno zawierać jak najmniej zbędnyc
 	\caption{Okno główne aplikacji \\ źródło: http://podrozniczeretrospekcje.blogspot.com}
 \end{figure}
 \endgroup
+
+\begin{lstlisting}[language=Python,caption=Fragment pseudokodu realizującego okno główne]
+	class MainWindow(QMainWindow):
+		def __init__(self):
+			super(MainWindow, self).__init__()
+			self.setFixedSize(width, height)
+			self.draw_labels()
+			self.draw_buttons()
+			self.set_image(path_to_image)
+			self.show()
+	
+\end{lstlisting}
+
 \clearpage
 \section{Etap trzeci - interaktywna mapa Tatr}
 Wykorzystując otrzymaną wcześniej mapę Tatr, postanowiono nałożyć na poszczególne kwadraty przyciski z których każdy odnosi się do zawartego pod nim obszaru. 
@@ -45,9 +58,9 @@ Założono, że zagrożenie lawiną obliczane będzie tylko dla obszarów znajdu
 \section{Etap czwarty - okna detaliczne}
 Ostatni, lecz nie mniej ważny niż pozostałe etap, zakładał implementację okien detalicznych dla każdego obszaru autonomicznego tj. obszaru reprezentowanego przez jeden plik .las. W oknie detalicznym znajdują się takie dane jak:
 \begin{enumerate}[label=-]
-	\item Stopień ryzyka
-	\item Charakterystyczne obiekty na danym terenie np. szczyty
-	\item Cechy zwiększające zagrożenie
+	\item stopień ryzyka
+	\item charakterystyczne obiekty na danym terenie np. szczyty
+	\item cechy zwiększające zagrożenie
 \end{enumerate}
 
 \begingroup
