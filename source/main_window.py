@@ -36,10 +36,10 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         self.get_topo_objects(parent_path + "/data/obiekty_scraped.txt")
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
-        qtRectangle = self.frameGeometry()
-        centerPoint = QDesktopWidget().availableGeometry().center()
-        qtRectangle.moveCenter(centerPoint)
-        self.move(qtRectangle.topLeft())
+        qt_rectangle = self.frameGeometry()
+        center_point = QDesktopWidget().availableGeometry().center()
+        qt_rectangle.moveCenter(center_point)
+        self.move(qt_rectangle.topLeft())
 
     def get_topo_objects(self, objects_path):
         f = open(objects_path,
