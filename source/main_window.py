@@ -1,5 +1,3 @@
-# TODO: ujednolicić nazwy (komentarze po polsku, ZMIENNE I NAZWY PLIKÓW PO ANGIELSKU)
-
 import os
 import sys
 from pathlib import Path
@@ -7,7 +5,6 @@ from random import randint
 from merge_predict import *
 from weather_analysis import overall_weather_analysis
 import get_weather_data_from_server
-from las_processing import extract_data
 import merge_predict
 
 from PyQt5 import QtWidgets
@@ -16,17 +13,15 @@ from PyQt5.QtGui import QImage, QPalette, QBrush, QFont
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel, QDesktopWidget
 
 parent_path = str(Path(os.getcwd()).parent)
-# print(parent_path)
+
 
 class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której beda odnośniki do każdej z map
     def __init__(self):
         super(MapWindow, self).__init__()
         self.buttons = []
         self.dialogs = list()
-        # self.setGeometry(0, 0, 0, 0)
         self.setFixedSize(753, 454)
         self.setWindowTitle("LaVaLanche")
-        # self.set_image("..\\images\\tlo.png")
         self.set_image(parent_path + "/images/tlo.png")
 
         # ustalamy jakie są cechy
@@ -38,13 +33,13 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
         self.get_topo_objects(parent_path + "/data/obiekty_scraped.txt")
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
-        qtRectangle = self.frameGeometry()
-        centerPoint = QDesktopWidget().availableGeometry().center()
-        qtRectangle.moveCenter(centerPoint)
-        self.move(qtRectangle.topLeft())
+        qt_rectangle = self.frameGeometry()
+        center_point = QDesktopWidget().availableGeometry().center()
+        qt_rectangle.moveCenter(center_point)
+        self.move(qt_rectangle.topLeft())
 
     def get_topo_objects(self, objects_path):
-        f = open(objects_path, 'r', encoding = "utf-8")
+        f = open(objects_path, 'r', encoding="utf-8")
         data = f.readlines()
 
         self.topo_objects = {}
@@ -54,11 +49,11 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
 
             if l[0] not in self.topo_objects:
                 self.topo_objects[l[0]] = [l[1]]
-            elif len(self.topo_objects[l[0]]) <= 7: # wystarczy 7 nazw obiektów, czasami jest dużo więcej
+            elif len(self.topo_objects[l[0]]) <= 7:  # wystarczy 7 nazw obiektów, czasami jest dużo więcej
                 self.topo_objects[l[0]].append(l[1])
 
     def get_features_names(self, features_names_path):
-        f = open(features_names_path, 'r', encoding = "utf-8")
+        f = open(features_names_path, 'r', encoding="utf-8")
         self.features_names = f.readline().split(',')
 
     def set_image(self, img_path):
@@ -76,23 +71,23 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
 
             records = add_weather(add_season(load_topo_data()), overall_weather_analysis())
             risks = get_risks(records)
-            nazwy_map = open(parent_path + "/data/maps_sequence.txt")
+            map_names = open(parent_path + "/data/maps_sequence.txt")
 
             for line in buttonmap:
                 if draw:
-                    mapa = nazwy_map.readline()
+                    map_name = map_names.readline()
                     coords = line.rstrip().split(",")
                     for i in range(0, 2):
                         coords[i] = int(coords[i])
                     button = QPushButton(self)
-                    risk_level = risks[mapa.rstrip()]
+                    risk_level = risks[map_name.rstrip()]
                     self.risk_color(risk_level, button)
                     button.setGeometry(coords[0], coords[1], button_width, button_height)
-                    button.clicked.connect(lambda checked, arg1 = mapa, arg2 = risk_level,
-                    arg3 = records[mapa.rstrip()], arg4 = self.features_names
-                                : self.show_details(arg1, arg2, arg3, arg4))
+                    button.clicked.connect(lambda checked, arg1=map_name, arg2=risk_level,
+                                           arg3=records[map_name.rstrip()], arg4=self.features_names
+                                           : self.show_details(arg1, arg2, arg3, arg4))
                 else:
-                    if "M-34-101-A-b-3-1-1" in nazwy_map.readline():
+                    if "M-34-101-A-b-3-1-1" in map_names.readline():
                         draw = True
 
     def risk_color(self, risk_level, button):
@@ -113,22 +108,20 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
 class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
     def __init__(self):
         super(MainWindow, self).__init__()
-        # self.setGeometry(500, 500, 753, 454)
         self.setFixedSize(753, 454)
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
-        qtRectangle = self.frameGeometry()
-        centerPoint = QDesktopWidget().availableGeometry().center()
-        qtRectangle.moveCenter(centerPoint)
-        self.move(qtRectangle.topLeft())
+        qt_rectangle = self.frameGeometry()
+        center_point = QDesktopWidget().availableGeometry().center()
+        qt_rectangle.moveCenter(center_point)
+        self.move(qt_rectangle.topLeft())
 
         self.setWindowTitle("LaVaLanche")
         self.dialogs = list()
         self.draw_labels()
         self.draw_buttons()
-        # self.set_image("..\\images\\main_bg.jpg")
         self.set_image(parent_path + "/images/main_bg.jpg")
-        # AKTUALIZACJA DANYCH POGODOWYCH
+
         self.show()
 
     def draw_buttons(self):
@@ -167,7 +160,6 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
 class DetailWindow(QMainWindow):
     def __init__(self, map_name, topo_objects, risk_level, features, features_names):
         super(DetailWindow, self).__init__()
-        # self.setGeometry(100, 100, 450, 300)
         self.setFixedSize(400, 500)
         self.setWindowTitle("Szczegóły dla obszaru " + map_name.rstrip())
 
@@ -185,14 +177,12 @@ class DetailWindow(QMainWindow):
         self.setCentralWidget(wid)
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
-        qtRectangle = self.frameGeometry()
-        centerPoint = QDesktopWidget().availableGeometry().center()
-        qtRectangle.moveCenter(centerPoint)
-        self.move(qtRectangle.topLeft())
+        qt_rectangle = self.frameGeometry()
+        center_point = QDesktopWidget().availableGeometry().center()
+        qt_rectangle.moveCenter(center_point)
+        self.move(qt_rectangle.topLeft())
 
-        # self.map_data = extract_data(map_name.rstrip() + ".las")  # funkcja uzywajaca laspy do otwarcia mapy
         # wypisz obiekty znajdujące się na obszarze
-
         self.objects = QLabel(self)
         self.objects.setText("OBIEKTY TOPOGRAFICZNE: \n" + ''.join(topo_objects))
         self.objects.setAlignment(Qt.AlignCenter)
@@ -235,10 +225,10 @@ class ImageWindow(QMainWindow):
         self.show()
 
         # PONIŻEJ WYŚRODKOWANIE OKNA
-        qtRectangle = self.frameGeometry()
-        centerPoint = QDesktopWidget().availableGeometry().center()
-        qtRectangle.moveCenter(centerPoint)
-        self.move(qtRectangle.topLeft())
+        qt_rectangle = self.frameGeometry()
+        center_point = QDesktopWidget().availableGeometry().center()
+        qt_rectangle.moveCenter(center_point)
+        self.move(qt_rectangle.topLeft())
 
     def set_image(self, img_path):
         oimage = QImage(img_path)
@@ -246,6 +236,7 @@ class ImageWindow(QMainWindow):
         palette = QPalette()
         palette.setBrush(QPalette.Window, QBrush(simage))
         self.setPalette(palette)
+
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

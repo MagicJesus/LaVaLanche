@@ -4,6 +4,7 @@ import re
 import time
 from pathlib import Path
 
+
 def single_weather_analysis(map_name):
     regex_pattern = '[0-9]+\.?[0-9]*'
     path = "../data/weather_data/" + map_name[0:16]
@@ -22,7 +23,7 @@ def single_weather_analysis(map_name):
         rain.append(handle.readline().rstrip())
         handle.close()
 
-    # temperature stats
+    # Przetwarzanie danych
     mean = []
     for t in temperature:
         mean.append(float(t))
@@ -65,10 +66,10 @@ def single_weather_analysis(map_name):
 def overall_weather_analysis():
     path = str(Path(os.getcwd()).parent) + "/data/maps_sequence.txt"
     f = open(path, 'r')
-    mapy = f.readlines()
+    maps = f.readlines()
 
     weather_records = {}
 
-    for m in mapy:
+    for m in maps:
         weather_records[m[0:18]] = single_weather_analysis(m)
     return weather_records
