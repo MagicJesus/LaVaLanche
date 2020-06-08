@@ -97,7 +97,8 @@ class MapWindow(QMainWindow):  # klasa reprezentujaca okienko z mapa na której 
 
     def risk_color(self, risk_level, button):
         if "brak" in risk_level:
-            button.setStyleSheet("QPushButton{background:rgba(76, 175, 80, 0.25)}")
+            button.setStyleSheet("QPushButton{background:rgba(76, 175, 80, 0.25)}"
+                                 "QPushButton:hover{background:rgba(76, 175, 80, 0.75)}")
         elif "niskie/umiarkowane" in risk_level:
             button.setStyleSheet("QPushButton{background:rgba(255, 255, 0, 0.25)}")
         elif "wysokie" in risk_level:
@@ -161,12 +162,6 @@ class MainWindow(QMainWindow):  # klasa reprezentujaca glowne okno aplikacji
         mapa = MapWindow()  # tworzenie instancji klasy MapWindow()
         self.dialogs.append(mapa)  # dodanie okna z mapą do dialogów głównego okna MainWindow
         mapa.show()
-
-    def klikniecie(self):
-        print("dupa")
-
-    def closeEvent(self):
-        self.destroy()
 
 
 class DetailWindow(QMainWindow):
